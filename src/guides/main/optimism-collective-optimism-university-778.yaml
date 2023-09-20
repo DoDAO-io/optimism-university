@@ -1,6 +1,6 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2023-09-20T11:23:00.295Z'
+created: '2023-09-20T11:24:25.470Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
@@ -57,7 +57,7 @@ steps:
       retroactive funding, the Optimism Collective aims to support projects and
       communities that are building for the common good and creating a
       sustainable future for Ethereum.
-    name: Overview
+    name: Overview- Optimism Collective
     stepItems: []
     uuid: b53f9454-8a4c-4417-acca-7c047a04e519
   - content: >-
@@ -191,7 +191,7 @@ steps:
       its smooth functioning:
 
 
-      ### Governance
+      ### Governing Body
 
       The foundation is governed by a Board of Directors, which currently
       consists of Abbey Titcomb, Ben Jones, Brian Avello, Eva Beylin, and Jing.
@@ -232,6 +232,7 @@ steps:
 
       **Treasury Appropriations**
 
+
       The amount of OP tokens available to the foundation for disbursement is
       subject to an annual vote, starting from 2023. This ensures that the
       foundation's financial resources are allocated in a manner that aligns
@@ -239,6 +240,7 @@ steps:
 
 
       **Director Removal**
+
 
       The governance has the authority to remove a member of the foundation's
       Board of Directors from service. This power ensures that the board members
@@ -248,6 +250,7 @@ steps:
 
 
       **Rights Protections**
+
 
       The Token House, representing the OP token holders, has the power to veto
       any proposed changes to the foundation's governing documents that would
