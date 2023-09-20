@@ -1,0 +1,145 @@
+categories: []
+content: A Comprehensive Guide about Optimism Collective
+created: '2023-09-20T11:11:12.231Z'
+guideType: onboarding
+key: optimism-collective-optimism-university-778
+name: Optimism Collective
+publishStatus: Live
+steps:
+  - content: >-
+      The Optimism Collective is a revolutionary concept that aims to reshape
+      the way we organize and govern ourselves in the digital age. In the
+      current cyberspace, we face a significant market failure because the
+      economic rules that govern it were designed for the physical world.
+      However, cyberspace is built on information, which can be freely
+      replicated, making public goods crucial for its growth. Unfortunately, our
+      markets are not equipped to nurture this growth and reward the creators of
+      these public goods for their impact.
+
+
+      The Optimism Collective seeks to change this by introducing a new model of
+      digital democratic governance. It is a coalition of communities,
+      companies, and citizens who have come together with a shared goal: to
+      reward positive impact with profit. This principle, impact=profit, serves
+      as their guiding light, motivating the creation of a more productive and
+      empathetic economy. The Collective aims to dispel the misconception that
+      public goods cannot be profitable and consistently provides retroactive
+      incentives for public goods that benefit Optimism, Ethereum, and the
+      Collective as a whole.
+
+
+      By incentivizing the creation of public goods, the Optimism Collective
+      propels the growth of the decentralized ecosystem. As the Collective
+      expands, so does the scope of what falls under the umbrella of public
+      goods. They envision a future where the Collective extends beyond the
+      digital realm and into the physical world, reliably providing for basic
+      human needs at scale. While this may seem idealistic today, they approach
+      it with an overwhelming sense of optimism and a belief that it will become
+      commonplace in the future.
+
+
+      The Optimism Collective operates on the belief that public goods and
+      profitability can go hand in hand. Often, public goods are underfunded
+      because the incentives are not properly aligned, forcing individuals and
+      organizations to choose between profit and the common good. However, the
+      Collective is bound by a mutually beneficial pact, where impact equals
+      profit. They deploy a new model called retroactive public goods funding,
+      which rewards those who create or sustain public goods. This funding
+      mechanism is advantageous because it is easier to identify what is useful
+      and who built it, rather than predicting future usefulness and the best
+      team to build it.
+
+
+      Retroactive public goods funding also encourages initial investment in
+      public good development by offering the possibility of an eventual exit
+      payment. This mirrors the way investors fund startups today, with the
+      potential for an IPO or buyout. By aligning incentives and providing
+      retroactive funding, the Optimism Collective aims to support projects and
+      communities that are building for the common good and creating a
+      sustainable future for Ethereum.
+    name: Overview
+    stepItems: []
+    uuid: b53f9454-8a4c-4417-acca-7c047a04e519
+  - content: >-
+      The Optimism Collective employs an innovative and adaptable approach to
+      governance, continually refining its system to ensure its long-term
+      viability. The Collective's model of digital democratic governance
+      comprises of two chambers: the Token House and the Citizens' House.
+
+
+      <table>
+
+      <thead>
+        <tr>
+          <th>Factors</th>
+          <th>Token House</th>
+          <th>Citizen House</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Comprises of</td>
+          <td>OP holders &amp; their delegates</td>
+          <td>Optimism citizens</td>
+        </tr>
+        <tr>
+          <td>Responsibility</td>
+          <td>Distribution of project incentives, protocol upgrades, and treasury funds.</td>
+          <td>Allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF).</td>
+        </tr>
+        <tr>
+          <td>Membership Criteria</td>
+          <td>By acquiring OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism's ecosystem.</td>
+          <td>Citizens are chosen via entries in the AttestationStation smart contract (builders, users, and community members)</td>
+        </tr>
+        <tr>
+          <td>New Member Selection Criteria</td>
+          <td>A Council Lead was selected by the Foundation and 8 Reviewers were elected by the Token House in a Special Voting Cycle.</td>
+          <td>For RetroPGF Round 2, badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above</td>
+        </tr>
+        <tr>
+          <td>Grant Procedure</td>
+          <td>Each Cycle will have three periods, a Submission Period, a Review Period, and a Decision Period.</td>
+          <td>The grant procedure involves badgeholder selection, project nominations, project profile creation, and the voting phase, with specific timelines for each stage.</td>
+        </tr>
+        <tr>
+          <td>Grant Application Example</td>
+          <td><a href="https://gov.optimism.io/t/ready-builders-cycle-11-integration-of-optimism-into-airgap-vault-airgap-wallet-and-airgap-coin-lib/5402" target="_blank" rel="noopener noreferrer">AirGap Wallet</a><br><a href="https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538" target="_blank" rel="noopener noreferrer">Another World</a></td>
+          <td><a href="https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21" target="_blank" rel="noopener noreferrer">Protocol Guild</a><br><a href="https://app.optimism.io/retropgf-discovery/0xa142aB9eab9264807A41F0E5cbDab877D204E233" target="_blank" rel="noopener noreferrer">L2BEAT</a></td>
+        </tr>
+        <tr>
+          <td>Grant Reviewers</td>
+          <td>The Grants Council consists of two Sub-Committees: Builders and Growth Experiments. (9 Reviewers in Season 4)</td>
+          <td>In RetroPGF Round 2, 69 out of the 71 selected badgeholders – our early “citizens” – voted on how to allocate 10M OP to projects.</td>
+        </tr>
+        <tr>
+          <td>Power</td>
+          <td>The voting power in this chamber is transferable.</td>
+          <td>Citizenship is conferred by “soulbound,” non-transferable NFTs.</td>
+        </tr>
+        <tr>
+          <td>Voting Power</td>
+          <td>Token voting is distributed widely and permissionless.</td>
+          <td>Uses a one-person, one-vote system.</td>
+        </tr>
+        <tr>
+          <td>Voting Cycles</td>
+          <td>Proposals are reviewed over a five week voting cycle.</td>
+          <td>RetroPGF rounds occur in intervals and according to a predefined process, which currently includes phases for scoping, nominations, profile creation, voting, and disbursements.</td>
+        </tr>
+        <tr>
+          <td>Funded Project Examples</td>
+          <td><a href="http://www.atomiclinks.xyz/" target="_blank" rel="noopener noreferrer">Atomic Links</a><br><a href="https://www.jiffyscan.xyz/" target="_blank" rel="noopener noreferrer">Jiffyscan</a></td>
+          <td><a href="https://soliditylang.org/" target="_blank" rel="noopener noreferrer">Solidity</a><br><a href="https://geth.ethereum.org/" target="_blank" rel="noopener noreferrer">geth</a></td>
+        </tr>
+      </tbody>
+
+      </table>
+    name: Governance Structure
+    stepItems: []
+    uuid: ad6f7d3b-548b-4493-807e-7940c1edf19a
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: b009a171-21bc-44af-9d5a-c027dc688951
+version: 1
