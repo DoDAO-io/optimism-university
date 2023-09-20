@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-20T07:18:48.107Z'
+created: '2023-09-20T07:20:57.618Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -41,21 +41,20 @@ steps:
       impact you have made on the Optimism Collective. So, make sure to fill out
       your application diligently and adhere to the rules to increase your
       chances of being eligible for the rewards.
-
-
-      ### Process Overview
-
-
-      **Project Applications:** September 19th - October 23rd
-
-
-      **Voting:** November 6th - December 7th
-
-
-      **Results & Token Disbursement:** Starting early January
     name: About RetroPGF 3
     stepItems: []
     uuid: be2405a5-af2d-412d-b92f-762a5e13f4a8
+  - content: |-
+      ### Process Overview
+
+      **Project Applications:** September 19th - October 23rd
+
+      **Voting:** November 6th - December 7th
+
+      **Results & Token Disbursement:** Starting early January
+    name: Timeline of RetroPGf 3
+    stepItems: []
+    uuid: b0c2cf79-b8a8-436c-89fb-7f7822251fb2
   - content: >-
       In the Optimism ecosystem, there are various types of contributors who are
       eligible for RetroPGF, a program that rewards impactful work. Whether you
