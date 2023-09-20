@@ -1,0 +1,47 @@
+id: retropgf-round-2-optimism-university
+name: RetroPGF Round 2
+excerpt: Captures a comprehensive timeline of the entire procedure of RetroPGF Round 2
+content: >-
+  This process and timeline outline provides a clear overview of the key stages
+  and dates involved in the project nominations, project profile creation and
+  voting process for RetroPGF Round 2.
+publishStatus: ''
+events:
+  - title: Project Nominations
+    uuid: 09fd013d-a2ab-4fb1-9647-4f0e284c2d74
+    date: 2023-01-17T16:43:57.000Z
+    summary: >-
+      The nomination period for projects occurred from January 17th to January
+      31st 2023. During this time frame, anyone interested in nominating a
+      project could do so on the forum. Nomination required providing the
+      project's name, an impact description, and a link to either Github or
+      Twitter where more information about the project could be found.
+    fullDetails: ''
+    moreLink: https://community.optimism.io/docs/governance/retropgf-2/#
+  - title: Project Profile Creation
+    uuid: 965f271f-1a42-4625-b37c-252d464b867a
+    date: 2023-02-07T16:46:45.000Z
+    summary: >-
+      The project profile creation phase took place from February 7th to
+      February 21st 2023. During this period, nominated projects were required
+      to create a profile. In the project profile, projects had to provide
+      general information about their project, as well as a detailed description
+      of the project and its potential impact. The information provided by
+      projects was made available for viewing on the RetroPGF discovery page.
+    fullDetails: ''
+    moreLink: https://community.optimism.io/docs/governance/retropgf-2/
+  - title: Voting
+    uuid: 1bc2337d-4617-445c-86c8-ad8edd33403d
+    date: 2023-03-07T16:48:14.000Z
+    summary: >-
+      The voting phase occurred from March 7th to March 21st 2023. Badgeholders
+      were provided with a badgeholder manual to guide them through the voting
+      process. Badgeholders were asked to evaluate and cast their votes on the
+      nominated projects using a voting form. The voting results determined how
+      funding was to be allocated among the nominated projects.
+    fullDetails: ''
+    moreLink: https://community.optimism.io/docs/governance/retropgf-2/
+admins: []
+tags: []
+priority: 50
+created: '2023-09-20T16:42:53.687Z'
