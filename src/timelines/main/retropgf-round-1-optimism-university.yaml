@@ -1,0 +1,33 @@
+id: retropgf-round-1-optimism-university
+name: 'RetroPGF Round 1 '
+excerpt: Captures a comprehensive timeline of the entire procedure of RetroPGF Round 1
+content: >-
+  This process and timeline outline provides a clear overview of the key stages
+  and dates involved in the project nominations, and voting process for RetroPGF
+  Round 1. 
+publishStatus: ''
+events:
+  - title: Project Nominations
+    uuid: a7213cd7-f9ae-446a-80e7-b661a2807d0c
+    date: 2021-10-05T16:33:15.000Z
+    summary: >-
+      The nomination period for projects took place from October 5th to October
+      21st 2021. During this time frame, anyone interested in nominating a
+      project could do so via a form submission.The nomination form required
+      information including the project name, the name of the project lead, the
+      project lead's email address, and a description of the project's impact.
+    fullDetails: ''
+  - title: Voting
+    uuid: 860700d4-8016-4453-8df8-fc4f1bfbd4ba
+    date: 2021-10-24T16:37:39.000Z
+    summary: >-
+      The voting phase occurred from October 24th to November 1st 2021.
+      Badgeholders were provided with a badgeholder manual to help them
+      understand their role and responsibilities in the voting process. The
+      votes from the badgeholders would ultimately determine how retrofunding
+      would be distributed among the nominated projects.
+    fullDetails: ''
+admins: []
+tags: []
+priority: 50
+created: '2023-09-20T16:28:04.115Z'
