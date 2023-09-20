@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-20T07:20:57.618Z'
+created: '2023-09-20T12:18:08.341Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -136,7 +136,8 @@ steps:
       specifically benefits from it. Whether it's a consumer app, an
       infrastructure project, or a community tool, emphasize the positive
       outcomes and the value it brings to Optimism. By clearly articulating the
-      impact, you can demonstrate the significance of your contributions. 
+      impact, you can demonstrate the significance of your contributions. Make
+      sure to add links to resources that showcase your work.
 
 
       ### Impact Metrics
@@ -147,15 +148,10 @@ steps:
       showcase how your contributions have supported the development and
       adoption of Optimism. Ensure that these metrics are verifiable by
       including links to data sources that badgeholders can use to verify them.
-
-
-      ### Success Metrics
-
       If you are choosing a category for your application, make sure to connect
       your impact description and metrics to the success metrics of that
       category. This will help badgeholders understand how your contributions
-      have driven towards the overall success of Optimism. Aligning your work
-      with the goals of the category will strengthen your application.
+      have driven towards the overall success of Optimism. 
 
 
       ### Grants & Funding
@@ -170,11 +166,9 @@ steps:
     stepItems: []
     uuid: c4ef0cf2-6a06-4f82-8833-d24b025b84f3
   - content: >-
-      **Link:**
       https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4
 
 
-      **Link:**
       https://community.optimism.io/docs/governance/retropgf-3/#project-applications
     name: References
     stepItems: []
