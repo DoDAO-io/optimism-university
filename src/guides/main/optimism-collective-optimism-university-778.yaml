@@ -1,6 +1,6 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2023-09-20T11:32:37.767Z'
+created: '2023-09-20T12:21:25.886Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
@@ -268,6 +268,33 @@ steps:
     name: Governance Proposals
     stepItems: []
     uuid: c5dbc5d8-bf0f-4a73-a30f-7e890fdca84b
+  - content: >+
+      https://community.optimism.io/docs/governance/#
+
+
+      https://www.optimism.io/vision
+
+
+      https://blog.cryptostars.is/optimism-collective-8b6f829b7fc0
+
+
+      https://optimism.mirror.xyz/gQWKlrDqHzdKPsB1iUnI-cVN3v0NvsWnazK7ajlt1fI
+
+
+      https://community.optimism.io/docs/governance/#token-house
+
+
+      https://community.optimism.io/docs/governance/#citizens-house
+
+
+      https://coinpaper.com/544/a-quick-guide-to-the-optimism-governance-structure
+
+
+      https://community.optimism.io/docs/governance/what-is-the-optimism-foundation/
+
+    name: References
+    stepItems: []
+    uuid: 49618aaa-63cb-4a58-af2c-56cd3bc43a64
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: optimism-collective-optimism-university-778
