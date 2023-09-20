@@ -26,42 +26,48 @@
       "uuid": "62c0e5d5-3dc6-4084-8d50-be7e133554bd",
       "date": "2023-01-17T18:16:31.000Z",
       "summary": "The nomination period for projects occurred from January 17th to January 31st 2023. During this time frame, anyone interested in nominating a project could do so on the forum. Nomination required providing the project's name, an impact description, and a link to either Github or Twitter where more information about the project could be found.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-2/"
     },
     {
       "title": "Project Profile Creation for Round 2",
       "uuid": "210badb5-bf22-460e-b305-2b92ca82b8f0",
       "date": "2023-02-07T18:21:28.000Z",
       "summary": "The project profile creation phase took place from February 7th to February 21st 2023. During this period, nominated projects were required to create a profile. In the project profile, projects had to provide general information about their project, as well as a detailed description of the project and its potential impact. The information provided by projects was made available for viewing on the RetroPGF discovery page.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-2/"
     },
     {
       "title": "Voting for Round 2",
       "uuid": "1bb9d632-31c8-490e-82bc-d27c54a230a4",
       "date": "2023-03-07T18:23:02.000Z",
       "summary": "The voting phase occurred from March 7th to March 21st 2023. Badgeholders were provided with a badgeholder manual to guide them through the voting process. Badgeholders were asked to evaluate and cast their votes on the nominated projects using a voting form. The voting results determined how funding was to be allocated among the nominated projects.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-2/"
     },
     {
       "title": "Project Applications for Round 3",
       "uuid": "518c10c8-060a-4b35-a30d-988208479933",
       "date": "2023-09-19T18:18:05.000Z",
       "summary": "During this phase, interested project teams could submit their project applications. Project applications will be accepted from September 19th to October 23rd 2023. Applicants will typically have to provide detailed information about their projects.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-3/"
     },
     {
       "title": "Voting for Round 3",
       "uuid": "6c29b4b3-68f1-491c-8f2c-ca21f892170f",
       "date": "2023-11-06T18:23:49.000Z",
       "summary": "Following the project application period, a voting phase will take place. The voting period starts from November 6th to December 7th 2023. Voting badges have been offered to 208 community members.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-3/"
     },
     {
-      "title": "Results & Token Disbursement",
+      "title": "Results & Token Disbursement for Round 3",
       "uuid": "7e353988-4446-4ad5-8c7d-e79cb39b9a1a",
       "date": "2024-01-15T18:24:15.000Z",
       "summary": "After the voting phase will conclude, the results of the selected projects will be determined. Starting in early January, the process of disbursing tokens or funding to the chosen projects will begin.",
-      "fullDetails": ""
+      "fullDetails": "",
+      "moreLink": "https://community.optimism.io/docs/governance/retropgf-3/"
     }
   ],
   "admins": [],
