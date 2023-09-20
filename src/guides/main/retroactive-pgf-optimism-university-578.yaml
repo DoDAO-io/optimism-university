@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-20T12:09:32.310Z'
+created: '2023-09-20T12:11:50.806Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: Retroactive PGF
@@ -153,6 +153,29 @@ steps:
     name: RetroPGF Rounds
     stepItems: []
     uuid: 83920578-380d-4826-ae36-83a252f54ea3
+  - content: >-
+      https://blog.cryptostars.is/optimism-collective-8b6f829b7fc0
+
+
+      https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c
+
+
+      https://mirror.xyz/ayohtunde.eth/Z3dU4LxpALOtFviwoepSL6YGNGwdsxfxmy7aI5qO5Ug
+
+
+      https://community.optimism.io/docs/governance/citizens-house/#a-commitment-to-experimentation
+
+
+      https://community.optimism.io/docs/governance/retropgf-1/
+
+
+      https://community.optimism.io/docs/governance/retropgf-2/
+
+
+      https://community.optimism.io/docs/governance/retropgf-3/#
+    name: References
+    stepItems: []
+    uuid: fdac9fec-6a65-4d53-9d1e-f42d6dd1784f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: retroactive-pgf-optimism-university-578
