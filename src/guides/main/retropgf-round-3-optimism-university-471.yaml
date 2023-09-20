@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-20T07:17:33.566Z'
+created: '2023-09-20T07:18:48.107Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -48,7 +48,9 @@ steps:
 
       **Project Applications:** September 19th - October 23rd
 
+
       **Voting:** November 6th - December 7th
+
 
       **Results & Token Disbursement:** Starting early January
     name: About RetroPGF 3
@@ -180,5 +182,5 @@ steps:
     uuid: 9e56d644-6017-40d8-a5ce-cf70b0f5f8b3
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 0f5e4d74-7175-4883-915e-137cd09544be
+uuid: retropgf-round-3-optimism-university-471
 version: 1
