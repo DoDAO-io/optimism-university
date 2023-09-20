@@ -1,9 +1,9 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-20T12:11:50.806Z'
+created: '2023-09-20T12:22:24.226Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
-name: Retroactive PGF
+name: RetroPGF
 publishStatus: Live
 steps:
   - content: >-
@@ -40,7 +40,7 @@ steps:
       financial upside. This not only provides financial support for these
       projects but also encourages increased innovation and development within
       the Optimism ecosystem.
-    name: Overview- Retroactive PGF
+    name: Overview- RetroPGF
     stepItems: []
     uuid: a190e573-ebd9-49c9-b776-24e7e1e1433a
   - content: >-
