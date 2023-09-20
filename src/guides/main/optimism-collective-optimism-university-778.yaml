@@ -1,6 +1,6 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2023-09-20T11:24:25.470Z'
+created: '2023-09-20T11:32:37.767Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
@@ -221,45 +221,53 @@ steps:
       limited to proposals that are unsafe, insecure, inconsistent with its
       purpose, legally non-compliant, or would hinder its ability to function
       effectively.
-
-
-      ### Governance Proposal Types
-
-      To ensure accountability to the will of the Collective, the foundation has
-      three specific governance proposal types in place. These proposals aim to
-      maintain transparency and protect the rights of OP token holders: 
-
-
-      **Treasury Appropriations**
-
-
-      The amount of OP tokens available to the foundation for disbursement is
-      subject to an annual vote, starting from 2023. This ensures that the
-      foundation's financial resources are allocated in a manner that aligns
-      with the collective's interests and priorities.
-
-
-      **Director Removal**
-
-
-      The governance has the authority to remove a member of the foundation's
-      Board of Directors from service. This power ensures that the board members
-      are held accountable for their actions and decisions. It also allows for
-      the removal of any director who fails to fulfill their responsibilities or
-      acts against the best interests of the foundation.
-
-
-      **Rights Protections**
-
-
-      The Token House, representing the OP token holders, has the power to veto
-      any proposed changes to the foundation's governing documents that would
-      significantly reduce the rights of OP token holders. This mechanism
-      safeguards the interests and rights of the token holders, ensuring that
-      their voices are heard and respected.
     name: Foundation Work Processes
     stepItems: []
     uuid: 24fb1a85-7048-4098-a219-b09cc2a88ffa
+  - content: >-
+      To ensure accountability and transparency, the foundation has implemented
+      three governance proposal types. These proposals are designed to protect
+      the rights of OP token holders and maintain transparency within the
+      organization. By having these proposals in place, the foundation aims to
+      align its financial resources with the collective's interests and
+      priorities:
+
+
+      ### Vote for Disbursement
+
+      The foundation's financial resources are subject to an annual vote. This
+      means that the amount of OP tokens available for disbursement are
+      determined through a vote by the collective. By involving the collective
+      in this decision-making process, the foundation ensures that its financial
+      resources are allocated in a manner that aligns with the interests and
+      priorities of the token holders.
+
+
+      ### Director Removal
+
+      The governance has the authority to remove any member of the foundation's
+      Board of Directors from service. This power is crucial in holding board
+      members accountable for their actions and decisions. It allows for the
+      removal of any director who fails to fulfill their responsibilities or
+      acts against the best interests of the foundation. By having this
+      authority, the governance ensures that the board members are held to a
+      high standard and that their actions are in line with the foundation's
+      goals.
+
+
+      ### Power to Veto
+
+      The Token House, representing the OP token holders, has the power to veto
+      any proposed changes to the foundation's governing documents that would
+      significantly reduce the rights of OP token holders. This mechanism serves
+      as a safeguard for the interests and rights of the token holders. It
+      ensures that their voices are heard and respected, and that any changes to
+      the governing documents are in line with their best interests. By giving
+      the Token House this power, the foundation demonstrates its commitment to
+      protecting the rights of the token holders.
+    name: Governance Proposals
+    stepItems: []
+    uuid: c5dbc5d8-bf0f-4a73-a30f-7e890fdca84b
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: optimism-collective-optimism-university-778
