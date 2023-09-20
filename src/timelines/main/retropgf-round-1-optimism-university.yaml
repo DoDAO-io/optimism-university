@@ -17,6 +17,7 @@ events:
       information including the project name, the name of the project lead, the
       project lead's email address, and a description of the project's impact.
     fullDetails: ''
+    moreLink: https://community.optimism.io/docs/governance/retropgf-1/
   - title: Voting
     uuid: 860700d4-8016-4453-8df8-fc4f1bfbd4ba
     date: 2021-10-24T16:37:39.000Z
@@ -27,6 +28,7 @@ events:
       votes from the badgeholders would ultimately determine how retrofunding
       would be distributed among the nominated projects.
     fullDetails: ''
+    moreLink: https://community.optimism.io/docs/governance/retropgf-1/
 admins: []
 tags: []
 priority: 50
