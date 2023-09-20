@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-20T12:22:24.226Z'
+created: '2023-09-20T12:57:40.427Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
@@ -58,6 +58,11 @@ steps:
       revenue is distributed back to the Optimism Collective. This revenue is
       then used to fund public goods that have already been provided by entities
       and projects in the ecosystem.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1695214631510_pic.png"/>
+      </div>
 
 
       The funding is distributed through a governance structure called the
