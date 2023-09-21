@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-21T17:28:27.628Z'
+created: '2023-09-21T17:31:02.779Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -9,9 +9,11 @@ steps:
   - content: |2+
 
 
-             
+          
+
+
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://excalidraw.com/#json=cipSMfXVkCX-6yMKTD9gF,8thSYc3cUAy1ppVY694FjQ"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695317455366_untitled-2023-09-21-1651.png"/>
       </div>
 
     name: Types of Collective Grants
@@ -63,5 +65,5 @@ steps:
     uuid: 227e1a3b-de02-4ff3-8303-aff357e4d1a9
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 66d843c4-95bf-4859-8af6-1657685c4202
+uuid: getting-your-project-funded-optimism-university-587
 version: 1
