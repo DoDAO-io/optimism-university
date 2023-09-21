@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-21T17:33:10.079Z'
+created: '2023-09-21T18:15:38.198Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -61,6 +61,42 @@ steps:
       understanding of the types of grants the Council aims to provide, one can
       refer to the upcoming Requests for Grants, which will provide more
       detailed information.
+
+
+
+      The following diagram showcases the procedure to submit a proposal:
+
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695318790109_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
+
+      ### Token House Missions
+
+
+      The Token House plays a crucial role in the Optimism Collective by voting
+      on approving Missions. These Missions are specific initiatives that align
+      with the Collective Intents and can receive grants. You can propose a
+      Mission under Intent #1, Intent #3, or Intent #4. All proposals under
+      Intent #2 should be grant applications that will be processed by the
+      Grants Council. The Token House votes on these Missions once per Season,
+      which is roughly every four to six months. In Season 4, the Foundation has
+      suggested Intent Budgets to align the community around Collective Intents.
+      Let's explore the different Intents and their proposed budgets:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695320088654_untitled-2023-09-20-1744.png"/>
+      </div>
+
+
+
+      One can apply by submitting a Mission proposal on the forum requesting the
+      grant amount that corresponds to their Trust Tier. Mission Proposals will
+      be approval ranked by the Token House every six months. 
     name: Grants-Token House
     stepItems: []
     uuid: 227e1a3b-de02-4ff3-8303-aff357e4d1a9
