@@ -1,0 +1,26 @@
+{
+  "categories": [],
+  "content": "Exploring the different types of collective grants",
+  "created": "2023-09-21T17:28:27.628Z",
+  "guideType": "onboarding",
+  "key": "getting-your-project-funded-optimism-university-587",
+  "name": "Getting Your Project Funded",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "\n\n       \n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://excalidraw.com/#json=cipSMfXVkCX-6yMKTD9gF,8thSYc3cUAy1ppVY694FjQ\"/>\n</div>\n\n",
+      "name": "Types of Collective Grants",
+      "stepItems": [],
+      "uuid": "af680fcb-92fb-4746-b862-8628f7a0f26b"
+    },
+    {
+      "content": "### Grants Council\n\nThe Grants Council, elected by the Token House community, plays a crucial role in providing small to medium-sized grants to support various initiatives. These grants are divided into three categories: Builders, Experiments, and Requests for Grants (RFGs):\n\n**Builders grants** aim to maximize the number of builders, including developers and visionaries, who are building innovative applications on Optimism. The Council is particularly interested in projects that align with their mission of advancing the Builders community. When reviewing proposals, the Council looks for information that demonstrates how the project contributes to this mission.\n\n**Experiments grants** are designed to promote the adoption of novel applications and tangible use cases on Optimism. Unlike Builders grants, these grants are intended to reach end users and are not for the use of the proposer. The proposal forms for Experiments grants are specifically designed to gather information on how the project will expand the reach of the Optimism ecosystem and enhance the adoption of useful applications.\n\n**Requests for Grants (RFGs)** represent a transitional moment in the grant process. These grants are based on the needs of the Optimism ecosystem and are issued as requests for teams to submit proposals that address the most pressing problems. The Council specifies the requirements for each request, including how to submit a proposal and how the proposals will be assessed. The RFG process is dynamic and may be updated periodically.\n\nThe Grants Council follows a five-week cycle during regular Voting Cycles to process applications. It is important to refer to the governance calendar for the schedule and deadlines. Additionally, for a better understanding of the types of grants the Council aims to provide, one can refer to the upcoming Requests for Grants, which will provide more detailed information.\n",
+      "name": "Grants-Token House",
+      "stepItems": [],
+      "uuid": "227e1a3b-de02-4ff3-8303-aff357e4d1a9"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "66d843c4-95bf-4859-8af6-1657685c4202",
+  "version": 1
+}
