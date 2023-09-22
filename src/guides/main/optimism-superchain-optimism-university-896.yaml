@@ -1,6 +1,6 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-22T14:21:02.961Z'
+created: '2023-09-22T14:41:36.254Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism Superchain
@@ -100,7 +100,7 @@ steps:
       to govern upgrades.
 
 
-      ### Initial Superchain:
+      ### Initial Superchain
 
       To create an initial superchain, it is necessary to put all information
       defining the L2 chain on-chain. This includes generating a unique chain ID
