@@ -1,6 +1,6 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-09-22T06:22:31.306Z'
+created: '2023-09-22T06:26:32.301Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
@@ -208,6 +208,32 @@ steps:
     name: Schemas
     stepItems: []
     uuid: 6730aba1-dae6-4c93-9bee-4592f776a51a
+  - content: >-
+      https://community.optimism.io/docs/identity/build/
+
+
+      https://community.optimism.io/docs/identity/atst-v1.html
+
+
+      https://optimism.easscan.org/schema/view/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929
+
+
+      https://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc
+
+
+      https://optimism.easscan.org/schema/view/0x6ab5d34260fca0cfcf0e76e96d439cace6aa7c3c019d7c4580ed52c6845e9c89
+
+
+      https://optimism.easscan.org/schema/view/0xfdcfdad2dbe7489e0ce56b260348b7f14e8365a8a325aef9834818c00d46b31b
+
+
+      https://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc
+
+
+      https://optimism.easscan.org/schema/view/0x3e3e2172aebb902cf7aa6e1820809c5b469af139e7a4265442b1c22b97c6b2a5
+    name: References
+    stepItems: []
+    uuid: 185833da-dd56-45a4-a45b-20defb89ce5d
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: attestationstation-optimism-university-196
