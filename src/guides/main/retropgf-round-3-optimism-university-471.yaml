@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-20T12:18:08.341Z'
+created: '2023-09-22T18:02:56.832Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -74,6 +74,11 @@ steps:
 
       The RetroPGF program is structured around four categories, each
       representing a different aspect of the Optimism ecosystem:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retropgf_round_3_optimism_university_471/1695405745990_untitled-2023-09-22-1859.png"/>
+      </div>
 
 
       **OP Stack:** This category focuses on work that enhances the efficiency,
