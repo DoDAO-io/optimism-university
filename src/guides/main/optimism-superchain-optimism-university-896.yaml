@@ -1,6 +1,6 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-22T14:41:36.254Z'
+created: '2023-09-22T14:58:36.835Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism Superchain
@@ -90,14 +90,12 @@ steps:
   - content: >-
       The concept of upgrading optimism to become a superchain involves
       implementing several changes to the existing system in order to create a
-      more efficient and secure network. These changes include putting all
-      information defining the L2 chain on-chain, creating a factory for
-      deploying chain configurations, and making contract addresses
-      deterministic. Additionally, the introduction of a permissionless proof
-      system and the ability to configure the sequencer address are crucial
-      steps towards achieving decentralization. To ensure security and
-      decentralization, a decentralized security council should be established
-      to govern upgrades.
+      more efficient and secure network:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_superchain_optimism_university_896/1695394694138_untitled-2023-09-22-1859.png"/>
+      </div>
 
 
       ### Initial Superchain
