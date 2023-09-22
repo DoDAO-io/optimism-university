@@ -1,21 +1,21 @@
 categories: []
 content: An essential guide to navigating the world of Optimist NFTs
-created: '2023-09-22T13:20:31.777Z'
+created: '2023-09-22T13:24:42.294Z'
 guideType: onboarding
 key: optimist-nfts-optimism-university-698
 name: Optimist NFTs
 publishStatus: Live
 steps:
   - content: >-
-      Optimist NFTs are digital avatars that allow individuals to express their
-      personality and build their onchain identity. These NFTs are fully
-      customizable, enabling users to create a one-of-a-kind avatar that
-      represents their unique interests and traits. The vision behind Optimist
-      NFTs is to reflect the identity and reputation of individuals as they
-      interact with various projects and protocols. Currently in Beta, these
-      NFTs are available for minting to voters in RetroPGF 2. However, the plan
-      is to make them widely accessible to the entire crypto community as the
-      Optimism Collective grows.
+      [Optimist NFTs](https://app.optimism.io/optimist-nft) are digital avatars
+      that allow individuals to express their personality and build their
+      onchain identity. These NFTs are fully customizable, enabling users to
+      create a one-of-a-kind avatar that represents their unique interests and
+      traits. The vision behind Optimist NFTs is to reflect the identity and
+      reputation of individuals as they interact with various projects and
+      protocols. Currently in Beta, these NFTs are available for minting to
+      voters in RetroPGF 2. However, the plan is to make them widely accessible
+      to the entire crypto community as the Optimism Collective grows.
 
 
       ### Unique Avatar
@@ -222,7 +222,21 @@ steps:
     name: NFT Marketplaces on Optimism
     stepItems: []
     uuid: 55bc2847-3177-4c06-8b36-5ec05c3aa5bc
+  - content: >
+      https://help.optimism.io/hc/en-us/articles/10774929308699-What-is-the-Optimist-NFT-
+
+
+      https://zerion.mirror.xyz/zd0HZ4wEOSFEOoAfUMQaxtx2bbe_-TSvFVe4GGIYh94
+
+
+      https://app.optimism.io/optimist-nft
+
+
+      https://www.cryptopolitan.com/top-10-nft-dapps-on-optimism/
+    name: References
+    stepItems: []
+    uuid: 3f9a48f3-45c8-4551-a884-918870fa3707
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: cb396ecb-209b-4a80-a5ad-d203fd3a44ff
+uuid: optimist-nfts-optimism-university-698
 version: 1
