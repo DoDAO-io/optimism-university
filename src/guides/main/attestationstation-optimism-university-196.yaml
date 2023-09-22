@@ -1,0 +1,214 @@
+categories: []
+content: Your go-to guide for AttestationStation
+created: '2023-09-22T06:19:06.557Z'
+guideType: onboarding
+key: attestationstation-optimism-university-196
+name: AttestationStation
+publishStatus: Live
+steps:
+  - content: >-
+      AttestationStation is a crucial component in building decentralized
+      identity applications. It is a smart contract that utilizes the [Ethereum
+      Attestation
+      Service](https://community.optimism.io/docs/identity/atst-v1.html)
+      standard to create, verify, and revoke on/off-chain attestations. Think of
+      AttestationStation as a multiplayer database that streamlines the
+      attestation process and establishes a robust web of trust on any OP Chain
+      in the Superchain.
+
+
+      One of the main advantages of AttestationStation is its ability to easily
+      sign any piece of data. Additionally, it offers several key benefits.
+      Firstly, it is permissionless, meaning it is a public contract not owned
+      or controlled by any individual or organization. Secondly, it provides
+      various tooling options such as indexing and access-management
+      integrations, making it convenient for developers. Lastly, if you have a
+      great idea but lack the technical expertise to build it,
+      AttestationStation can be a valuable resource.
+
+
+      When using attestations, it is important to prioritize user privacy.
+      Attestations create log entries that become part of the permanent record
+      on the blockchain. To protect users' privacy, explicit consent should be
+      obtained for collecting personal information. Users should be clearly
+      informed about the data being collected, the purpose of collection, and
+      how it will be used. To ensure data security, sensitive information can be
+      stored offchain using encryption, proper authentication, and authorization
+      measures.
+
+
+      Attestations should not be seen as replacements for verifiable credentials
+      or decentralized identifiers. Instead, they can be used by developers to
+      create decentralized identifiers, credentials, claims, and more.
+      Attestations and the associated web of trust work in conjunction with
+      proof of personhood solutions like WorldID. This combination helps prevent
+      sybil-attacks and provides additional information about a person's
+      reputation, which is crucial in governance and other use-cases. 
+
+
+      Attestations also offer benefits over soulbound/non-transferable tokens,
+      such as flexibility in choosing whether the attestation is onchain or
+      offchain and improved interoperability.
+    name: Overview
+    stepItems: []
+    uuid: 57f9eb66-8157-46bf-a8ed-0813b1a36a34
+  - content: >-
+      The Optimist Profile is a platform that allows individuals and
+      organizations to showcase their contributions and impact within the
+      Optimism Collective. It is built using onchain reputation data on OP
+      Mainnet and offers various elements to create a comprehensive profile. 
+
+
+      It comprises of the following elements:
+
+
+      ### Profile Schema
+
+      This is an onchain self-attestation using a profile schema that represents
+      an individual or organization. It provides a standardized format to
+      present information about oneself or one's organization.
+
+
+      ### Contributions
+
+      Each Optimist Profile can create onchain attestations about their
+      contributions to the Optimism Collective. This means that users can
+      highlight the specific ways in which they have made a positive impact
+      within the community.
+
+
+      ### Peer-to-Peer Attestations
+
+      Optimist Profiles can also be used to create onchain peer-to-peer (p2p)
+      attestations about the contributions of other contributors. This helps to
+      establish a web of trust within the Optimism Collective, as individuals
+      can vouch for the contributions of their peers.
+
+
+      The Optimist Profile is built on attestations using the Ethereum
+      Attestation Service. It utilizes specific profile schema and application
+      schema UIDs to store and retrieve relevant information. The profile schema
+      UID represents the profile itself, while the application schema UID
+      represents the specific application being used.
+
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/cea98e6c_5be8_4da2_85a8_eba46b4319c5/1695362591843_untitled-2023-09-20-1744.png"/>
+      </div>
+
+
+
+      [Profile schema
+      UID](https://optimism.easscan.org/schema/view/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929):
+      ​​0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929
+
+
+      - name: name of the profile
+
+      - profileMetadataPtrType: used to determine the protocol
+
+      - profileMetadataPtr: can be a URI, ipfs hash, etc. that points to any
+      type of blob storage that stores the metadata
+
+
+
+      [RetroPGF 3 Application schema
+      UID](https://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc):
+      0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc
+
+
+      - displayName: name of the application
+
+      - applicationMetadataPtrType: used to determine the protocol
+
+      - applicationMetadataPtr: can be a URI, ipfs hash, etc. that points to any
+      type of blob storage that stores the metadata.
+
+
+
+      The Optimist Profile offers several benefits to its users. Firstly, it
+      allows individuals and organizations to showcase their contributions and
+      impact within the Optimism Collective, thereby increasing their visibility
+      and recognition within the community. Secondly, the peer-to-peer
+      attestations foster a sense of trust and collaboration among contributors,
+      creating a strong network of support. Lastly, the use of onchain
+      reputation data ensures transparency and authenticity in the information
+      shared on the platform.
+    name: Optimist Profile
+    stepItems: []
+    uuid: a40329d9-dc4c-4077-b1fe-b0b21a06cf8b
+  - content: >-
+      Schemas play a crucial role in AttestationStation as they define the
+      structure and type of data that can be included in an attestation. These
+      schemas act as a blueprint, ensuring that the data included in an
+      attestation is organized and standardized. By following these predefined
+      schemas, the information can be easily understood and processed by
+      different systems.
+
+
+      On OP Mainnet, there are several relevant schemas being used. These
+      schemas are identified by unique addresses:
+
+
+      ### General Schemas
+
+
+      [Optimist Profile schema
+      UID](https://optimism.easscan.org/schema/view/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929):
+      ​​0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929
+
+
+      [Gitcoin Passport V1 scores schema
+      UID](https://optimism.easscan.org/schema/view/0x6ab5d34260fca0cfcf0e76e96d439cace6aa7c3c019d7c4580ed52c6845e9c89):
+      0x6ab5d34260fca0cfcf0e76e96d439cace6aa7c3c019d7c4580ed52c6845e9c89
+
+
+      ### RetroPGF Schemas
+
+
+      [RetroPGF Badgeholders schema
+      UID](https://optimism.easscan.org/schema/view/0xfdcfdad2dbe7489e0ce56b260348b7f14e8365a8a325aef9834818c00d46b31b):
+      0xfdcfdad2dbe7489e0ce56b260348b7f14e8365a8a325aef9834818c00d46b31b
+
+      [RetroPGF 3 Application schema
+      UID](https://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc):
+      0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc
+
+      [RetroPGF 3 Lists schema
+      UID](https://optimism.easscan.org/schema/view/0x3e3e2172aebb902cf7aa6e1820809c5b469af139e7a4265442b1c22b97c6b2a5):
+      0x3e3e2172aebb902cf7aa6e1820809c5b469af139e7a4265442b1c22b97c6b2a5
+
+
+      Each schema specifies the structure and type of data that can be included
+      in an attestation, ensuring consistency across different attestations.
+
+
+      The purpose of these schemas is to provide a standardized format for the
+      data included in an attestation. This allows different systems and
+      applications to easily interpret and process the information. By adhering
+      to these schemas, developers can ensure that their attestations are
+      compatible with the existing infrastructure and can be seamlessly
+      integrated into the ecosystem.
+
+
+      AttestationStation v1, the platform used for managing attestations,
+      provides support for these schemas. It allows users to create attestations
+      that adhere to the predefined schemas, ensuring that the data is
+      structured correctly. This simplifies the process of creating and managing
+      attestations, as users can rely on the predefined schemas to guide them.
+
+
+      In addition to providing structure and organization, schemas also
+      contribute to the security and integrity of the attestations. By defining
+      the type of data that can be included, schemas prevent the inclusion of
+      malicious or unauthorized information. This ensures that the attestations
+      are reliable and trustworthy, as they follow a predefined set of rules and
+      standards.
+    name: Schemas
+    stepItems: []
+    uuid: 6730aba1-dae6-4c93-9bee-4592f776a51a
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: cea98e6c-5be8-4da2-85a8-eba46b4319c5
+version: 1
