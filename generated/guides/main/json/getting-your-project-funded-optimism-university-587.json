@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Exploring the different types of collective grants",
-  "created": "2023-09-21T18:44:33.413Z",
+  "created": "2023-09-22T05:37:08.286Z",
   "guideType": "onboarding",
   "key": "getting-your-project-funded-optimism-university-587",
   "name": "Getting Your Project Funded",
@@ -24,6 +24,12 @@
       "name": "Grants- Optimism Foundation",
       "stepItems": [],
       "uuid": "3f3659bf-9c62-4987-ae19-b099f4da08a0"
+    },
+    {
+      "content": "### Retroactive Grants (RetroPGF)\n\nRetroactive PGF (RetroPGF) is a program that rewards work that has already been completed for its positive impact. It is administered by the Citizens' House, which decides on the allocation of rewards based on the assessment of each project's contribution to the Collective. If you are working on a project aligned with the Collective and are comfortable with less upfront certainty regarding scope, reward amount, and timing, you may be eligible for RetroPGF rewards.\n\nRetroPGF is open to all contributors in the Optimism ecosystem, including artists, creators, writers, builders, and evangelists. Whether you are a developer working on an Ethereum execution client or an educator creating Optimism-inspired video content, as long as your work has made an impact, you are eligible to apply. \n\nThere are four categories in which your work can make an impact and be considered for RetroPGF rewards. \n\n**OP Stack:** The first category is OP Stack, which includes work that enhances the efficiency, security, resilience, and awareness of the OP Stack. \n\n**Collective Governance:** The second category is Collective Governance, which encompasses work that provides impact to governance participants of the Optimism Collective or helps bring new participants into the Collective.\n\n**Developer Ecosystem:** The third category is Developer Ecosystem, which focuses on work that provides impact to application developers in the Optimism Collective or helps attract new developers to the Collective. \n\n**End User Experience & Adoption:** The fourth category is End User Experience & Adoption, which recognizes work that provides impact to end users in the Optimism Collective or helps bring new users into the Collective.\n\nProject applications will be accepted from September 19th to October 23rd 2023. Applicants will typically have to provide detailed information about their projects. Following the project application period, a voting phase will take place. The voting period starts from November 6th to December 7th 2023. Voting badges have been offered to 208 community members. After the voting phase will conclude, the results of the selected projects will be determined. Starting in early January, the process of disbursing tokens or funding to the chosen projects will begin.",
+      "name": "Grants- Citizen House",
+      "stepItems": [],
+      "uuid": "aecee0cb-12b1-4877-95e1-c3348740e2d6"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
