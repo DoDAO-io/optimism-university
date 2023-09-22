@@ -1,6 +1,6 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-22T14:10:25.247Z'
+created: '2023-09-22T14:11:25.630Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism SuperChain
@@ -50,66 +50,30 @@ steps:
       <table>
       <thead>
         <tr>
-          <th>Factors</th>
-          <th>Token House</th>
-          <th>Citizen House</th>
+          <th>Property</th>
+          <th>Purpose</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>Comprises of</td>
-          <td>OP holders &amp; their delegates</td>
-          <td>Optimism citizens</td>
+          <td>Shared L1 blockchain</td>
+          <td>Provides a total ordering of transactions across all OP Chains.</td>
         </tr>
         <tr>
-          <td>Responsibility</td>
-          <td>Distribution of project incentives, protocol upgrades, and treasury funds.</td>
-          <td>Allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF).</td>
+          <td>Shared bridge for all OP Chains</td>
+          <td>Enables OP Chains to have standardized security properties.</td>
         </tr>
         <tr>
-          <td>Membership Criteria</td>
-          <td>By acquiring OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism's ecosystem.</td>
-          <td>Citizens are chosen via entries in the AttestationStation smart contract (builders, users, and community members)</td>
+          <td>Cheap OP Chain deployment</td>
+          <td>Enables deploying and transacting on OP Chains without the high fees of transacting on L1.</td>
         </tr>
         <tr>
-          <td>New Member Selection Criteria</td>
-          <td>A Council Lead was selected by the Foundation and 8 Reviewers were elected by the Token House in a Special Voting Cycle.</td>
-          <td>For RetroPGF Round 2, badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above</td>
+          <td>Configuration options for OP Chains</td>
+          <td>Enables OP Chains to configure their data availability provider, sequencer address, etc.</td>
         </tr>
         <tr>
-          <td>Grant Procedure</td>
-          <td>Each Cycle will have three periods, a Submission Period, a Review Period, and a Decision Period.</td>
-          <td>The grant procedure involves badgeholder selection, project nominations, project profile creation, and the voting phase, with specific timelines for each stage.</td>
-        </tr>
-        <tr>
-          <td>Grant Application Example</td>
-          <td><a href="https://gov.optimism.io/t/ready-builders-cycle-11-integration-of-optimism-into-airgap-vault-airgap-wallet-and-airgap-coin-lib/5402" target="_blank" rel="noopener noreferrer">AirGap Wallet</a><br><a href="https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538" target="_blank" rel="noopener noreferrer">Another World</a></td>
-          <td><a href="https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21" target="_blank" rel="noopener noreferrer">Protocol Guild</a><br><a href="https://app.optimism.io/retropgf-discovery/0xa142aB9eab9264807A41F0E5cbDab877D204E233" target="_blank" rel="noopener noreferrer">L2BEAT</a></td>
-        </tr>
-        <tr>
-          <td>Grant Reviewers</td>
-          <td>The Grants Council consists of two Sub-Committees: Builders and Growth Experiments. (9 Reviewers in Season 4)</td>
-          <td>In RetroPGF Round 2, 69 out of the 71 selected badgeholders – our early “citizens” – voted on how to allocate 10M OP to projects.</td>
-        </tr>
-        <tr>
-          <td>Power</td>
-          <td>The voting power in this chamber is transferable.</td>
-          <td>Citizenship is conferred by “soulbound,” non-transferable NFTs.</td>
-        </tr>
-        <tr>
-          <td>Voting Power</td>
-          <td>Token voting is distributed widely and permissionless.</td>
-          <td>Uses a one-person, one-vote system.</td>
-        </tr>
-        <tr>
-          <td>Voting Cycles</td>
-          <td>Proposals are reviewed over a five week voting cycle.</td>
-          <td>RetroPGF rounds occur in intervals and according to a predefined process, which currently includes phases for scoping, nominations, profile creation, voting, and disbursements.</td>
-        </tr>
-        <tr>
-          <td>Funded Project Examples</td>
-          <td><a href="http://www.atomiclinks.xyz/" target="_blank" rel="noopener noreferrer">Atomic Links</a><br><a href="https://www.jiffyscan.xyz/" target="_blank" rel="noopener noreferrer">Jiffyscan</a></td>
-          <td><a href="https://soliditylang.org/" target="_blank" rel="noopener noreferrer">Solidity</a><br><a href="https://geth.ethereum.org/" target="_blank" rel="noopener noreferrer">geth</a></td>
+          <td>Secure transactions &amp; cross-chain messages</td>
+          <td>Enables users to safely migrate assets between OP Chains.</td>
         </tr>
       </tbody>
       </table>
@@ -118,5 +82,5 @@ steps:
     uuid: adde6aa3-4b3a-419f-8162-e84b990bd4ad
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 9f961d54-fbef-473c-b228-e055dc285ff5
+uuid: optimism-superchain-optimism-university-896
 version: 1
