@@ -1,12 +1,17 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-25T14:52:50.884Z'
+created: '2023-09-25T16:17:01.294Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
 publishStatus: Live
 steps:
-  - content: >-
+  - content: >
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1695658585785_untitled-2023-09-25-1547.png"/>
+      </div>
+
+
       RetroPGF, is an initiative that aims to provide financial support for
       public goods that are developed and utilized within the Optimism Stack (OP
       Stack). The idea behind RetroPGF is to reward builders who make a positive
