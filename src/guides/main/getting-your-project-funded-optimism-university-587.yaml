@@ -1,23 +1,19 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-25T12:28:11.383Z'
+created: '2023-09-25T17:44:18.723Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
 publishStatus: Live
 steps:
   - content: |+
-
-
-
-
-
+      The diagram below showcases various types of funds offered:
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695644541350_untitled-2023-09-25-1547.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695663782242_untitled-2023-09-25-1547.png"/>
       </div>
 
-    name: Types of Collective Grants
+    name: Types of Grants
     stepItems: []
     uuid: af680fcb-92fb-4746-b862-8628f7a0f26b
   - content: >
