@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-09-25T14:07:28.981Z'
+created: '2023-09-25T14:08:34.991Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -160,7 +160,7 @@ steps:
     name: Proposal Types
     stepItems: []
     uuid: a6c1b84b-56f6-458b-8213-4fc744a85806
-  - content: >+
+  - content: >-
       Reflection Periods and Special Voting Cycles are integral parts of the
       governance system that the Optimism Foundation follows. These cycles allow
       for the adoption of proposals and the modification of the collective's
@@ -213,11 +213,10 @@ steps:
       <div align="center">
         <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/fafe5568_1afc_459c_927f_43d06d81aaf5/1695650814314_untitled-2023-09-25-1547.png"/>
       </div>
-
-    name: Seasons and voting cycles
+    name: Seasons and Voting Cycles
     stepItems: []
     uuid: 870c64d9-71de-45cb-a8e1-c849e140b3e5
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: fafe5568-1afc-459c-927f-43d06d81aaf5
+uuid: token-house-optimism-university-389
 version: 1
