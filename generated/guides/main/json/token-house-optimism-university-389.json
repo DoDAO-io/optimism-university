@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Concise guide on one of Optimism Collective's Governing Body",
-  "created": "2023-09-25T14:15:12.395Z",
+  "created": "2023-09-25T14:20:06.647Z",
   "guideType": "onboarding",
   "key": "token-house-optimism-university-389",
   "name": "Token House",
@@ -24,6 +24,12 @@
       "name": "Seasons and Voting Cycles",
       "stepItems": [],
       "uuid": "870c64d9-71de-45cb-a8e1-c849e140b3e5"
+    },
+    {
+      "content": "https://community.optimism.io/docs/governance/#token-house\n\nhttps://github.com/ethereum-optimism/OPerating-manual/blob/main/manual.md#valid-proposal-types\n\nhttps://community.optimism.io/docs/governance/token-house-history/#\n",
+      "name": "References",
+      "stepItems": [],
+      "uuid": "4f6d1740-a8ca-4488-9700-fff6f54a3269"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
