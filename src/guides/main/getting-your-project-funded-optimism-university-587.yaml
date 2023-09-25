@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-25T17:44:18.723Z'
+created: '2023-09-25T17:55:09.479Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -16,7 +16,7 @@ steps:
     name: Types of Grants
     stepItems: []
     uuid: af680fcb-92fb-4746-b862-8628f7a0f26b
-  - content: >
+  - content: >-
       ### Grants Council
 
 
@@ -24,6 +24,11 @@ steps:
       role in providing small to medium-sized grants to support various
       initiatives. These grants are divided into three categories: Builders,
       Experiments, and Requests for Grants (RFGs):
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695664483151_untitled-2023-09-25-1547.png"/>
+      </div>
 
 
       **Builders grants** aim to maximize the number of builders, including
