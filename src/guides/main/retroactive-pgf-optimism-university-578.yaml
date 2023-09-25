@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-20T13:20:35.422Z'
+created: '2023-09-25T14:52:37.052Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
@@ -158,6 +158,10 @@ steps:
     name: RetroPGF Rounds
     stepItems: []
     uuid: 83920578-380d-4826-ae36-83a252f54ea3
+  - content: ''
+    name: Examples
+    stepItems: []
+    uuid: e933d3b4-0ac0-4ca9-8d65-cd083585ee31
   - content: >-
       https://blog.cryptostars.is/optimism-collective-8b6f829b7fc0
 
