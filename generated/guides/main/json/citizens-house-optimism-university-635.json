@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Navigating the role of Citizens' House",
-  "created": "2023-09-25T14:47:43.474Z",
+  "created": "2023-09-25T14:48:44.473Z",
   "guideType": "onboarding",
   "key": "citizens-house-optimism-university-635",
   "name": "Citizens' House",
@@ -24,9 +24,15 @@
       "name": "RetroPGF",
       "stepItems": [],
       "uuid": "452a6580-f745-4e2c-aded-0c9d869c6d82"
+    },
+    {
+      "content": "https://community.optimism.io/docs/governance/#citizens-house\n\nhttps://community.optimism.io/docs/governance/citizens-house/\n\nhttps://community.optimism.io/docs/governance/citizenship/#\n\nhttps://community.optimism.io/docs/governance/retropgf-1/\n\nhttps://community.optimism.io/docs/governance/retropgf-2/\n\nhttps://community.optimism.io/docs/governance/retropgf-3/\n\n",
+      "name": "References",
+      "stepItems": [],
+      "uuid": "c936cc94-60cb-44b2-b5e1-8caa50433bdd"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "998f442d-a708-4961-8f9d-6efa37ffd9a3",
+  "uuid": "citizens-house-optimism-university-635",
   "version": 1
 }
