@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-25T16:17:01.294Z'
+created: '2023-09-25T16:55:31.553Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
@@ -163,7 +163,90 @@ steps:
     name: RetroPGF Rounds
     stepItems: []
     uuid: 83920578-380d-4826-ae36-83a252f54ea3
-  - content: ''
+  - content: >-
+      RetroPGF has funded various projects in Round 1 & 2. Some of which are
+      listed below:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1695660897295_untitled-2023-09-25-1547.png"/>
+      </div>
+
+
+      ### L2BEAT
+
+
+      [L2BEAT](https://l2beat.com/) is a public goods company that is dedicated
+      to providing on-chain transparency. What sets L2BEAT apart is their
+      commitment to delivering accurate and reliable information. They strive to
+      be an impartial and independent watchdog, always acting in the best
+      interest of users and the broader ecosystem. Their goal is to provide data
+      and tools that allow the community to educate themselves, transact
+      securely, and make well-informed decisions.
+
+
+      ### geth
+
+
+      [geth](https://geth.ethereum.org/), short for go-ethereum, is a Go
+      implementation of Ethereum. It is considered one of the original Ethereum
+      implementations, making it the most battle-hardened and tested client.
+      Geth serves as a gateway into the decentralized web, handling
+      transactions, deployment, and execution of smart contracts. By running
+      Geth alongside a consensus client, a computer can become an Ethereum node,
+      contributing to the network's decentralization.
+
+
+      ### ETHGlobal
+
+
+      [ETHGlobal](https://ethglobal.com/) is a not-for-profit organization that
+      aims to foster a world-class ecosystem of Ethereum developers and
+      entrepreneurs. Initially funded by a grant from the Ethereum Foundation,
+      ETHGlobal is managed as a partnership between L4 and SV Angel.  Through
+      their efforts, they aim to create an environment where developers and
+      entrepreneurs can thrive and collectively contribute to the growth of
+      Ethereum.
+
+
+      ### BuidlGuidl
+
+
+      [BuidlGuidl](https://buidlguidl.com/) is a decentralized autonomous
+      organization (DAO) that acts as the community and incentivization layer
+      around scaffold-eth and speedrunethereum.com. Scaffold-ETH provides a base
+      for beginners to experiment with Solidity, the programming language used
+      for implementing Ethereum-based smart contracts. On the other hand,
+      SpeedRunEthereum gamifies the ecosystem through challenges. Developers can
+      participate in these challenges together through the BuidlGuidl community,
+      fostering collaboration and innovation within the Ethereum space.
+
+
+      ### Solidity
+
+
+      [Solidity](https://soliditylang.org/) is an advanced programming language
+      specifically designed for implementing Ethereum-based smart contracts. It
+      is an object-oriented language that targets the Ethereum Virtual Machine
+      (EVM). Solidity is known for its support of complex programming features
+      such as inheritance and user-defined data types. With Solidity, developers
+      can create powerful and secure smart contracts that can be executed on the
+      Ethereum blockchain, enabling various decentralized applications and
+      services.
+
+
+      ### 0xPARC
+
+
+      The [0xPARC](https://0xparc.org/) Foundation is at the forefront of
+      promoting application-level innovation on the Ethereum blockchain. With a
+      focus on domains like cryptography, autonomous worlds, and education,
+      0xPARC is committed to supporting projects that push the boundaries of
+      what is technically achievable in the realm of decentralized applications.
+      By funding and nurturing innovative projects, 0xPARC aims to drive the
+      advancement of the Ethereum ecosystem and contribute to the development of
+      groundbreaking applications that leverage the power of blockchain
+      technology.
     name: Examples
     stepItems: []
     uuid: e933d3b4-0ac0-4ca9-8d65-cd083585ee31
