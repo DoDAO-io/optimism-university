@@ -1,6 +1,6 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-26T16:07:33.528Z'
+created: '2023-09-26T16:29:49.321Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
@@ -50,7 +50,7 @@ steps:
     name: Overview
     stepItems: []
     uuid: 12241793-0d4d-4cfd-8404-84a706443177
-  - content: >-
+  - content: >
       Becoming a citizen is an important process that involves being recognized
       as a member of a particular community or country. In the context of the
       Citizens' House, citizenship is based on identity and aligning with the
@@ -63,7 +63,12 @@ steps:
       RetroPGF rounds. These rounds serve as a way for individuals to have a say
       in the decision-making process of the Collective. However, holding a
       voting badge does not guarantee permanent citizenship, as membership is
-      determined by governance and may change over time.
+      determined by governance and may change over time. 
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744978005_untitled-2023-09-26-2024.png"/>
+      </div>
 
 
       The Citizens' House works in collaboration with the Token House to
