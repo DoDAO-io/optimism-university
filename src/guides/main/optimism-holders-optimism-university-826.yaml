@@ -1,6 +1,6 @@
 categories: []
 content: A concise guide tailored for Optimism token holders
-created: '2023-09-26T13:25:18.578Z'
+created: '2023-09-26T14:12:09.497Z'
 guideType: onboarding
 key: optimism-holders-optimism-university-826
 name: Optimism Holders
@@ -12,9 +12,16 @@ steps:
       delegate their voting power to a community member who has volunteered to
       actively participate in Token House governance. However, if you prefer not
       to delegate your voting power, you will still need to delegate to yourself
-      in order to vote. Let's explore the process of delegating tokens, the
-      importance of choosing the right delegate, and the steps involved in
-      delegating tokens to yourself:
+      in order to vote. Let's explore the process of delegating tokens:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695737376542_untitled-2023-09-26-1601.png"/>
+      </div>
+
+
+      When trying to delegate your votes to a representative, follow this
+      process:
 
 
       ### Choosing Your Delegate
@@ -27,7 +34,7 @@ steps:
       healthy governance system benefits both Optimism and all OP token holders.
 
 
-      ### Delegating Tokens
+      ### Use Delegates App
 
       Delegating tokens to a representative allows you to transfer your voting
       power to someone who will actively participate in Token House governance
@@ -39,7 +46,7 @@ steps:
       weeks.
 
 
-      ### Delegate Communications Thread:
+      ### Delegate Communications Thread
 
       Once you have delegated your tokens, your chosen delegate should provide
       reasoning behind their votes in a [Delegate Communications
@@ -49,13 +56,28 @@ steps:
       informed about the actions and decisions made on your behalf.
 
 
-      ### Delegating Tokens to Yourself:
+      If you choose not to assign your voting authority to another delegate, you
+      will still have to delegate your vote to your own address in order to
+      participate in the voting process:
+
+
+      ### Register Yourself
 
       If you prefer not to delegate your voting power to a representative, you
       have the option to delegate to yourself. By following the [delegate
       commitment template](https://gov.optimism.io/t/delegate-commitments/235)
       on the [Optimism Governance Portal](https://vote.optimism.io/), you can
-      register as a delegate and retain full control over your voting power.
+      register as a delegate and retain full control over your voting power. 
+
+
+      ### Use Delegates App
+
+      After completing the process, visit the delegates app to confirm that you
+      have successfully delegated your tokens to your own address.
+
+
+      ### Start Voting 
+
       Once you have been added as a delegate in the next voting cycle, you can
       start voting on governance matters.
     name: Delegating Tokens
@@ -98,6 +120,11 @@ steps:
       builders, and users and community members:
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695736350386_untitled-2023-09-26-1601.png"/>
+      </div>
+
+
       ### Tokenholders
 
       Tokenholders benefit from the productive re-deployment of sequencer
@@ -128,7 +155,12 @@ steps:
     stepItems: []
     uuid: 3d838e68-0b4c-47c5-ba18-3733ac96cff6
   - content: >
-      The following table & diagram showcases the OP token allocations:
+      The following diagram & table showcases the OP token allocations:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       <table>
@@ -170,11 +202,6 @@ steps:
       </tbody>
 
       </table>
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
-      </div>
 
 
       ### Ecosystem Fund
@@ -226,6 +253,69 @@ steps:
     name: OP Allocations
     stepItems: []
     uuid: 7ea47608-a2fd-4899-89ff-079a54d0d129
+  - content: |-
+      The following table showcases the various factors of Airdrop 1, 2 & 3:
+
+      <table>
+      <thead>
+        <tr>
+          <th>Categories</th>
+          <th>Airdrop 1</th>
+          <th>Airdrop 2</th>
+          <th>Airdrop 3</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Criteria</td>
+          <td>Rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem &amp; L1 Ethereum. </td>
+          <td>Rewards positive-sum governance participation and power users of OP Mainnet.</td>
+          <td>Similar to Airdrop 2, rewards positive sum governance participation.</td>
+        </tr>
+        <tr>
+          <td>Tokens Distributed</td>
+          <td>Distributed over 200m OP tokens to 250,000 early adopters and engaged users in May 2022.</td>
+          <td>As of February 9th, 2023, distributed more than 55m OP tokens across the ecosystem</td>
+          <td>Distributed over 19,411,313 OP tokens in this airdrop.</td>
+        </tr>
+        <tr>
+          <td>Claiming Process</td>
+          <td>Requires eligible addresses to claim the tokens</td>
+          <td>Tokens are distributed directly to eligible wallets, no claiming needed.</td>
+          <td>Similar to Airdrop 2, Airdrop #3 is disbursed directly to eligible wallets.</td>
+        </tr>
+        <tr>
+          <td>Distribution Date</td>
+          <td>Distributed in May 2022</td>
+          <td>Tokens sent in February 2023</td>
+          <td>Took place in September 2023</td>
+        </tr>
+        <tr>
+          <td>Snapshot Date</td>
+          <td>A snapshot of addresses was taken on 03-25-2022 0:00 UTC.</td>
+          <td>Snapshot taken on 01-20-2023 0:00 UTC.</td>
+          <td>Delegated tokens between 2023-01-20 at 0:00 UTC and 2023-07-20 0:00 UTC.</td>
+        </tr>
+      </tbody>
+      </table>
+    name: Airdrops
+    stepItems: []
+    uuid: 40572d0c-8a56-4505-9d4a-7377d511d6ad
+  - content: |
+      https://community.optimism.io/docs/governance/howto-delegate/
+
+      https://community.optimism.io/docs/governance/economics/
+
+      https://community.optimism.io/docs/governance/allocations/#
+
+      https://community.optimism.io/docs/governance/airdrop-1/
+
+      https://community.optimism.io/docs/governance/airdrop-2/
+
+      https://community.optimism.io/docs/governance/airdrop-3/
+    name: References
+    stepItems: []
+    uuid: 80e94ed5-a373-4b79-b7c5-df725814bc86
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: optimism-holders-optimism-university-826
