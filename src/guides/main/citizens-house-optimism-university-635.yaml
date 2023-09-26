@@ -1,12 +1,17 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-25T14:48:44.473Z'
+created: '2023-09-26T16:07:33.528Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
 publishStatus: Live
 steps:
-  - content: >-
+  - content: >
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png"/>
+      </div>
+
+
       The Citizens' House is an innovative approach to governance that aims to
       promote fairness and inclusivity. It is a part of the Optimism Collective,
       working alongside the Token House to govern the collective. In its initial
