@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-25T18:14:11.829Z'
+created: '2023-09-27T18:26:54.773Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -101,7 +101,7 @@ steps:
     name: Grants-Token House
     stepItems: []
     uuid: 227e1a3b-de02-4ff3-8303-aff357e4d1a9
-  - content: >-
+  - content: >+
       ### Foundation Missions
 
       Foundation Missions are projects that the Optimism Foundation wants to
@@ -158,6 +158,11 @@ steps:
       The structure of the grants falls under these two categories:
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1695839185908_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
       **User Incentives:** Grants provided by the fund are directly distributed
       to users of the project on the Optimism ecosystem. This can be in the form
       of liquidity mining, rewards, or other user incentives. By directly
@@ -178,6 +183,7 @@ steps:
       few that align with its objectives. Anyone can apply by simply filling out
       the [form](https://airtable.com/shrvQNlFPHGcVNqDe?prefill_Referrer=OPGov).
       There are no deadlines, applications are processed on a rolling basis
+
     name: Grants- Optimism Foundation
     stepItems: []
     uuid: 3f3659bf-9c62-4987-ae19-b099f4da08a0
