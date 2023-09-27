@@ -1,6 +1,6 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-09-27T13:40:27.207Z'
+created: '2023-09-27T13:41:53.412Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
@@ -96,15 +96,10 @@ steps:
       Each Optimist Profile can create onchain attestations about their
       contributions to the Optimism Collective. This means that users can
       highlight the specific ways in which they have made a positive impact
-      within the community.
-
-
-      ### Peer-to-Peer Attestations
-
-      Optimist Profiles can also be used to create onchain peer-to-peer (p2p)
-      attestations about the contributions of other contributors. This helps to
-      establish a web of trust within the Optimism Collective, as individuals
-      can vouch for the contributions of their peers.
+      within the community. They can also be used to create onchain peer-to-peer
+      (p2p) attestations about the contributions of other contributors. This
+      helps to establish a web of trust within the Optimism Collective, as
+      individuals can vouch for the contributions of their peers.
 
 
       The Optimist Profile is built on attestations using the Ethereum
