@@ -1,15 +1,13 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-09-25T16:55:31.553Z'
+created: '2023-09-27T17:48:58.402Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
 publishStatus: Live
 steps:
   - content: >
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1695658585785_untitled-2023-09-25-1547.png"/>
-      </div>
+      ### What is RetroPGF?
 
 
       RetroPGF, is an initiative that aims to provide financial support for
@@ -20,31 +18,37 @@ steps:
       public good if there is no merit or benefit for the builder themselves.
 
 
-      One of the key benefits of RetroPGF is that it offers a possible exit
-      liquidity for public goods projects. This means that it creates a market
-      for early investment in these projects, allowing them to raise capital and
-      bootstrap based on their early potential and promise. By compensating
-      these projects for their positive contributions, RetroPGF encourages more
-      innovation and funding in the development of public goods on Optimism.
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1695658585785_untitled-2023-09-25-1547.png"/>
+      </div>
 
 
-      The funding provided through RetroPGF is given to projects, companies,
-      communities, or other entities that have already proven their value to the
-      Optimism ecosystem. This approach is taken because it is easier to
-      identify projects that have been useful in the past, rather than
-      predicting their future usefulness. By rewarding projects that have
-      already demonstrated their usefulness, RetroPGF ensures better capital
-      allocation and encourages the development of public goods that have a
-      tangible impact.
+      ### Benefits of RetroPGF
 
 
-      By injecting Silicon Valley-type financial incentives into projects
-      building public goods, RetroPGF brings the profit-motive into the
-      equation. This means that builders have the opportunity to raise capital
-      and bootstrap from speculators or early investors who are seeking
-      financial upside. This not only provides financial support for these
-      projects but also encourages increased innovation and development within
-      the Optimism ecosystem.
+      **Exit Liquidity for Public Goods Projects:** RetroPGF creates a market
+      for early investment in public goods projects, offering them an exit
+      liquidity option. This allows projects to raise capital and grow based on
+      their early potential and contributions.
+
+
+      **Encouragement of Innovation:** By compensating projects for their
+      positive contributions, RetroPGF incentivizes innovation and funding in
+      the development of public goods on Optimism.
+
+
+      **Rewarding Proven Value:** RetroPGF allocates funding to projects,
+      companies, communities, or entities that have demonstrated their value to
+      the Optimism ecosystem in the past. This approach prioritizes projects
+      with a track record of usefulness, ensuring more effective capital
+      allocation.
+
+
+      **Profit-Motive Integration:** RetroPGF introduces financial incentives
+      similar to those in Silicon Valley, attracting speculators and early
+      investors seeking financial gains. Builders have the opportunity to raise
+      capital and bootstrap their projects, fostering increased innovation and
+      development within the Optimism ecosystem.
     name: Overview- RetroPGF
     stepItems: []
     uuid: a190e573-ebd9-49c9-b776-24e7e1e1433a
