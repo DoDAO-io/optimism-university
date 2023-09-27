@@ -1,15 +1,22 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-27T18:16:38.010Z'
+created: '2023-09-27T18:19:48.939Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
 publishStatus: Live
 steps:
-  - content: >+
+  - content: >-
+      ### RetroPGF 3
+
+
       RetroPGF Round 3 is an event that aims to reward individuals and projects
       that have contributed to the development and adoption of Optimism, a
-      technology platform. 
+      technology platform. This event is a great opportunity for individuals and
+      projects that have contributed to the development and adoption of Optimism
+      to be recognized and rewarded for their efforts. By participating in
+      RetroPGF Round 3, you have the chance to receive OP tokens as a token of
+      appreciation for the impact you have made on the Optimism Collective. 
 
 
       In this round, a total of 30 million OP tokens will be allocated to reward
@@ -21,6 +28,9 @@ steps:
       <div align="center">
         <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retropgf_round_3_optimism_university_471/1695661855107_untitled-2023-09-25-1547.png"/>
       </div>
+
+
+      ### Considerations
 
 
       The application process for RetroPGF Round 3 is crucial, and it is
@@ -37,17 +47,7 @@ steps:
       for the rewards. Therefore, it is essential to ensure that your
       application complies with the guidelines and regulations set forth by
       RetroPGF.
-
-
-      This event is a great opportunity for individuals and projects that have
-      contributed to the development and adoption of Optimism to be recognized
-      and rewarded for their efforts. By participating in RetroPGF Round 3, you
-      have the chance to receive OP tokens as a token of appreciation for the
-      impact you have made on the Optimism Collective. So, make sure to fill out
-      your application diligently and adhere to the rules to increase your
-      chances of being eligible for the rewards.
-
-    name: RetroPGF 3
+    name: Overview
     stepItems: []
     uuid: be2405a5-af2d-412d-b92f-762a5e13f4a8
   - content: |+
