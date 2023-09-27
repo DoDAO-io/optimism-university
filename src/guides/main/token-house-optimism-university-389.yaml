@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-09-25T14:20:06.647Z'
+created: '2023-09-27T06:39:37.242Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -165,19 +165,24 @@ steps:
     name: Proposal Types
     stepItems: []
     uuid: a6c1b84b-56f6-458b-8213-4fc744a85806
-  - content: >+
-      Reflection Periods and Special Voting Cycles are integral parts of the
-      governance system that the Optimism Foundation follows. These cycles allow
-      for the adoption of proposals and the modification of the collective's
-      structure based on feedback received during the previous season. Let's
-      delve deeper into how these cycles work.
-
-
+  - content: >-
       During each Season, Token House voting takes place through five-week
       voting cycles. These cycles commence on Thursday at 19:00 GMT (12:00 PST)
       and conclude on Wednesday at 19:00 GMT (12:00 PST). It is during these
       cycles that the community actively participates in voting on various
       proposals.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/token_house_optimism_university_389/1695651303092_untitled-2023-09-25-1547.png"/>
+      </div>
+
+
+      Reflection Periods and Special Voting Cycles are integral parts of the
+      governance system that the Optimism Foundation follows. These cycles allow
+      for the adoption of proposals and the modification of the collective's
+      structure based on feedback received during the previous season. Let's
+      delve deeper into how these cycles work.
 
 
       ### Reflection Periods
@@ -210,14 +215,6 @@ steps:
       calendar provides all the necessary information. It serves as a valuable
       resource for the community, offering insights into the timing and
       progression of the governance process.
-
-
-      ### History of Seasons
-       
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/token_house_optimism_university_389/1695651303092_untitled-2023-09-25-1547.png"/>
-      </div>
-
     name: Seasons and Voting Cycles
     stepItems: []
     uuid: 870c64d9-71de-45cb-a8e1-c849e140b3e5
