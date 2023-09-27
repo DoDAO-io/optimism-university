@@ -1,15 +1,13 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-26T16:54:04.430Z'
+created: '2023-09-27T14:50:42.645Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
 publishStatus: Live
 steps:
   - content: >
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png"/>
-      </div>
+      ### What is Citizen House?
 
 
       The Citizens' House is an innovative approach to governance that aims to
@@ -25,6 +23,11 @@ steps:
       the voting process. It's important to note that holding a voting badge
       during this stage does not guarantee permanent participation in the
       Citizens' House or future rounds of RetroPGF.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png"/>
+      </div>
 
 
       As the Citizens' House progresses, its role will expand beyond RetroPGF.
