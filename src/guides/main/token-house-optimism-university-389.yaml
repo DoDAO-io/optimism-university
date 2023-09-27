@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-09-27T14:35:13.763Z'
+created: '2023-09-27T14:35:50.988Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -136,19 +136,22 @@ steps:
       specific criteria related to the number of votes:
 
 
-      ### Quorum: This refers to the minimum number of total OP votes, which
-      includes abstain votes, that must be cast for a proposal to be eligible.
-      Quorum is calculated as a percentage of the total votable OP supply at the
-      start of the voting period. The "votable supply" encompasses the OP tokens
-      that have been delegated and are eligible to participate in the voting
+      ### Quorum
+
+      This refers to the minimum number of total OP votes, which includes
+      abstain votes, that must be cast for a proposal to be eligible. Quorum is
+      calculated as a percentage of the total votable OP supply at the start of
+      the voting period. The "votable supply" encompasses the OP tokens that
+      have been delegated and are eligible to participate in the voting
       process. 
 
 
-      ### Approval Threshold: To approve a proposal, a minimum number of OP
-      votes must be in favor of it. The approval threshold for each proposal is
-      determined as a percentage of the votes cast in favor of approval relative
-      to the total number of yes and no votes. Abstain votes are not included in
-      this calculation.
+      ### Approval Threshold
+
+      To approve a proposal, a minimum number of OP votes must be in favor of
+      it. The approval threshold for each proposal is determined as a percentage
+      of the votes cast in favor of approval relative to the total number of yes
+      and no votes. Abstain votes are not included in this calculation.
 
 
       The table below showcases different requirements for submission and
