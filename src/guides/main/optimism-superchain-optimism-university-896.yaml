@@ -1,12 +1,12 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-22T16:31:50.605Z'
+created: '2023-09-27T13:47:38.338Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism Superchain
 publishStatus: Live
 steps:
-  - content: >-
+  - content: >
       The Optimism Superchain is an advanced technology that aims to solve the
       major challenges faced by blockchain networks, such as scalability and
       transaction fees, without causing fragmentation in the ecosystem.
@@ -14,11 +14,6 @@ steps:
       each with their own tokens, features, and user communities. While this
       provides more options for users and developers, it also creates a
       fragmented ecosystem that hampers the growth of the crypto industry.
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_superchain_optimism_university_896/1695400285930_untitled-2023-09-22-1859.png"/>
-      </div>
 
 
       The fragmented ecosystem limits the network effects that are crucial for
@@ -30,6 +25,11 @@ steps:
       Additionally, developers face challenges in building applications that
       work across multiple chains, which limits innovation and reduces the
       number of developers willing to work on blockchain projects.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_superchain_optimism_university_896/1695822442713_capture.png"/>
+      </div>
 
 
       To address these issues, Optimism has developed the Superchain, which is a
