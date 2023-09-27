@@ -1,24 +1,20 @@
 categories: []
 content: Concise guide for delegates on effective gov. participation
-created: '2023-09-26T17:30:38.376Z'
+created: '2023-09-27T17:43:48.358Z'
 guideType: onboarding
 key: delegates-optimism-university-877
 name: Delegates
 publishStatus: Live
 steps:
   - content: >-
+      ### Who is a Delegate?
+
+
       Blockchain technology has revolutionized various industries, offering
       faster and more cost-effective transactions. The Optimism blockchain,
       built on the Ethereum network, is one such innovative technology. It
       utilizes a unique system of delegates to manage the governance of the
-      network. In this overview, we will explore the role of delegates in the
-      Optimism blockchain and how they contribute to its fair and transparent
-      governance.
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695749412408_untitled-2023-09-26-2024.png"/>
-      </div>
+      network. 
 
 
       In the Optimism blockchain, a delegate is an individual selected to make
@@ -29,12 +25,19 @@ steps:
       delegates at any time.
 
 
+      ### Role of Delegates
+
       Delegates in the Optimism blockchain are responsible for managing the
       governance of the network. They propose, vote, and execute changes to the
       network, ensuring its smooth operation. To be eligible for election as a
       delegate, individuals must meet specific criteria, such as holding a
       minimum number of tokens and having a good reputation within the
       community.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695749412408_untitled-2023-09-26-2024.png"/>
+      </div>
 
 
       Once elected, delegates can propose changes to the network, such as
@@ -71,11 +74,6 @@ steps:
       expectations associated with it:
 
 
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748360277_untitled-2023-09-26-2024.png"/>
-      </div>
-
-
       ### Commit
 
       The first step towards becoming a delegate is to familiarize yourself with
@@ -86,6 +84,11 @@ steps:
       expected from you as a delegate. Understanding these responsibilities will
       help you make an informed decision about whether or not you are ready to
       take on this role.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748360277_untitled-2023-09-26-2024.png"/>
+      </div>
 
 
       ### Set up Profile
@@ -118,12 +121,7 @@ steps:
       community:
 
 
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748642625_untitled-2023-09-26-2024.png"/>
-      </div>
-
-
-      ### Join Discord Channels
+      ### 1. Join Discord Channels
 
       As an existing delegate, it is important to actively participate in the
       governance discussions. Join the relevant channels on
@@ -144,7 +142,7 @@ steps:
       and the overall governance process.
 
 
-      ### Provide Feedback
+      ### 2. Provide Feedback
 
       To contribute to the decision-making process, delegates should provide
       feedback on draft proposals. This can be done in the [Proposals
@@ -155,7 +153,12 @@ steps:
       final outcome of the proposals.
 
 
-      ### Approve Non-Grant Proposals
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748642625_untitled-2023-09-26-2024.png"/>
+      </div>
+
+
+      ### 3. Approve Non-Grant Proposals
 
       If you possess more than 0.5% of the voting supply, you have the authority
       to approve non-grant proposals. To exercise this power, simply post the
@@ -166,7 +169,7 @@ steps:
       to the voting stage.
 
 
-      ### Vote on Non-Grant Proposals
+      ### 4. Vote on Non-Grant Proposals
 
       As an existing delegate, it is crucial to exercise your voting power on
       non-grant proposals. Utilize the [Optimism Governance
@@ -179,7 +182,7 @@ steps:
       other delegates.
 
 
-      ### Stay Up to Date
+      ### 5. Stay Up to Date
 
       To effectively fulfill your role as a delegate, it is essential to stay
       informed about voting cycles and general governance updates. The
