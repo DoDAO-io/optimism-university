@@ -1,18 +1,19 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-09-27T06:39:37.242Z'
+created: '2023-09-27T14:35:13.763Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
 publishStatus: Live
 steps:
   - content: >-
+      ### What is Token House?
+
+
       Token House is an integral part of the Optimism Collective's governance
       structure. It was established alongside the launch of the OP token, which
       was distributed to addresses that demonstrated positive-sum,
-      community-oriented behavior through Airdrop #1. As members of Token House,
-      OP holders have the responsibility to participate in the governance
-      process by submitting, deliberating, and voting on various proposals.
+      community-oriented behavior through Airdrop #1. 
 
 
       The Token House Governance Contract serves as the on-chain voting contract
@@ -23,12 +24,59 @@ steps:
       their votes on-chain.
 
 
+      ### How to become a Token House Member?
+
+
+      There are several avenues available for obtaining OP tokens and becoming a
+      part of the Optimism ecosystem. One common method is through airdrops,
+      which involve the distribution of tokens to eligible users based on
+      specific criteria. Airdrops are frequently employed to recognize early
+      adopters, active participants, or contributors to the project.
+
+
+      Another way to acquire OP tokens is through cryptocurrency trading
+      platforms. For instance, Crypto.com offers a user-friendly platform for
+      purchasing and trading OP tokens. By setting up an account and completing
+      the required verification process, users gain access to the OP token
+      market and can commence trading.
+
+
+      Furthermore, engagement within the Optimism ecosystem presents
+      opportunities for earning OP tokens. Individuals who contribute to the
+      development, testing, or promotion of Optimism's technology may qualify
+      for token rewards or incentives. Staying connected with the Optimism
+      community and keeping abreast of the network's official communication
+      channels enables contributors to stay informed about potential avenues for
+      earning tokens.
+
+
       The Optimism Forum plays a crucial role in the governance process by
       providing a platform for discussion and deliberation on governance
       proposals. It serves as a space where Token House members can engage in
       meaningful conversations and share their perspectives. In the future,
       additional user interfaces dedicated to governance councils may be
       developed to further enhance the governance experience.
+
+
+      ### Role of OP Token Holders
+
+
+      **Participation in Decentralized Governance:** OP token holders have the
+      opportunity to participate in the decentralized governance of the Optimism
+      ecosystem.
+
+
+      **Proposal Rights:** They can propose changes, updates, and enhancements
+      to the protocol.
+
+
+      **Voting Privileges:** OP token holders can cast votes on important
+      matters such as protocol upgrades and fee structures.
+
+
+      **Shaping the Network's Future:** Through their proposals and votes, they
+      play a pivotal role in shaping the future development and direction of the
+      Optimism network.
 
 
       ### Proposals
@@ -51,7 +99,7 @@ steps:
       and contain relevant information.
 
 
-      ### Voting Process
+      ### Voting on Proposals
 
 
       Currently, voting takes place on-chain through the Governance Contract.
@@ -83,8 +131,32 @@ steps:
     name: Overview
     stepItems: []
     uuid: 324cf926-0095-4774-9d5c-3ca12a348504
-  - content: |-
+  - content: >-
+      A Token House governance proposal is considered valid when it meets
+      specific criteria related to the number of votes:
+
+
+      ### Quorum: This refers to the minimum number of total OP votes, which
+      includes abstain votes, that must be cast for a proposal to be eligible.
+      Quorum is calculated as a percentage of the total votable OP supply at the
+      start of the voting period. The "votable supply" encompasses the OP tokens
+      that have been delegated and are eligible to participate in the voting
+      process. 
+
+
+      ### Approval Threshold: To approve a proposal, a minimum number of OP
+      votes must be in favor of it. The approval threshold for each proposal is
+      determined as a percentage of the votes cast in favor of approval relative
+      to the total number of yes and no votes. Abstain votes are not included in
+      this calculation.
+
+
+      The table below showcases different requirements for submission and
+      approval of each proposal type:
+
+
       <table>
+
       <thead>
         <tr>
           <th>Proposal Type</th>
@@ -95,6 +167,7 @@ steps:
           <th>Approval Threshold</th>
         </tr>
       </thead>
+
       <tbody>
         <tr>
           <td>Governance Fund</td>
@@ -161,16 +234,30 @@ steps:
           <td>51%</td>
         </tr>
       </tbody>
+
       </table>
     name: Proposal Types
     stepItems: []
     uuid: a6c1b84b-56f6-458b-8213-4fc744a85806
   - content: >-
-      During each Season, Token House voting takes place through five-week
-      voting cycles. These cycles commence on Thursday at 19:00 GMT (12:00 PST)
-      and conclude on Wednesday at 19:00 GMT (12:00 PST). It is during these
-      cycles that the community actively participates in voting on various
-      proposals.
+      ### Seasons & Voting Cycles
+
+
+      Seasons are distinct periods of governance operations, each with its own
+      unique timeline and objectives. These seasons are organized and scheduled
+      to facilitate decision-making and governance within the Token House
+      ecosystem. 
+
+
+      Voting cycles are specific phases within a season during which token
+      holders participate in the governance process. These cycles typically last
+      for five weeks and serve as the primary periods for proposing, discussing,
+      and voting on governance proposals. 
+
+
+      These cycles commence on Thursday at 19:00 GMT (12:00 PST) and conclude on
+      Wednesday at 19:00 GMT (12:00 PST). It is during these cycles that the
+      community actively participates in voting on various proposals.
 
 
       <div align="center">
