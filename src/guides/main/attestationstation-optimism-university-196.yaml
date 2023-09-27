@@ -1,6 +1,6 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-09-26T11:21:13.914Z'
+created: '2023-09-27T12:33:30.265Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
@@ -218,6 +218,55 @@ steps:
     name: Schemas
     stepItems: []
     uuid: 6730aba1-dae6-4c93-9bee-4592f776a51a
+  - content: >-
+      Here are some of the applications that utilize the AttestationStation:
+
+
+      ### AttestationStation v1
+
+
+      [EAS Scan](https://optimism.easscan.org/): This no-code interface enables
+      you to construct schemas, perform queries, and submit attestations.
+
+
+      ### AttestationStation v0
+
+
+      [AttestationStation Interface by
+      sbvegan](https://attestationstation.xyz/): This interface allows you to
+      query and submit attestations.
+
+
+      [Optimist Score by Flipside](https://science.flipsidecrypto.xyz/optimist/)
+
+
+      [Optimism Attestor](https://provenance.clique.social/attestor/opattestor)
+      and [ZK Discord
+      Attestations](https://clique.social/attestor/opattestor_discordroles) by
+      Clique: These applications bring web2 user behavior and identity data onto
+      the blockchain, bridging the gap between value-creating activities in web2
+      and incentive distribution layers in web3.
+
+
+      [Credit Risk Score by
+      RociFi](https://v2.roci.fi/app/analytics?address=0x00227dd82fae1220bdac630297753bb2cb4e8ddd):
+      This application mints NFCS (Non-Fungible Credit Score), offers DeFi
+      Credit Scoring, and supports borrowing under-collateralized DeFi Loans
+      with 70-85% collateral, as well as lending at up to 15% APR.
+
+
+      [Data Provider by Sismo](https://factory.sismo.io/): This application
+      allows you to create a Sismo Connect app or badge for your users.
+
+
+      [Otterspace
+      Score](https://docs.otterspace.xyz/otterspace-attestation-score):
+      Otterspace's non-transferable badge protocol assists dApp builders and
+      communities in creating improved incentive systems, non-financial rewards,
+      and automated permissions.
+    name: Examples
+    stepItems: []
+    uuid: 88672947-9932-4616-877c-51e86a3ecf0c
   - content: >-
       https://community.optimism.io/docs/identity/build/
 

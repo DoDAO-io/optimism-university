@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Your go-to guide for AttestationStation",
-  "created": "2023-09-26T11:21:13.914Z",
+  "created": "2023-09-27T12:33:30.265Z",
   "guideType": "onboarding",
   "key": "attestationstation-optimism-university-196",
   "name": "AttestationStation",
@@ -24,6 +24,12 @@
       "name": "Schemas",
       "stepItems": [],
       "uuid": "6730aba1-dae6-4c93-9bee-4592f776a51a"
+    },
+    {
+      "content": "Here are some of the applications that utilize the AttestationStation:\n\n### AttestationStation v1\n\n[EAS Scan](https://optimism.easscan.org/): This no-code interface enables you to construct schemas, perform queries, and submit attestations.\n\n### AttestationStation v0\n\n[AttestationStation Interface by sbvegan](https://attestationstation.xyz/): This interface allows you to query and submit attestations.\n\n[Optimist Score by Flipside](https://science.flipsidecrypto.xyz/optimist/)\n\n[Optimism Attestor](https://provenance.clique.social/attestor/opattestor) and [ZK Discord Attestations](https://clique.social/attestor/opattestor_discordroles) by Clique: These applications bring web2 user behavior and identity data onto the blockchain, bridging the gap between value-creating activities in web2 and incentive distribution layers in web3.\n\n[Credit Risk Score by RociFi](https://v2.roci.fi/app/analytics?address=0x00227dd82fae1220bdac630297753bb2cb4e8ddd): This application mints NFCS (Non-Fungible Credit Score), offers DeFi Credit Scoring, and supports borrowing under-collateralized DeFi Loans with 70-85% collateral, as well as lending at up to 15% APR.\n\n[Data Provider by Sismo](https://factory.sismo.io/): This application allows you to create a Sismo Connect app or badge for your users.\n\n[Otterspace Score](https://docs.otterspace.xyz/otterspace-attestation-score): Otterspace's non-transferable badge protocol assists dApp builders and communities in creating improved incentive systems, non-financial rewards, and automated permissions.",
+      "name": "Examples",
+      "stepItems": [],
+      "uuid": "88672947-9932-4616-877c-51e86a3ecf0c"
     },
     {
       "content": "https://community.optimism.io/docs/identity/build/\n\nhttps://community.optimism.io/docs/identity/atst-v1.html\n\nhttps://optimism.easscan.org/schema/view/0xac4c92fc5c7babed88f78a917cdbcdc1c496a8f4ab2d5b2ec29402736b2cf929\n\nhttps://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc\n\nhttps://optimism.easscan.org/schema/view/0x6ab5d34260fca0cfcf0e76e96d439cace6aa7c3c019d7c4580ed52c6845e9c89\n\nhttps://optimism.easscan.org/schema/view/0xfdcfdad2dbe7489e0ce56b260348b7f14e8365a8a325aef9834818c00d46b31b\n\nhttps://optimism.easscan.org/schema/view/0x76e98cce95f3ba992c2ee25cef25f756495147608a3da3aa2e5ca43109fe77cc\n\nhttps://optimism.easscan.org/schema/view/0x3e3e2172aebb902cf7aa6e1820809c5b469af139e7a4265442b1c22b97c6b2a5",
