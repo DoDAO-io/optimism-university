@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Unlock the potential of the Optimism Superchain",
-  "created": "2023-09-27T14:06:24.817Z",
+  "created": "2023-09-27T18:29:29.654Z",
   "guideType": "onboarding",
   "key": "optimism-superchain-optimism-university-896",
   "name": "Optimism Superchain",
@@ -15,7 +15,7 @@
     },
     {
       "content": "To transition Optimism into a Superchain, it must possess the following properties:\n\n<table>\n<thead>\n  <tr>\n    <th>Property</th>\n    <th>Purpose</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Shared L1 blockchain</td>\n    <td>Provides a total ordering of transactions across all OP Chains.</td>\n  </tr>\n  <tr>\n    <td>Shared bridge for all OP Chains</td>\n    <td>Enables OP Chains to have standardized security properties.</td>\n  </tr>\n  <tr>\n    <td>Cheap OP Chain deployment</td>\n    <td>Enables deploying and transacting on OP Chains without the high fees of transacting on L1.</td>\n  </tr>\n  <tr>\n    <td>Configuration options for OP Chains</td>\n    <td>Enables OP Chains to configure their data availability provider, sequencer address, etc.</td>\n  </tr>\n  <tr>\n    <td>Secure transactions &amp; cross-chain messages</td>\n    <td>Enables users to safely migrate assets between OP Chains.</td>\n  </tr>\n</tbody>\n</table>",
-      "name": "Properties of the Superchain",
+      "name": "Transitioning into Superchain",
       "stepItems": [],
       "uuid": "adde6aa3-4b3a-419f-8162-e84b990bd4ad"
     },
