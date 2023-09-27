@@ -1,12 +1,12 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-27T14:50:42.645Z'
+created: '2023-09-27T17:08:03.077Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
 publishStatus: Live
 steps:
-  - content: >
+  - content: >-
       ### What is Citizen House?
 
 
@@ -30,30 +30,39 @@ steps:
       </div>
 
 
-      As the Citizens' House progresses, its role will expand beyond RetroPGF.
-      In addition to voting on funding, it will collaborate with the Token House
-      to govern the allocation of surplus protocol revenue. The Citizens' House
-      will also work on defining criteria for participation and ensuring
-      adherence to the Collective's Codes of Conduct. This collaborative
-      approach ensures a system of checks and balances within the governance
-      structure.
+      ### Role & Responsibilities
 
 
-      Currently, citizenship in the Citizens' House is temporary. The second
-      round of RetroPGF citizenry is recorded through entries in the
-      AttestationStation. RetroPGF rounds occur at regular intervals and follow
-      a predefined process that includes phases for scoping, nominations,
-      profile creation, voting, and disbursements. The Foundation collects
-      information from projects to distribute grants, including performing KYC
-      (Know Your Customer) procedures.
+      **Collaboration with Token House:** The Citizens' House collaborates with
+      the Token House to make decisions regarding the allocation of surplus
+      protocol revenue. This collaboration ensures a balanced governance system.
 
 
-      The Citizens' House is an exciting experiment in non-plutocratic
-      governance and retroactive funding of public goods. 
+      **Defining Participation Criteria:** The Citizens' House plays a role in
+      defining the criteria for participation in the governance process,
+      ensuring that those involved meet certain requirements or standards.
+
+
+      **Enforcement of Codes of Conduct:** It ensures adherence to the
+      Collective's Codes of Conduct, helping maintain a respectful and ethical
+      environment within the governance system.
+
+
+      **RetroPGF Rounds:** The Citizens' House is closely associated with
+      RetroPGF rounds, which follow a predefined process involving phases such
+      as scoping, nominations, profile creation, voting, and disbursements.
+
+
+      **KYC Procedures:** The Foundation performs Know Your Customer (KYC)
+      procedures as part of the grant distribution process, ensuring
+      transparency and compliance with regulatory requirements.
     name: Overview
     stepItems: []
     uuid: 12241793-0d4d-4cfd-8404-84a706443177
   - content: >
+      ### How to Become a Citizen?
+
+
       Becoming a citizen is an important process that involves being recognized
       as a member of a particular community or country. In the context of the
       Citizens' House, citizenship is based on identity and aligning with the
@@ -69,11 +78,6 @@ steps:
       determined by governance and may change over time. 
 
 
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744978005_untitled-2023-09-26-2024.png"/>
-      </div>
-
-
       The Citizens' House works in collaboration with the Token House to
       establish criteria for participation in the Citizens' House. This means
       that the requirements for citizenship may evolve and be determined by the
@@ -81,6 +85,21 @@ steps:
       plays a crucial role in this process, as it is a neutral and
       permissionless contract that is used to determine the set of citizens
       based on reputation data.
+
+
+      ### Number of Citizens
+
+
+      The number of citizens responsible for voting keeps on increasing in every
+      RetroPGF round as depicted in the diagram below:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744978005_untitled-2023-09-26-2024.png"/>
+      </div>
+
+
+      ### Citizenship - Now & Future
 
 
       The current phase of Citizens' House governance is seeing an increase in
@@ -102,6 +121,27 @@ steps:
     stepItems: []
     uuid: 81b05da0-3b00-42bb-aa72-2f0d7026741c
   - content: >-
+      ### Retroactive Public Goods Funding
+
+
+      RetroPGF, is an initiative that aims to provide financial support for
+      public goods that are developed and utilized within the Optimism Stack (OP
+      Stack). The idea behind RetroPGF is to reward builders who make a positive
+      impact on the community by allowing them to profit from their
+      contributions. It questions the purpose of building free software for the
+      public good if there is no merit or benefit for the builder themselves. 
+
+
+      The funding provided through RetroPGF is given to projects, companies,
+      communities, or other entities that have already proven their value to the
+      Optimism ecosystem. This approach is taken because it is easier to
+      identify projects that have been useful in the past, rather than
+      predicting their future usefulness. By rewarding projects that have
+      already demonstrated their usefulness, RetroPGF ensures better capital
+      allocation and encourages the development of public goods that have a
+      tangible impact.
+
+
       <div align="center">
         <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695747221046_untitled-2023-09-26-2024.png"/>
       </div>
