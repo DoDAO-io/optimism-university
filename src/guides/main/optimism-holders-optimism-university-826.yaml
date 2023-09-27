@@ -1,23 +1,83 @@
 categories: []
 content: A concise guide tailored for Optimism token holders
-created: '2023-09-26T14:12:09.497Z'
+created: '2023-09-27T17:35:31.269Z'
 guideType: onboarding
 key: optimism-holders-optimism-university-826
 name: Optimism Holders
 publishStatus: Live
 steps:
   - content: >-
+      How to Become an OP Holder?
+
+
+      There are several avenues available for obtaining OP tokens and becoming a
+      part of the Optimism ecosystem. One common method is through airdrops,
+      which involve the distribution of tokens to eligible users based on
+      specific criteria. Airdrops are frequently employed to recognize early
+      adopters, active participants, or contributors to the project.
+
+
+      Another way to acquire OP tokens is through cryptocurrency trading
+      platforms. For instance, Crypto.com offers a user-friendly platform for
+      purchasing and trading OP tokens. By setting up an account and completing
+      the required verification process, users gain access to the OP token
+      market and can commence trading.
+
+
+      Furthermore, engagement within the Optimism ecosystem presents
+      opportunities for earning OP tokens. Individuals who contribute to the
+      development, testing, or promotion of Optimism's technology may qualify
+      for token rewards or incentives. Staying connected with the Optimism
+      community and keeping abreast of the network's official communication
+      channels enables contributors to stay informed about potential avenues for
+      earning tokens.
+
+
+      The Optimism Forum plays a crucial role in the governance process by
+      providing a platform for discussion and deliberation on governance
+      proposals. It serves as a space where Token House members can engage in
+      meaningful conversations and share their perspectives. In the future,
+      additional user interfaces dedicated to governance councils may be
+      developed to further enhance the governance experience.
+
+
+      ### Role of OP Holders
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695835808743_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
+      Participation in Decentralized Governance: OP token holders have the
+      opportunity to participate in the decentralized governance of the Optimism
+      ecosystem.
+
+
+      Proposal Rights: They can propose changes, updates, and enhancements to
+      the protocol.
+
+
+      Voting Privileges: OP token holders can cast votes on important matters
+      such as protocol upgrades and fee structures.
+
+
+      Shaping the Network's Future: Through their proposals and votes, they play
+      a pivotal role in shaping the future development and direction of the
+      Optimism network.
+    name: Overview
+    stepItems: []
+    uuid: 31c64e6c-2cf3-4f78-8346-d3181e4c09e3
+  - content: >-
+      ### Importance of Delegation
+
+
       Participating in the governance of the Optimism Token House can be a
       time-consuming task. To address this, individuals have the option to
       delegate their voting power to a community member who has volunteered to
       actively participate in Token House governance. However, if you prefer not
       to delegate your voting power, you will still need to delegate to yourself
       in order to vote. Let's explore the process of delegating tokens:
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695737376542_untitled-2023-09-26-1601.png"/>
-      </div>
 
 
       When trying to delegate your votes to a representative, follow this
@@ -56,6 +116,11 @@ steps:
       informed about the actions and decisions made on your behalf.
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695737376542_untitled-2023-09-26-1601.png"/>
+      </div>
+
+
       If you choose not to assign your voting authority to another delegate, you
       will still have to delegate your vote to your own address in order to
       participate in the voting process:
@@ -84,6 +149,9 @@ steps:
     stepItems: []
     uuid: ffeb0c12-2231-4fa9-9ad3-7ed707275dec
   - content: >-
+      ### Funding Sources in the OP Economy
+
+
       The funding for the OP economy comes from the ownership of OP Mainnet and
       the value of its blockspace. Currently, funding is obtained through the
       centralized sequencer, which is then redistributed by The Optimism
@@ -106,12 +174,9 @@ steps:
       The Foundation expects RetroPGF to drive a wide range of downstream
       effects, benefiting the entire Optimism Collective. This mechanism not
       only funds public goods but also provides exit liquidity for early
-      investment in these projects. The governance structure of the Foundation
-      ensures efficient and effective allocation of public goods funding,
-      drawing inspiration from the work of Ostrom and Vitalik. By creating
-      conditions for experimentation, the Foundation aims to maximize the
-      long-term value for builders, users, tokenholders, citizens, and the
-      entire Optimism Collective.
+      investment in these projects. By creating conditions for experimentation,
+      the Foundation aims to maximize the long-term value for builders, users,
+      tokenholders, citizens, and the entire Optimism Collective.
 
 
       The Optimism Collective operates on the belief that a healthy ecosystem is
@@ -155,12 +220,7 @@ steps:
     stepItems: []
     uuid: 3d838e68-0b4c-47c5-ba18-3733ac96cff6
   - content: >
-      The following diagram & table showcases the OP token allocations:
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
-      </div>
+      The following table & diagram  showcases the OP token allocations:
 
 
       <table>
@@ -202,6 +262,11 @@ steps:
       </tbody>
 
       </table>
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Ecosystem Fund
