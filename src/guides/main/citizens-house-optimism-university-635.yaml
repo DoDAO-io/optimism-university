@@ -1,6 +1,6 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-27T17:15:46.978Z'
+created: '2023-09-27T17:16:23.901Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
@@ -217,22 +217,6 @@ steps:
     name: RetroPGF
     stepItems: []
     uuid: 452a6580-f745-4e2c-aded-0c9d869c6d82
-  - content: |+
-      https://community.optimism.io/docs/governance/#citizens-house
-
-      https://community.optimism.io/docs/governance/citizens-house/
-
-      https://community.optimism.io/docs/governance/citizenship/#
-
-      https://community.optimism.io/docs/governance/retropgf-1/
-
-      https://community.optimism.io/docs/governance/retropgf-2/
-
-      https://community.optimism.io/docs/governance/retropgf-3/
-
-    name: References
-    stepItems: []
-    uuid: c936cc94-60cb-44b2-b5e1-8caa50433bdd
   - content: >-
       The Optimism Collective employs an innovative and adaptable approach to
       governance, continually refining its system to ensure its long-term
@@ -312,6 +296,22 @@ steps:
     name: Citizen House vs. Token House
     stepItems: []
     uuid: c48899de-5940-4d00-8e04-494467b8aa2a
+  - content: |+
+      https://community.optimism.io/docs/governance/#citizens-house
+
+      https://community.optimism.io/docs/governance/citizens-house/
+
+      https://community.optimism.io/docs/governance/citizenship/#
+
+      https://community.optimism.io/docs/governance/retropgf-1/
+
+      https://community.optimism.io/docs/governance/retropgf-2/
+
+      https://community.optimism.io/docs/governance/retropgf-3/
+
+    name: References
+    stepItems: []
+    uuid: c936cc94-60cb-44b2-b5e1-8caa50433bdd
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: citizens-house-optimism-university-635
