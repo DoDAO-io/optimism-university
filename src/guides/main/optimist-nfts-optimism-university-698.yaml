@@ -1,11 +1,185 @@
 categories: []
 content: An essential guide to navigating the world of NFTs on Optimism
-created: '2023-09-27T05:23:05.576Z'
+created: '2023-09-27T13:30:51.854Z'
 guideType: onboarding
 key: optimist-nfts-optimism-university-698
-name: NFTs
+name: NFTs on Optimism
 publishStatus: Live
 steps:
+  - content: >
+      The world of NFTs has seen a surge in popularity, and Optimism is no
+      exception. Optimism is a layer 2 scaling solution for Ethereum, and it has
+      its own unique NFT ecosystem. Let's explore some of the top NFT projects
+      on Optimism and how they contribute to the overall ecosystem:
+
+
+
+      ### PFP Collections
+
+      In the early days of Optimism's development, PFP (Profile Picture)
+      collections were all the rage. One such project is the [Optimism Ape Yacht
+      Club](https://www.google.com/url?sa=i&url=https%3A%2F%2Foayc.io%2F&psig=AOvVaw2zxeqmmg_KgqjEVPEV7bl6&ust=1695907025631000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCNiJiJbwyoEDFQAAAAAdAAAAABAP)
+      (OAYC), which holds the title for the most traded project on Optimism.
+      However, there are also original PFP collections like
+      [Apetimism](https://apetimism.com/), although it accounts for smaller
+      trading volumes.
+
+
+      ### Velodrome Governance NFTs
+
+      [Velodrome](https://velodrome.finance/) Governance NFTs have become a
+      ruling force in the Optimism NFT scene. These NFTs come with privileges in
+      Velodrome Tokenomics, such as rebases that prevent voting power dilution.
+      To obtain Velodrome NFTs, you can either lock $VELO tokens on their
+      website or purchase them on secondary markets like Opensea.
+
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimist_nfts_optimism_university_698/1695821330771_untitled-2023-09-27-1740.png"/>
+      </div>
+
+
+      ### Optimism Quests NFTs
+
+      [Optimism Quests](https://app.optimism.io/quests) NFTs have a different
+      purpose. They aim to educate new users in the Optimism ecosystem. Season 1
+      of Optimism Quests involved 18 third-party apps on Optimism, and Season 2
+      is expected to take place in 2023. An interesting detail is that Optimism
+      Quest NFTs can alter traits on "Optimist NFTs," a PFP collection by the
+      Optimism team. 
+
+
+      ### Mirror Writing NFTs
+
+      [Mirror](https://mirror.xyz/) is a Web3 native blogging platform that has
+      made its mark in the Optimism ecosystem with its Writing NFTs. These NFTs
+      allow readers to collect blog post-related NFTs and support writers. It
+      provides an opportunity for writers to monetize their work and build a
+      community that genuinely supports their journey. The Mirror team saw the
+      launch of Optimism as an opportunity to make collecting blog posts cheap
+      and efficient through Writing NFTs.
+    name: NFT Projects on Optimism
+    stepItems: []
+    uuid: 9af3bff8-739f-44cc-a88e-8fd2bee70c0d
+  - content: >-
+      NFT marketplaces on Optimism offer innovative solutions for digital
+      collectibles, peer-to-peer lending, generative art, public goods funding,
+      storytelling, and avatar communities. These platforms prioritize
+      efficiency, security, cost savings, and community engagement,
+      revolutionizing the NFT landscape and showcasing the potential of
+      blockchain technology:
+
+
+      ### Quix
+
+
+      [Quix](https://qx.app/) is a prominent NFT marketplace hosted on Optimism,
+      a layer 2 scaling solution for Ethereum. It offers a seamless experience
+      for users interested in digital collectibles, specifically Mirror Writing
+      NFTs. What sets Quix apart is its integration with Optimism, which enables
+      rapid transactions, substantial gas fee reductions, and robust security.
+      By emphasizing layer 2 scalability, Quix makes the NFT ecosystem more
+      accessible and cost-efficient. Users have already saved over $500,000 in
+      gas fees, highlighting the potential of layer 2 solutions in
+      revolutionizing the NFT landscape.
+
+
+      ### NiftyKit
+
+
+      [NiftyKit](https://niftykit.com/) stands out as a prominent NFT platform
+      tailored for creators and teams. It supports multiple blockchains,
+      including Ethereum, Polygon, Arbitrum, Nova, and Optimism, allowing
+      seamless smart contract and NFT minting. The platform prioritizes security
+      with audited contracts and on-chain fraud detection. NiftyKit fosters true
+      ownership of NFT smart contracts, encourages collaboration among team
+      members, and ensures top-tier user support. With low sales fees,
+      revenue-sharing capabilities, and integration-friendly features, NiftyKit
+      empowers creators and brands within the dynamic NFT ecosystem.
+
+
+      ### Aethernity
+
+
+      [Aethernity](https://optimistic.aethernity.xyz/) is an innovative NFT
+      project thriving on Optimism, Ethereum's layer 2 ecosystem. It combines
+      Ethereum's security with reduced costs and latency. 50% of initial mint
+      revenue from Aethernity's NFT sales funds public goods projects on Gitcoin
+      Grants. Early supporters enjoy exclusive perks and benefits. Aethernity
+      operates within the public domain, allowing versatile use of its
+      offerings. The project exemplifies the potential of NFTs to contribute to
+      broader initiatives while rewarding early supporters.
+
+
+      ### BlueSweep
+
+
+      [BlueSweep](https://www.bluesweep.xyz/) offers a streamlined NFT
+      management experience on Optimism, focusing on efficiency and cost
+      savings. As a top-tier NFT marketplace aggregator, BlueSweep prioritizes
+      layer 2 scaling solutions, ensuring swift user interactions and
+      significant gas fee reductions. Users can efficiently acquire up to 30
+      NFTs at once, thanks to innovative data compression techniques. This
+      approach enhances affordability and accessibility, making NFT transactions
+      on Optimism more practical and appealing.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimist_nfts_optimism_university_698/1695820180678_untitled-2023-09-27-1740.png"/>
+      </div>
+
+
+      ### Circular Art
+
+
+      [Circular Art](https://www.circularart.xyz/) is a groundbreaking
+      generative art platform that funds public goods. Users can choose from
+      curated collections and mint new generative artworks. 50% of the proceeds
+      from the inaugural collection fund public goods, while the remaining 50%
+      supports contributing artists. Circular Art addresses incentive challenges
+      within the creative and societal spheres, fostering a diverse and
+      collaborative environment.
+
+
+      ### Cryptovania
+
+
+      [Cryptovania](http://cryptovania.io/) is an innovative experiment in
+      decentralized storytelling. It allows participants to collectively craft
+      an evolving story within a dynamic "storyverse." Set in the town of Bran,
+      the storyverse revolves around 10,000 unique Cryptovania NFT collectors.
+      Each collector contributes to the narrative, shaping the storyline and
+      confronting challenges. This approach offers a refreshing departure from
+      traditional metaverse projects, encouraging collaboration, creativity, and
+      exploration within the Cryptovania universe.
+
+
+      ### CyberNerds
+
+
+      [CyberNerds](https://www.cybernerds.xyz/) is an experimental CC0 NFT
+      project on the Optimism network. It fosters community collaboration and
+      supports public goods. A substantial portion of its revenue is channeled
+      towards bolstering Optimism's public goods, and an additional percentage
+      goes to the American Red Cross. CyberNerd aims to establish the CyberNerds
+      DAO community, empowering NFT holders to influence treasury decisions and
+      drive growth.
+
+
+      ### Mojos
+
+
+      [Mojos](https://getmojos.com/) aim to establish on-chain avatar
+      communities that go beyond visual representation. Daily auctions
+      contribute to the project's treasury, and each Mojo corresponds to a vote
+      within the treasury. The Mojos smart contract operates as a
+      self-sustaining mechanism, managing the continuous auction cycle. Mojos
+      create an inclusive and self-regulated avatar ecosystem on the Optimism
+      network, fostering community engagement and collaboration.
+    name: NFT Marketplaces on Optimism
+    stepItems: []
+    uuid: 55bc2847-3177-4c06-8b36-5ec05c3aa5bc
   - content: >-
       [Optimist NFTs](https://app.optimism.io/optimist-nft) are digital avatars
       that allow individuals to express their personality and build their
@@ -57,173 +231,6 @@ steps:
     name: Optimist NFTs
     stepItems: []
     uuid: 52b5aa49-0939-4a87-8e81-a37a14996c16
-  - content: >-
-      The world of NFTs has seen a surge in popularity, and Optimism is no
-      exception. Optimism is a layer 2 scaling solution for Ethereum, and it has
-      its own unique NFT ecosystem. Let's explore some of the top NFT projects
-      on Optimism and how they contribute to the overall ecosystem:
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimist_nfts_optimism_university_698/1695739741362_untitled-2023-09-26-1601.png"/>
-      </div>
-
-
-      ### PFP Collections
-
-      In the early days of Optimism's development, PFP (Profile Picture)
-      collections were all the rage. One such project is the Optimism Ape Yacht
-      Club (OAYC), which holds the title for the most traded project on
-      Optimism. However, there are also original PFP collections like Apetimism
-      and Optimism Chads, although they account for smaller trading volumes.
-
-
-      ### Velodrome Governance NFTs
-
-      Velodrome Governance NFTs have become a ruling force in the Optimism NFT
-      scene. These NFTs come with privileges in Velodrome Tokenomics, such as
-      rebases that prevent voting power dilution. To obtain Velodrome NFTs, you
-      can either lock $VELO tokens on their website or purchase them on
-      secondary markets like Opensea.
-
-
-      ### Optimism Quests NFTs
-
-      Optimism Quests NFTs have a different purpose. They aim to educate new
-      users in the Optimism ecosystem. Season 1 of Optimism Quests involved 18
-      third-party apps on Optimism, and Season 2 is expected to take place in
-      2023. An interesting detail is that Optimism Quest NFTs can alter traits
-      on "Optimist NFTs," a PFP collection by the Optimism team. 
-
-
-      ### Mirror Writing NFTs
-
-      Mirror is a Web3 native blogging platform that has made its mark in the
-      Optimism ecosystem with its Writing NFTs. These NFTs allow readers to
-      collect blog post-related NFTs and support writers. It provides an
-      opportunity for writers to monetize their work and build a community that
-      genuinely supports their journey. The Mirror team saw the launch of
-      Optimism as an opportunity to make collecting blog posts cheap and
-      efficient through Writing NFTs.
-    name: NFT projects on Optimism
-    stepItems: []
-    uuid: 9af3bff8-739f-44cc-a88e-8fd2bee70c0d
-  - content: >-
-      NFT marketplaces on Optimism offer innovative solutions for digital
-      collectibles, peer-to-peer lending, generative art, public goods funding,
-      storytelling, and avatar communities. These platforms prioritize
-      efficiency, security, cost savings, and community engagement,
-      revolutionizing the NFT landscape and showcasing the potential of
-      blockchain technology:
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimist_nfts_optimism_university_698/1695646683193_untitled-2023-09-25-1547.png"/>
-      </div>
-
-
-      ### Quix
-
-
-      Quix is a prominent NFT marketplace hosted on Optimism, a layer 2 scaling
-      solution for Ethereum. It offers a seamless experience for users
-      interested in digital collectibles, specifically Mirror Writing NFTs. What
-      sets Quix apart is its integration with Optimism, which enables rapid
-      transactions, substantial gas fee reductions, and robust security. By
-      emphasizing layer 2 scalability, Quix makes the NFT ecosystem more
-      accessible and cost-efficient. Users have already saved over $500,000 in
-      gas fees, highlighting the potential of layer 2 solutions in
-      revolutionizing the NFT landscape.
-
-
-      ### NiftyKit
-
-
-      NiftyKit stands out as a prominent NFT platform tailored for creators and
-      teams. It supports multiple blockchains, including Ethereum, Polygon,
-      Arbitrum, Nova, and Optimism, allowing seamless smart contract and NFT
-      minting. The platform prioritizes security with audited contracts and
-      on-chain fraud detection. NiftyKit fosters true ownership of NFT smart
-      contracts, encourages collaboration among team members, and ensures
-      top-tier user support. With low sales fees, revenue-sharing capabilities,
-      and integration-friendly features, NiftyKit empowers creators and brands
-      within the dynamic NFT ecosystem.
-
-
-      ### Aethernity
-
-
-      Aethernity is an innovative NFT project thriving on Optimism, Ethereum's
-      layer 2 ecosystem. It combines Ethereum's security with reduced costs and
-      latency. 50% of initial mint revenue from Aethernity's NFT sales funds
-      public goods projects on Gitcoin Grants. Early supporters enjoy exclusive
-      perks and benefits. Aethernity operates within the public domain, allowing
-      versatile use of its offerings. The project exemplifies the potential of
-      NFTs to contribute to broader initiatives while rewarding early
-      supporters.
-
-
-      ### BlueSweep
-
-
-      BlueSweep offers a streamlined NFT management experience on Optimism,
-      focusing on efficiency and cost savings. As a top-tier NFT marketplace
-      aggregator, BlueSweep prioritizes layer 2 scaling solutions, ensuring
-      swift user interactions and significant gas fee reductions. Users can
-      efficiently acquire up to 30 NFTs at once, thanks to innovative data
-      compression techniques. This approach enhances affordability and
-      accessibility, making NFT transactions on Optimism more practical and
-      appealing.
-
-
-      ### Circular Art
-
-
-      Circular Art is a groundbreaking generative art platform that funds public
-      goods. Users can choose from curated collections and mint new generative
-      artworks. 50% of the proceeds from the inaugural collection fund public
-      goods, while the remaining 50% supports contributing artists. Circular Art
-      addresses incentive challenges within the creative and societal spheres,
-      fostering a diverse and collaborative environment.
-
-
-      ### Cryptovania
-
-
-      Cryptovania is an innovative experiment in decentralized storytelling. It
-      allows participants to collectively craft an evolving story within a
-      dynamic "storyverse." Set in the town of Bran, the storyverse revolves
-      around 10,000 unique Cryptovania NFT collectors. Each collector
-      contributes to the narrative, shaping the storyline and confronting
-      challenges. This approach offers a refreshing departure from traditional
-      metaverse projects, encouraging collaboration, creativity, and exploration
-      within the Cryptovania universe.
-
-
-      ### CyberNerd
-
-
-      CyberNerd is an experimental CC0 NFT project on the Optimism network. It
-      fosters community collaboration and supports public goods. A substantial
-      portion of its revenue is channeled towards bolstering Optimism's public
-      goods, and an additional percentage goes to the American Red Cross.
-      CyberNerd aims to establish the CyberNerds DAO community, empowering NFT
-      holders to influence treasury decisions and drive growth.
-
-
-      ### Mojos
-
-
-      Mojos aim to establish on-chain avatar communities that go beyond visual
-      representation. Daily auctions contribute to the project's treasury, and
-      each Mojo corresponds to a vote within the treasury. The Mojos smart
-      contract operates as a self-sustaining mechanism, managing the continuous
-      auction cycle. Mojos create an inclusive and self-regulated avatar
-      ecosystem on the Optimism network, fostering community engagement and
-      collaboration.
-    name: NFT Marketplaces on Optimism
-    stepItems: []
-    uuid: 55bc2847-3177-4c06-8b36-5ec05c3aa5bc
   - content: >
       https://help.optimism.io/hc/en-us/articles/10774929308699-What-is-the-Optimist-NFT-
 
