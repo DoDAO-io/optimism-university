@@ -1,45 +1,16 @@
 categories: []
 content: A comprehensive guide for using Optimism Bridge
-created: '2023-09-28T16:43:51.689Z'
+created: '2023-09-28T16:56:49.990Z'
 guideType: onboarding
 key: optimism-bridge-optimism-university-283
 name: Optimism Bridge
 publishStatus: Live
 steps:
   - content: >-
-      ### What is Optimism Bridge?
+      ### What is a bridge?
 
 
-      Optimism Bridge is a blockchain bridges which are tools that enable users
-      to transfer assets from one blockchain to another. These blockchains can
-      be either layer-1 chains like Ethereum, BNB Chain, or Solana, or layer-2
-      chains like Optimism or Arbitrum. The purpose of these bridges is to
-      facilitate the movement of assets, such as cryptocurrencies, between
-      different blockchains.
-
-
-      ### Why is Optimism Bridge Important?
-
-
-      Faster Transactions: Optimism Bridge enables quicker transaction
-      processing, allowing you to experience faster interactions with the
-      Optimism network.
-
-
-      Lower Fees: By using the bridge, you can enjoy reduced transaction fees
-      compared to the Ethereum mainnet, making it more cost-effective to move
-      and interact with your assets.
-
-
-      Token Accessibility: You can access and utilize your tokens from the
-      original source chain while taking advantage of the Optimism network's
-      benefits, ensuring flexibility in managing your assets.
-
-
-      Interoperability: The bridge fosters seamless interoperability between
-      various blockchain chains, unlocking new possibilities for decentralized
-      applications and token holders to interact and collaborate across
-      different networks.
+      ### What is Layer-2?
 
 
       ### How Do Blockchain Bridges Work?
@@ -77,75 +48,47 @@ steps:
       from a central authority. The decentralized nature ensures that the
       bridges are trustless and secure, as they rely on the consensus of
       multiple participants rather than a single entity.
-    name: Overview
+    name: Layer-2 & Bridges
+    stepItems: []
+    uuid: 8aea1e83-d198-48ca-bbc8-c5995de01d25
+  - content: >+
+      ### What is Optimism Bridge?
+
+
+      Optimism Bridge is a blockchain bridge which are tools that enable users
+      to transfer assets from one blockchain to another. These blockchains can
+      be either layer-1 chains like Ethereum, BNB Chain, or Solana, or layer-2
+      chains like Optimism or Arbitrum. The purpose of these bridges is to
+      facilitate the movement of assets, such as cryptocurrencies, between
+      different blockchains.
+
+
+      ### Why is Optimism Bridge Important?
+
+
+      Faster Transactions: Optimism Bridge enables quicker transaction
+      processing, allowing you to experience faster interactions with the
+      Optimism network.
+
+
+      Lower Fees: By using the bridge, you can enjoy reduced transaction fees
+      compared to the Ethereum mainnet, making it more cost-effective to move
+      and interact with your assets.
+
+
+      Token Accessibility: You can access and utilize your tokens from the
+      original source chain while taking advantage of the Optimism network's
+      benefits, ensuring flexibility in managing your assets.
+
+
+      Interoperability: The bridge fosters seamless interoperability between
+      various blockchain chains, unlocking new possibilities for decentralized
+      applications and token holders to interact and collaborate across
+      different networks.
+
+    name: Optimism Bridge
     stepItems: []
     uuid: d2e467dd-5874-493d-9457-9d20a987cc31
-  - content: >-
-      Optimism, a layer-2 scaling solution for Ethereum, has gained significant
-      popularity in recent times. To facilitate the seamless transfer of assets
-      to and from Optimism, several bridges have emerged. These bridges serve as
-      the connection points between Optimism and other platforms, allowing users
-      to bridge their assets easily. Let's explore some of the popular bridges
-      to Optimism.
-
-
-      ### Optimism Bridge
-
-
-      The official Optimism bridge is a widely used option for bridging assets.
-      It enables deposits from seven blockchains and four centralized exchanges,
-      including Binance. This bridge stands out for its compatibility with
-      various platforms and its absence of cross-chain fees. Users can transfer
-      their assets to Optimism without incurring any additional charges.
-
-
-      ### Hop Exchange
-
-
-      The Hop Exchange provides users with a fast method to transfer their
-      assets between the Ethereum mainnet (L1) and different Layer-2 (L2)
-      solutions.
-
-
-      ### Stargate
-
-
-      Among the bridges available, Stargate has gained significant popularity
-      due to its high 24-hour volume. It supports 11 popular networks, making it
-      a versatile option for users. With Stargate, users can bridge their assets
-      from different platforms to Optimism, ensuring a smooth and efficient
-      transfer process.
-
-
-      ### Celer cBridge
-
-
-      Another well-known bridge is Celer cBridge, which offers a non-custodial
-      asset bridging solution. This bridge supports over 30 layer-1 and layer-2
-      platforms, providing users with a wide range of options. Additionally,
-      Celer cBridge supports hundreds of assets, making it a popular choice for
-      those looking to bridge a diverse portfolio of assets to Optimism.
-
-
-      ### Synapse
-
-
-      Synapse is a bridge that currently supports 19 different blockchains and
-      dozens of assets. With its extensive compatibility, users can bridge their
-      assets from various platforms to Optimism. Synapse offers a reliable and
-      secure solution for asset transfers, ensuring that users can bridge their
-      assets with peace of mind.
-
-
-      These bridges act as the popular pathways to optimism, allowing users to
-      tap into the benefits of this scaling solution. By bridging their assets
-      to Optimism, users can enjoy faster and cheaper transactions, alleviating
-      the congestion and high fees often associated with the Ethereum network.
-      With a variety of bridges available, users have the flexibility to choose
-      the one that best suits their needs and preferences.
-    name: Popular Bridges to Optimism
-    stepItems: []
-    uuid: c898cd5d-cfff-4647-9427-dc840001a212
   - content: >-
       By following these steps, you can easily bridge your tokens from Ethereum
       to Optimism using the Optimism Bridge:
