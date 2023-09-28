@@ -1,20 +1,23 @@
 categories: []
 content: A comprehensive guide for using Optimism Bridge
-created: '2023-09-28T17:17:29.507Z'
+created: '2023-09-28T17:18:21.597Z'
 guideType: onboarding
 key: optimism-bridge-optimism-university-283
 name: Optimism Bridge
 publishStatus: Live
 steps:
   - content: >-
-      ### What is a Blockchain Bridge?
+      ### What is a Bridge?
 
 
-      A blockchain bridge is a technology or protocol that enables the transfer
-      of digital assets and information between two separate blockchain
-      networks. These bridges serve as connectors, allowing tokens or data to
-      move from one blockchain (referred to as the source chain) to another
-      blockchain (referred to as the target chain) and vice versa.
+      Bridges are responsible for holding assets on a layer-1 blockchain while
+      those same assets are released on another service. This defines who has
+      custody of the funds and the conditions that must be met before the assets
+      can be unlocked. The withdrawal request destroys coins on the off-chain
+      system and updates the bridge contract about the user’s entitlement to
+      withdraw their coins back to the Layer 1 blockchain. This allows users to
+      move their coins back and forth between the two systems without having to
+      worry about losing any of their value.
 
 
       ### What is Layer-2?
