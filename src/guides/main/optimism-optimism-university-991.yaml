@@ -1,12 +1,12 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T16:53:16.261Z'
+created: '2023-09-28T17:12:04.732Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
 publishStatus: Live
 steps:
-  - content: >
+  - content: >-
       ### What is Optimism?
 
 
@@ -20,13 +20,49 @@ steps:
       ### What is Layer-2?
 
 
+      Layer-2 (L2) is a secondary layer built on top of a main blockchain
+      (Layer-1 or L1) to improve its speed and scalability. It helps process
+      transactions faster and reduce congestion on the main blockchain. Examples
+      include the Lightning Network for Bitcoin and Optimistic Rollups for
+      Ethereum.
+
+
       ### Why do we need Layer-2?
 
 
-      ### Roll-ups (Optimistic & ?)
+      Layer-2 solutions are essential because they tackle the inherent
+      limitations of Layer-1 blockchains. Main blockchains like Ethereum and
+      Bitcoin often struggle with slow transaction processing and high fees when
+      they become congested due to increased user activity. This congestion
+      hinders their ability to scale and support a growing user base
+      effectively.
 
 
-      ### Optimistic Rollup
+      Layer-2 solutions provide a crucial remedy by offloading a portion of the
+      transaction load onto secondary layers. These secondary layers, while
+      independently operated, remain secured by the primary blockchain's
+      consensus mechanisms. As a result, Layer-2 solutions significantly enhance
+      transaction speeds, reduce costs, and increase the overall capacity of
+      blockchain networks. They make blockchain technology more practical for a
+      wide range of applications, from everyday transactions to decentralized
+      applications (dApps) and smart contracts.
+
+
+      ### Roll-ups
+
+
+      Rollup is a type of layer two solution to solve the Ethereum scalability
+      problem. Roll ups work by executing transactions outside the main ethereum
+      chain, while submitting data to the base chain.This means that layer-2
+      networks can handle the processing of transactions much faster than the
+      base blockchain, since there is a smaller validator set with better
+      hardware. In addition, the base blockchain only needs to execute proofs
+      submitted to the rollup smart contract to verify the activity on the
+      layer-2 network, rather than store raw, unexecuted transaction data. There
+      are generally two main kinds of roll-ups:
+
+
+      ##### Optimistic Rollups
 
 
       Optimism is categorized as an "Optimistic Rollup," which is essentially a
@@ -36,6 +72,16 @@ steps:
       mainnet. By doing so, Optimism can benefit from the robust security
       measures already in place on the parent chain, ensuring the safety and
       integrity of transactions on the Optimism chain.
+
+
+      ##### Zero-Knowledge Rollups 
+
+      Unlike Optimistic rollups, ZK rollups use cryptographic proofs like SNARKs
+      or STARKs to confirm transactions' authenticity, making them more
+      efficient as they update Layer 2 state through these proofs. This approach
+      simplifies block validation and ETH transfers to Layer 1. However, ZK
+      rollups may not fully support EVM and may be resource-intensive for low
+      on-chain activity applications.
     name: What is Optimism?
     stepItems: []
     uuid: 67ba520b-f9b7-4e5d-ab87-db198a0c7162
