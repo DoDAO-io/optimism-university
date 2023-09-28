@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T17:27:48.441Z'
+created: '2023-09-28T17:42:57.678Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -93,14 +93,12 @@ steps:
     stepItems: []
     uuid: 67ba520b-f9b7-4e5d-ab87-db198a0c7162
   - content: >-
-      ### Optimistic Rollups
-
-
       Optimism is a type of blockchain called an "Optimistic Rollup." It works
       by leveraging the security of another blockchain, known as the parent
       chain. Instead of having its own consensus mechanism, Optimistic Rollups
       rely on the consensus mechanism of the parent chain, such as Proof of Work
-      (PoW) or Proof of Stake (PoS).
+      (PoW) or Proof of Stake (PoS). The following is a brief explanation of the
+      fundamental principles of this concept:
 
 
       ### Block Storage
@@ -112,6 +110,11 @@ steps:
       on Ethereum, they cannot be modified or censored. This ensures the
       availability and integrity guarantees of Ethereum are inherited by the
       Optimism network.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922227341_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Block Production
@@ -161,6 +164,11 @@ steps:
       ### Advantages of Optimism
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922837002_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
       **Scalability:** One of the key advantages of Optimism is its scalability.
       By operating as a layer 2 solution, it helps to alleviate the congestion
       and high gas fees that can occur on the Ethereum mainnet. This allows for
@@ -204,6 +212,11 @@ steps:
       developing new features instead of recreating existing ones. It also
       enhances security by reducing the potential for unintentional bugs and
       makes the codebase more accessible to external contributors and auditors.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922958277_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Pragmatism
