@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T17:42:57.678Z'
+created: '2023-09-28T17:56:12.765Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -25,6 +25,11 @@ steps:
       transactions faster and reduce congestion on the main blockchain. Examples
       include the Lightning Network for Bitcoin and Optimistic Rollups for
       Ethereum.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695923757254_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Why do we need Layer-2?
