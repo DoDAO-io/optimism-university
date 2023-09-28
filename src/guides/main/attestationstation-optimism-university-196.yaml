@@ -1,6 +1,6 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-09-27T13:41:53.412Z'
+created: '2023-09-28T06:31:42.239Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
@@ -239,6 +239,11 @@ steps:
 
       [EAS Scan](https://optimism.easscan.org/): This no-code interface enables
       you to construct schemas, perform queries, and submit attestations.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695882682832_untitled-2023-09-28-1116.png"/>
+      </div>
 
 
       ### AttestationStation v0
