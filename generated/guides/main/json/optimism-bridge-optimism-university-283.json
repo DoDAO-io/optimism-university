@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A comprehensive guide for using Optimism Bridge",
-  "created": "2023-09-28T18:53:48.786Z",
+  "created": "2023-09-28T19:01:35.172Z",
   "guideType": "onboarding",
   "key": "optimism-bridge-optimism-university-283",
   "name": "Optimism Bridge",
@@ -14,7 +14,7 @@
       "uuid": "8aea1e83-d198-48ca-bbc8-c5995de01d25"
     },
     {
-      "content": "### What is Optimism Bridge?\n\nOptimism Bridge is a blockchain bridge which are tools that enable users to transfer assets from one blockchain to another. These blockchains can be either layer-1 chains like Ethereum, BNB Chain, or Solana, or layer-2 chains like Optimism or Arbitrum. The purpose of these bridges is to facilitate the movement of assets, such as cryptocurrencies, between different blockchains.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695925320587_untitled-2023-09-21-1651.png\"/>\n</div>\n\n### Why is Optimism Bridge Important?\n\n**Faster Transactions:** Optimism Bridge enables quicker transaction processing, allowing you to experience faster interactions with the Optimism network.\n\n**Lower Fees:** By using the bridge, you can enjoy reduced transaction fees compared to the Ethereum mainnet, making it more cost-effective to move and interact with your assets.\n\n**Token Accessibility:** You can access and utilize your tokens from the original source chain while taking advantage of the Optimism network's benefits, ensuring flexibility in managing your assets.\n\n**Interoperability:** The bridge fosters seamless interoperability between various blockchain chains, unlocking new possibilities for decentralized applications and token holders to interact and collaborate across different networks.",
+      "content": "### What is Optimism Bridge?\n\nOptimism Bridge is a blockchain bridge which are tools that enable users to transfer assets from one blockchain to another. These blockchains can be either layer-1 chains like Ethereum, BNB Chain, or Solana, or layer-2 chains like Optimism or Arbitrum. The purpose of these bridges is to facilitate the movement of assets, such as cryptocurrencies, between different blockchains.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695927659806_untitled-2023-09-21-1651.png\"/>\n</div>\n\n### Why is Optimism Bridge Important?\n\n**Faster Transactions:** Optimism Bridge enables quicker transaction processing, allowing you to experience faster interactions with the Optimism network.\n\n**Lower Fees:** By using the bridge, you can enjoy reduced transaction fees compared to the Ethereum mainnet, making it more cost-effective to move and interact with your assets.\n\n**Token Accessibility:** You can access and utilize your tokens from the original source chain while taking advantage of the Optimism network's benefits, ensuring flexibility in managing your assets.\n\n**Interoperability:** The bridge fosters seamless interoperability between various blockchain chains, unlocking new possibilities for decentralized applications and token holders to interact and collaborate across different networks.",
       "name": "Optimism Bridge",
       "stepItems": [],
       "uuid": "d2e467dd-5874-493d-9457-9d20a987cc31"
