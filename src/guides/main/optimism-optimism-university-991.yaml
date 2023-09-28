@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; , exploring its Layer 2 scaling solution
-created: '2023-09-28T15:17:55.463Z'
+created: '2023-09-28T15:18:16.644Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -67,11 +67,7 @@ steps:
       future. As more users and developers adopt Optimism, we can expect to see
       even greater innovation and advancements in the Ethereum ecosystem.
     name: Overview
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: f5caa6cc-f72f-49bf-87e2-4af800281518
+    stepItems: []
     uuid: 08c7d1ed-ab80-4bfe-bac3-fb57fc0ee58a
   - content: >-
       Optimism's design is closely aligned with the Ethereum vision, aiming to
@@ -118,5 +114,5 @@ steps:
     uuid: 8e9ddabb-b984-44ca-8b5c-fdbdeec78eff
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: fdd0294f-a1a6-4460-b679-47bff66f8af6
+uuid: optimism-optimism-university-991
 version: 1
