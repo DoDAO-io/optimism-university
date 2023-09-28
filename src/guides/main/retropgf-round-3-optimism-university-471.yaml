@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-27T18:19:48.939Z'
+created: '2023-09-28T19:38:09.742Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -179,6 +179,10 @@ steps:
       for. This information will help determine the appropriate amount of
       RetroPGF for your work. You do not need to include VC funding or other
       investments in your project or person.
+
+
+      <div class="play-js-player py-6" data-plyr-provider="youtube"
+      data-plyr-embed-id="kDKnS2S8b1U"></div>
     name: Application Guidelines
     stepItems: []
     uuid: c4ef0cf2-6a06-4f82-8833-d24b025b84f3
