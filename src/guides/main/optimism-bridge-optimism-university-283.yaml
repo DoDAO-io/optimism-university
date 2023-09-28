@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide for using Optimism Bridge
-created: '2023-09-28T17:16:40.734Z'
+created: '2023-09-28T17:17:29.507Z'
 guideType: onboarding
 key: optimism-bridge-optimism-university-283
 name: Optimism Bridge
@@ -158,6 +158,17 @@ steps:
     name: Using Optimism Bridge
     stepItems: []
     uuid: 2e0d8fba-b296-45bd-b736-03f2255c08b5
+  - content: >-
+      https://coinmarketcap.com/academy/article/how-to-bridge-to-optimism
+
+
+      https://www.coindesk.com/learn/what-are-layer-2s-and-why-are-they-important/
+
+
+      https://www.linkedin.com/pulse/how-use-optimism-users-manual-amit-jaiswal/
+    name: References
+    stepItems: []
+    uuid: 95e657d2-17b8-4ef9-b29f-298165991750
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: optimism-bridge-optimism-university-283
