@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T16:16:11.674Z'
+created: '2023-09-28T16:18:09.768Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -45,15 +45,18 @@ steps:
       ### Advantages of Optimism
 
 
-      One of the key advantages of Optimism is its scalability. By operating as
-      a layer 2 solution, it helps to alleviate the congestion and high gas fees
-      that can occur on the Ethereum mainnet. This allows for faster and more
-      cost-effective transactions, making it more accessible for users.
-      Additionally, Optimism provides a seamless user experience by maintaining
-      compatibility with existing Ethereum applications and infrastructure.
-      Users can continue to interact with their favorite decentralized
-      applications (dApps) and enjoy the benefits of Optimism's improved
-      efficiency.
+      **Scalability:** One of the key advantages of Optimism is its scalability.
+      By operating as a layer 2 solution, it helps to alleviate the congestion
+      and high gas fees that can occur on the Ethereum mainnet. This allows for
+      faster and more cost-effective transactions, making it more accessible for
+      users. 
+
+
+      **Seamless user experience:** Optimism provides a seamless user experience
+      by maintaining compatibility with existing Ethereum applications and
+      infrastructure. Users can continue to interact with their favorite
+      decentralized applications (dApps) and enjoy the benefits of Optimism's
+      improved efficiency.
 
 
       ### Future Outlook
