@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T17:12:04.732Z'
+created: '2023-09-28T17:14:14.824Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -62,8 +62,7 @@ steps:
       are generally two main kinds of roll-ups:
 
 
-      ##### Optimistic Rollups
-
+      - **Optimistic Rollups**
 
       Optimism is categorized as an "Optimistic Rollup," which is essentially a
       blockchain that relies on the security of another blockchain, known as the
@@ -74,7 +73,7 @@ steps:
       integrity of transactions on the Optimism chain.
 
 
-      ##### Zero-Knowledge Rollups 
+      - **Zero-Knowledge Rollups** 
 
       Unlike Optimistic rollups, ZK rollups use cryptographic proofs like SNARKs
       or STARKs to confirm transactions' authenticity, making them more
@@ -224,6 +223,20 @@ steps:
     name: Design Elements of Optimism
     stepItems: []
     uuid: 8e9ddabb-b984-44ca-8b5c-fdbdeec78eff
+  - content: >
+      https://www.coindesk.com/learn/what-are-layer-2s-and-why-are-they-important/
+
+
+      https://www.coindesk.com/learn/what-is-optimism/
+
+
+      https://community.optimism.io/docs/protocol/2-rollup-protocol/#
+
+
+      https://community.optimism.io/docs/protocol/1-design-philosophy/
+    name: References
+    stepItems: []
+    uuid: d09ddcdc-5e79-44f1-8cc6-bd0e7666a672
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: optimism-optimism-university-991
