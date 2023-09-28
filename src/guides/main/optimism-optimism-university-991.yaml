@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T17:14:14.824Z'
+created: '2023-09-28T17:27:07.954Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -60,6 +60,11 @@ steps:
       submitted to the rollup smart contract to verify the activity on the
       layer-2 network, rather than store raw, unexecuted transaction data. There
       are generally two main kinds of roll-ups:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695921982727_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       - **Optimistic Rollups**
