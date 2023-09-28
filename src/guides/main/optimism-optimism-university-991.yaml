@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T18:30:18.764Z'
+created: '2023-09-28T19:02:59.808Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -68,7 +68,7 @@ steps:
 
 
 
-      - **Optimistic Rollups**
+      #### a. Optimistic Rollups
 
 
       Optimism is categorized as an "Optimistic Rollup," which is essentially a
@@ -80,7 +80,7 @@ steps:
       integrity of transactions on the Optimism chain.
 
 
-      - **Zero-Knowledge Rollups** 
+      #### b. Zero-Knowledge Rollups
 
 
       Unlike Optimistic rollups, ZK rollups use cryptographic proofs like SNARKs
