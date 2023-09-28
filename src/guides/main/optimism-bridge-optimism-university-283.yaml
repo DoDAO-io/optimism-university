@@ -1,16 +1,30 @@
 categories: []
 content: A comprehensive guide for using Optimism Bridge
-created: '2023-09-28T16:56:49.990Z'
+created: '2023-09-28T17:16:40.734Z'
 guideType: onboarding
 key: optimism-bridge-optimism-university-283
 name: Optimism Bridge
 publishStatus: Live
 steps:
   - content: >-
-      ### What is a bridge?
+      ### What is a Blockchain Bridge?
+
+
+      A blockchain bridge is a technology or protocol that enables the transfer
+      of digital assets and information between two separate blockchain
+      networks. These bridges serve as connectors, allowing tokens or data to
+      move from one blockchain (referred to as the source chain) to another
+      blockchain (referred to as the target chain) and vice versa.
 
 
       ### What is Layer-2?
+
+
+      Layer-2 (L2) is a secondary layer built on top of a main blockchain
+      (Layer-1 or L1) to improve its speed and scalability. It helps process
+      transactions faster and reduce congestion on the main blockchain. Examples
+      include the Lightning Network for Bitcoin and Optimistic Rollups for
+      Ethereum.
 
 
       ### How Do Blockchain Bridges Work?
@@ -66,22 +80,22 @@ steps:
       ### Why is Optimism Bridge Important?
 
 
-      Faster Transactions: Optimism Bridge enables quicker transaction
+      **Faster Transactions:** Optimism Bridge enables quicker transaction
       processing, allowing you to experience faster interactions with the
       Optimism network.
 
 
-      Lower Fees: By using the bridge, you can enjoy reduced transaction fees
-      compared to the Ethereum mainnet, making it more cost-effective to move
-      and interact with your assets.
+      **Lower Fees:** By using the bridge, you can enjoy reduced transaction
+      fees compared to the Ethereum mainnet, making it more cost-effective to
+      move and interact with your assets.
 
 
-      Token Accessibility: You can access and utilize your tokens from the
+      **Token Accessibility:** You can access and utilize your tokens from the
       original source chain while taking advantage of the Optimism network's
       benefits, ensuring flexibility in managing your assets.
 
 
-      Interoperability: The bridge fosters seamless interoperability between
+      **Interoperability:** The bridge fosters seamless interoperability between
       various blockchain chains, unlocking new possibilities for decentralized
       applications and token holders to interact and collaborate across
       different networks.
