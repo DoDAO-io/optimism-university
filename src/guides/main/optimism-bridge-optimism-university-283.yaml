@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide for using Optimism Bridge
-created: '2023-09-28T17:18:21.597Z'
+created: '2023-09-28T18:29:18.286Z'
 guideType: onboarding
 key: optimism-bridge-optimism-university-283
 name: Optimism Bridge
@@ -31,6 +31,11 @@ steps:
 
 
       ### How Do Blockchain Bridges Work?
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695924760829_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       There are different mechanisms by which blockchain bridges facilitate
@@ -68,7 +73,7 @@ steps:
     name: Layer-2 & Bridges
     stepItems: []
     uuid: 8aea1e83-d198-48ca-bbc8-c5995de01d25
-  - content: >+
+  - content: >-
       ### What is Optimism Bridge?
 
 
@@ -78,6 +83,11 @@ steps:
       chains like Optimism or Arbitrum. The purpose of these bridges is to
       facilitate the movement of assets, such as cryptocurrencies, between
       different blockchains.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695925320587_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Why is Optimism Bridge Important?
@@ -102,11 +112,10 @@ steps:
       various blockchain chains, unlocking new possibilities for decentralized
       applications and token holders to interact and collaborate across
       different networks.
-
     name: Optimism Bridge
     stepItems: []
     uuid: d2e467dd-5874-493d-9457-9d20a987cc31
-  - content: >-
+  - content: >
       By following these steps, you can easily bridge your tokens from Ethereum
       to Optimism using the Optimism Bridge:
 
@@ -126,6 +135,11 @@ steps:
       section. This is where you choose your source chain or CEX (Centralized
       Exchange). For this guide, we will assume you are using Ethereum as the
       source chain. Select Ethereum from the drop-down menu.
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695925734682_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       ### Select the Token to Bridge
