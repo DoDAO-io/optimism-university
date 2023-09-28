@@ -1,6 +1,6 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-09-28T16:52:36.445Z'
+created: '2023-09-28T16:53:16.261Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: Optimism
@@ -24,6 +24,18 @@ steps:
 
 
       ### Roll-ups (Optimistic & ?)
+
+
+      ### Optimistic Rollup
+
+
+      Optimism is categorized as an "Optimistic Rollup," which is essentially a
+      blockchain that relies on the security of another blockchain, known as the
+      parent chain. In this case, Optimism leverages the consensus mechanism,
+      such as Proof of Work (PoW) or Proof of Stake (PoS), of the Ethereum
+      mainnet. By doing so, Optimism can benefit from the robust security
+      measures already in place on the parent chain, ensuring the safety and
+      integrity of transactions on the Optimism chain.
     name: What is Optimism?
     stepItems: []
     uuid: 67ba520b-f9b7-4e5d-ab87-db198a0c7162
@@ -91,18 +103,6 @@ steps:
       decentralized exchange (DEX), which is the second most popular protocol on
       the chain. Additionally, there are 35 protocols on Optimism that have at
       least $1,000 locked into their smart contracts.
-
-
-      ### Optimistic Rollup
-
-
-      Optimism is categorized as an "Optimistic Rollup," which is essentially a
-      blockchain that relies on the security of another blockchain, known as the
-      parent chain. In this case, Optimism leverages the consensus mechanism,
-      such as Proof of Work (PoW) or Proof of Stake (PoS), of the Ethereum
-      mainnet. By doing so, Optimism can benefit from the robust security
-      measures already in place on the parent chain, ensuring the safety and
-      integrity of transactions on the Optimism chain.
 
 
       ### Advantages of Optimism
