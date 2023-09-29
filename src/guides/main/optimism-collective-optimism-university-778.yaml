@@ -1,6 +1,6 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2023-09-27T18:23:13.341Z'
+created: '2023-09-29T16:41:43.602Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
@@ -72,6 +72,45 @@ steps:
     name: Overview- Optimism Collective
     stepItems: []
     uuid: b53f9454-8a4c-4417-acca-7c047a04e519
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To create a new digital currency
+            key: A
+          - content: To regulate the digital market
+            key: B
+          - content: To reward positive impact with profit
+            key: C
+          - content: To control the digital market
+            key: D
+        content: What is the primary goal of the Optimism Collective?
+        type: SingleChoice
+        uuid: 220ab9ed-3fd3-4211-ae0a-4277182db6ab
+        explanation: >-
+          The primary goal of the Optimism Collective is to reward positive
+          impact with profit, thereby nurturing the growth of public goods in
+          the digital space.
+      - answerKeys:
+          - A
+        choices:
+          - content: Public goods cannot be profitable
+            key: A
+          - content: Digital markets are not profitable
+            key: B
+          - content: Public goods do not have an impact
+            key: C
+          - content: Profitability and public goods cannot coexist
+            key: D
+        content: What is the misconception that the Optimism Collective aims to dispel?
+        type: SingleChoice
+        uuid: 1f848f25-93e2-4751-aa28-ed4b551b7f77
+        explanation: >-
+          The Optimism Collective aims to dispel the misconception that public
+          goods cannot be profitable.
+    uuid: 8a8fde55-2676-4bfa-a942-cbaa796f3e2c
   - content: >-
       The Optimism Collective employs an innovative and adaptable approach to
       governance, continually refining its system to ensure its long-term
@@ -151,6 +190,44 @@ steps:
     name: Governance Structure
     stepItems: []
     uuid: ad6f7d3b-548b-4493-807e-7940c1edf19a
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: OP holders & their delegates
+            key: A
+          - content: Optimism citizens
+            key: B
+          - content: Optimism Foundation members
+            key: C
+          - content: Badge holders
+            key: D
+        content: What does the Token House of the Optimism Collective comprise of?
+        type: SingleChoice
+        uuid: b6d483a7-d0a1-4d9b-ba8b-63a9a58c1542
+        explanation: >-
+          The Token House of the Optimism Collective comprises of OP holders and
+          their delegates.
+      - answerKeys:
+          - D
+        choices:
+          - content: The voting power is transferable
+            key: A
+          - content: Token voting is distributed widely and permissionless
+            key: B
+          - content: The voting power is based on the number of OP tokens held
+            key: C
+          - content: Uses a one-person, one-vote system
+            key: D
+        content: >-
+          How is the voting power in the Citizen House of the Optimism
+          Collective?
+        type: SingleChoice
+        uuid: 29c8fac4-5be1-48b4-9450-078c34a78c5e
+        explanation: The Citizen House uses a one-person, one-vote system.
+    uuid: 74b2d562-367f-4d67-bd4a-a96bba7e48dc
   - content: >-
       The Optimism Foundation plays a crucial role in supporting the
       establishment of the Optimism Collective and the development of the
@@ -201,6 +278,52 @@ steps:
     name: Optimism Foundation
     stepItems: []
     uuid: 35567886-7ffb-4ba0-8b60-63e808b1fe99
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To act as a financial institution
+            key: A
+          - content: To provide legal services
+            key: B
+          - content: >-
+              To support the establishment and development of the Optimism
+              Collective and ecosystem
+            key: C
+          - content: To manage the marketing and promotion of the Optimism Collective
+            key: D
+        content: What is the primary role of the Optimism Foundation?
+        type: SingleChoice
+        uuid: 8bd1014f-c33c-44dd-a7e5-919e247dcac1
+        explanation: >-
+          The Optimism Foundation plays a crucial role in supporting the
+          establishment of the Optimism Collective and the development of the
+          Optimism ecosystem. It also helps in facilitating various
+          administrative aspects of Collective governance.
+      - answerKeys:
+          - D
+        choices:
+          - content: By controlling the development of the protocol
+            key: A
+          - content: By limiting the community's contribution to the protocol
+            key: B
+          - content: By solely focusing on the financial aspects of the protocol
+            key: C
+          - content: >-
+              By encouraging community contribution and commissioning technical
+              research
+            key: D
+        content: How does the Optimism Foundation support the Optimism protocol?
+        type: SingleChoice
+        uuid: 3893b3f8-4f32-45b3-8fa8-8a3cf9cd6d82
+        explanation: >-
+          The Foundation supports the Optimism protocol by encouraging and
+          enabling the community to contribute to the technical architecture of
+          the protocol. Additionally, it commissions technical research on
+          scalability, security, and decentralization.
+    uuid: 3b45cb80-ede9-4500-91d7-3058c4f9e619
   - content: >-
       The Optimism Foundation operates under a well-defined structure and set of
       processes to ensure effective governance and accountability. Let's take a
@@ -295,6 +418,58 @@ steps:
     name: Governance Proposals
     stepItems: []
     uuid: c5dbc5d8-bf0f-4a73-a30f-7e890fdca84b
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To decide the salary of the board members
+            key: A
+          - content: To elect new board members
+            key: B
+          - content: To determine the amount of OP tokens available for disbursement
+            key: C
+          - content: >-
+              To veto any proposed changes to the foundation's governing
+              documents
+            key: D
+        content: >-
+          What is the purpose of the 'Vote for Disbursement' governance
+          proposal?
+        type: SingleChoice
+        uuid: 57148f97-5a34-426d-8ae2-34e4ad0124d6
+        explanation: >-
+          The 'Vote for Disbursement' proposal allows the collective to
+          determine the amount of OP tokens available for disbursement. This
+          ensures that the foundation's financial resources align with the
+          interests and priorities of the token holders.
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              The power to veto any proposed changes to the foundation's
+              governing documents
+            key: A
+          - content: >-
+              The power to remove any member of the foundation's Board of
+              Directors
+            key: B
+          - content: >-
+              The power to determine the amount of OP tokens available for
+              disbursement
+            key: C
+          - content: The power to elect new board members
+            key: D
+        content: What power does the 'Director Removal' governance proposal provide?
+        type: SingleChoice
+        uuid: d1ab3303-a142-4f5e-ab8e-3eab4fd0542f
+        explanation: >-
+          The 'Director Removal' proposal gives the governance the authority to
+          remove any member of the foundation's Board of Directors who fails to
+          fulfill their responsibilities or acts against the best interests of
+          the foundation.
+    uuid: ba1d5f9d-c83e-4161-b750-01dff72f0c72
   - content: >+
       https://community.optimism.io/docs/governance/#
 

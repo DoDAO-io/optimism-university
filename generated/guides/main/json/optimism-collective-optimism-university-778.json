@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A Comprehensive Guide about Optimism Collective",
-  "created": "2023-09-27T18:23:13.341Z",
+  "created": "2023-09-29T16:41:43.602Z",
   "guideType": "onboarding",
   "key": "optimism-collective-optimism-university-778",
   "name": "Optimism Collective",
@@ -14,16 +14,199 @@
       "uuid": "b53f9454-8a4c-4417-acca-7c047a04e519"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To create a new digital currency",
+              "key": "A"
+            },
+            {
+              "content": "To regulate the digital market",
+              "key": "B"
+            },
+            {
+              "content": "To reward positive impact with profit",
+              "key": "C"
+            },
+            {
+              "content": "To control the digital market",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary goal of the Optimism Collective?",
+          "type": "SingleChoice",
+          "uuid": "220ab9ed-3fd3-4211-ae0a-4277182db6ab",
+          "explanation": "The primary goal of the Optimism Collective is to reward positive impact with profit, thereby nurturing the growth of public goods in the digital space."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Public goods cannot be profitable",
+              "key": "A"
+            },
+            {
+              "content": "Digital markets are not profitable",
+              "key": "B"
+            },
+            {
+              "content": "Public goods do not have an impact",
+              "key": "C"
+            },
+            {
+              "content": "Profitability and public goods cannot coexist",
+              "key": "D"
+            }
+          ],
+          "content": "What is the misconception that the Optimism Collective aims to dispel?",
+          "type": "SingleChoice",
+          "uuid": "1f848f25-93e2-4751-aa28-ed4b551b7f77",
+          "explanation": "The Optimism Collective aims to dispel the misconception that public goods cannot be profitable."
+        }
+      ],
+      "uuid": "8a8fde55-2676-4bfa-a942-cbaa796f3e2c"
+    },
+    {
       "content": "The Optimism Collective employs an innovative and adaptable approach to governance, continually refining its system to ensure its long-term viability. The Collective's model of digital democratic governance comprises of two chambers: the Token House and the Citizens' House.\n\n<table>\n<thead>\n  <tr>\n    <th>Factors</th>\n    <th>Token House</th>\n    <th>Citizen House</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Comprises of</td>\n    <td>OP holders &amp; their delegates</td>\n    <td>Optimism citizens</td>\n  </tr>\n  <tr>\n    <td>Responsibility</td>\n    <td>Distribution of project incentives, protocol upgrades, and treasury funds.</td>\n    <td>Allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF).</td>\n  </tr>\n  <tr>\n    <td>Membership Criteria</td>\n    <td>By acquiring OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism's ecosystem.</td>\n    <td>Citizens are chosen via entries in the AttestationStation smart contract (builders, users, and community members)</td>\n  </tr>\n  <tr>\n    <td>New Member Selection Criteria</td>\n    <td>A Council Lead was selected by the Foundation and 8 Reviewers were elected by the Token House in a Special Voting Cycle.</td>\n    <td>For RetroPGF Round 2, badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above</td>\n  </tr>\n  <tr>\n    <td>Grant Procedure</td>\n    <td>Each Cycle will have three periods, a Submission Period, a Review Period, and a Decision Period.</td>\n    <td>The grant procedure involves badgeholder selection, project nominations, project profile creation, and the voting phase, with specific timelines for each stage.</td>\n  </tr>\n  <tr>\n    <td>Grant Application Example</td>\n    <td><a href=\"https://gov.optimism.io/t/ready-builders-cycle-11-integration-of-optimism-into-airgap-vault-airgap-wallet-and-airgap-coin-lib/5402\" target=\"_blank\" rel=\"noopener noreferrer\">AirGap Wallet</a><br><a href=\"https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538\" target=\"_blank\" rel=\"noopener noreferrer\">Another World</a></td>\n    <td><a href=\"https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21\" target=\"_blank\" rel=\"noopener noreferrer\">Protocol Guild</a><br><a href=\"https://app.optimism.io/retropgf-discovery/0xa142aB9eab9264807A41F0E5cbDab877D204E233\" target=\"_blank\" rel=\"noopener noreferrer\">L2BEAT</a></td>\n  </tr>\n  <tr>\n    <td>Grant Reviewers</td>\n    <td>The Grants Council consists of two Sub-Committees: Builders and Growth Experiments. (9 Reviewers in Season 4)</td>\n    <td>In RetroPGF Round 2, 69 out of the 71 selected badgeholders – our early “citizens” – voted on how to allocate 10M OP to projects.</td>\n  </tr>\n  <tr>\n    <td>Power</td>\n    <td>The voting power in this chamber is transferable.</td>\n    <td>Citizenship is conferred by “soulbound,” non-transferable NFTs.</td>\n  </tr>\n  <tr>\n    <td>Voting Power</td>\n    <td>Token voting is distributed widely and permissionless.</td>\n    <td>Uses a one-person, one-vote system.</td>\n  </tr>\n  <tr>\n    <td>Voting Cycles</td>\n    <td>Proposals are reviewed over a five week voting cycle.</td>\n    <td>RetroPGF rounds occur in intervals and according to a predefined process, which currently includes phases for scoping, nominations, profile creation, voting, and disbursements.</td>\n  </tr>\n  <tr>\n    <td>Funded Project Examples</td>\n    <td><a href=\"http://www.atomiclinks.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Atomic Links</a><br><a href=\"https://www.jiffyscan.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Jiffyscan</a></td>\n    <td><a href=\"https://soliditylang.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Solidity</a><br><a href=\"https://geth.ethereum.org/\" target=\"_blank\" rel=\"noopener noreferrer\">geth</a></td>\n  </tr>\n</tbody>\n</table>",
       "name": "Governance Structure",
       "stepItems": [],
       "uuid": "ad6f7d3b-548b-4493-807e-7940c1edf19a"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "OP holders & their delegates",
+              "key": "A"
+            },
+            {
+              "content": "Optimism citizens",
+              "key": "B"
+            },
+            {
+              "content": "Optimism Foundation members",
+              "key": "C"
+            },
+            {
+              "content": "Badge holders",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Token House of the Optimism Collective comprise of?",
+          "type": "SingleChoice",
+          "uuid": "b6d483a7-d0a1-4d9b-ba8b-63a9a58c1542",
+          "explanation": "The Token House of the Optimism Collective comprises of OP holders and their delegates."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The voting power is transferable",
+              "key": "A"
+            },
+            {
+              "content": "Token voting is distributed widely and permissionless",
+              "key": "B"
+            },
+            {
+              "content": "The voting power is based on the number of OP tokens held",
+              "key": "C"
+            },
+            {
+              "content": "Uses a one-person, one-vote system",
+              "key": "D"
+            }
+          ],
+          "content": "How is the voting power in the Citizen House of the Optimism Collective?",
+          "type": "SingleChoice",
+          "uuid": "29c8fac4-5be1-48b4-9450-078c34a78c5e",
+          "explanation": "The Citizen House uses a one-person, one-vote system."
+        }
+      ],
+      "uuid": "74b2d562-367f-4d67-bd4a-a96bba7e48dc"
+    },
+    {
       "content": "The Optimism Foundation plays a crucial role in supporting the establishment of the Optimism Collective and the development of the Optimism ecosystem. It is part of a larger network of companies, groups, and individuals working towards the realization of the Optimistic Vision. As an established entity, the Foundation has the ability to enter into legally enforceable commitments, allowing it to act quickly and safely to support the Collective in its early stages.\n\n### Governance\nOne of the key responsibilities of the Optimism Foundation is its stewardship role in facilitating various administrative aspects of Collective governance. It helps develop frameworks such as the Working Constitution and the Operating Manual, which are essential for facilitating participation within the Collective. By providing these administrative services, the Foundation ensures that the Collective operates smoothly and efficiently.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_collective_optimism_university_778/1695645715836_untitled-2023-09-25-1547.png\"/>\n</div>\n\n### Support Optimism Protocol\nThe Foundation also plays a vital role in supporting the Optimism protocol as an open-source project. It encourages and enables the community to contribute to the technical architecture of the protocol. Additionally, the Foundation commissions technical research on scalability, security, and decentralization, ensuring that the Optimism protocol remains robust and reliable. By supporting the development of the protocol, the Foundation contributes to the growth and success of the Optimism ecosystem.\n\n### Future Goals\nWhile the Optimism Foundation currently provides administrative services and support, its ultimate aim is to coordinate contributors in creating the technical and governance foundations that will allow for decentralization over time. The Foundation recognizes the importance of empowering the community and gradually reducing its own role. This approach ensures that the Collective becomes self-sustaining and capable of making independent decisions in the future.",
       "name": "Optimism Foundation",
       "stepItems": [],
       "uuid": "35567886-7ffb-4ba0-8b60-63e808b1fe99"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To act as a financial institution",
+              "key": "A"
+            },
+            {
+              "content": "To provide legal services",
+              "key": "B"
+            },
+            {
+              "content": "To support the establishment and development of the Optimism Collective and ecosystem",
+              "key": "C"
+            },
+            {
+              "content": "To manage the marketing and promotion of the Optimism Collective",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary role of the Optimism Foundation?",
+          "type": "SingleChoice",
+          "uuid": "8bd1014f-c33c-44dd-a7e5-919e247dcac1",
+          "explanation": "The Optimism Foundation plays a crucial role in supporting the establishment of the Optimism Collective and the development of the Optimism ecosystem. It also helps in facilitating various administrative aspects of Collective governance."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "By controlling the development of the protocol",
+              "key": "A"
+            },
+            {
+              "content": "By limiting the community's contribution to the protocol",
+              "key": "B"
+            },
+            {
+              "content": "By solely focusing on the financial aspects of the protocol",
+              "key": "C"
+            },
+            {
+              "content": "By encouraging community contribution and commissioning technical research",
+              "key": "D"
+            }
+          ],
+          "content": "How does the Optimism Foundation support the Optimism protocol?",
+          "type": "SingleChoice",
+          "uuid": "3893b3f8-4f32-45b3-8fa8-8a3cf9cd6d82",
+          "explanation": "The Foundation supports the Optimism protocol by encouraging and enabling the community to contribute to the technical architecture of the protocol. Additionally, it commissions technical research on scalability, security, and decentralization."
+        }
+      ],
+      "uuid": "3b45cb80-ede9-4500-91d7-3058c4f9e619"
     },
     {
       "content": "The Optimism Foundation operates under a well-defined structure and set of processes to ensure effective governance and accountability. Let's take a closer look at the foundation's work processes and how they contribute to its smooth functioning:\n\n### Governing Body\nThe foundation is governed by a Board of Directors, which currently consists of Abbey Titcomb, Ben Jones, Brian Avello, Eva Beylin, and Jing. The board's primary role is to manage the foundation's business and affairs. They oversee the foundation's directors and ensure that they fulfill their legal obligations. Additionally, a supervisor is appointed to provide guidance and support to the board.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_collective_optimism_university_778/1695662760150_untitled-2023-09-25-1547.png\"/>\n</div>\n\n### Employment\nTo execute its operational and administrative aims, the foundation employs officers, contractors, and service providers. These individuals and entities play a crucial role in carrying out the day-to-day tasks and responsibilities of the foundation. They work closely with the board and other stakeholders to ensure the smooth functioning of the foundation.\n\n### Legal Accountability\nAs a Cayman Islands foundation company, the Optimism Foundation is legally accountable to its governing documentation. This documentation establishes the foundation's commitment to defer to the will of the Optimism Collective and its governance. The foundation is required to observe and implement the outcome of valid governance votes diligently and in a commercially reasonable manner. However, the foundation's discretion is limited to proposals that are unsafe, insecure, inconsistent with its purpose, legally non-compliant, or would hinder its ability to function effectively.",
@@ -36,6 +219,67 @@
       "name": "Governance Proposals",
       "stepItems": [],
       "uuid": "c5dbc5d8-bf0f-4a73-a30f-7e890fdca84b"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To decide the salary of the board members",
+              "key": "A"
+            },
+            {
+              "content": "To elect new board members",
+              "key": "B"
+            },
+            {
+              "content": "To determine the amount of OP tokens available for disbursement",
+              "key": "C"
+            },
+            {
+              "content": "To veto any proposed changes to the foundation's governing documents",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of the 'Vote for Disbursement' governance proposal?",
+          "type": "SingleChoice",
+          "uuid": "57148f97-5a34-426d-8ae2-34e4ad0124d6",
+          "explanation": "The 'Vote for Disbursement' proposal allows the collective to determine the amount of OP tokens available for disbursement. This ensures that the foundation's financial resources align with the interests and priorities of the token holders."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The power to veto any proposed changes to the foundation's governing documents",
+              "key": "A"
+            },
+            {
+              "content": "The power to remove any member of the foundation's Board of Directors",
+              "key": "B"
+            },
+            {
+              "content": "The power to determine the amount of OP tokens available for disbursement",
+              "key": "C"
+            },
+            {
+              "content": "The power to elect new board members",
+              "key": "D"
+            }
+          ],
+          "content": "What power does the 'Director Removal' governance proposal provide?",
+          "type": "SingleChoice",
+          "uuid": "d1ab3303-a142-4f5e-ab8e-3eab4fd0542f",
+          "explanation": "The 'Director Removal' proposal gives the governance the authority to remove any member of the foundation's Board of Directors who fails to fulfill their responsibilities or acts against the best interests of the foundation."
+        }
+      ],
+      "uuid": "ba1d5f9d-c83e-4161-b750-01dff72f0c72"
     },
     {
       "content": "https://community.optimism.io/docs/governance/#\n\nhttps://www.optimism.io/vision\n\nhttps://blog.cryptostars.is/optimism-collective-8b6f829b7fc0\n\nhttps://optimism.mirror.xyz/gQWKlrDqHzdKPsB1iUnI-cVN3v0NvsWnazK7ajlt1fI\n\nhttps://community.optimism.io/docs/governance/#token-house\n\nhttps://community.optimism.io/docs/governance/#citizens-house\n\nhttps://coinpaper.com/544/a-quick-guide-to-the-optimism-governance-structure\n\nhttps://community.optimism.io/docs/governance/what-is-the-optimism-foundation/\n\n",
