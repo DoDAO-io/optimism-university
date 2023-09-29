@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Concise guide for delegates on effective gov. participation",
-  "created": "2023-09-28T13:26:47.409Z",
+  "created": "2023-09-29T17:40:30.591Z",
   "guideType": "onboarding",
   "key": "delegates-optimism-university-877",
   "name": "Delegates",
@@ -14,16 +14,172 @@
       "uuid": "f5523ed8-cb12-4fc2-a5b5-1ad724de99ea"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "A person who develops the blockchain",
+              "key": "A"
+            },
+            {
+              "content": "A person who mines the tokens",
+              "key": "B"
+            },
+            {
+              "content": "An individual selected to make governance decisions on behalf of token holders",
+              "key": "C"
+            },
+            {
+              "content": "A person who only holds the tokens",
+              "key": "D"
+            }
+          ],
+          "content": "Who is a delegate in the context of the Optimism blockchain?",
+          "type": "SingleChoice",
+          "uuid": "ac8eacc9-9565-4fec-b64a-c13a20d6d7ae",
+          "explanation": "In the Optimism blockchain, a delegate is an individual selected to make governance decisions on behalf of token holders. Token holders have the option to delegate their voting power to someone else, who will then represent them in decision-making processes."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To mine new tokens",
+              "key": "A"
+            },
+            {
+              "content": "To manage the governance of the network by proposing, voting, and executing changes",
+              "key": "B"
+            },
+            {
+              "content": "To buy and sell tokens",
+              "key": "C"
+            },
+            {
+              "content": "To develop new blockchain technologies",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of delegates in the Optimism blockchain?",
+          "type": "SingleChoice",
+          "uuid": "184c5dca-b1c2-4aae-88ab-0fceae4c52e1",
+          "explanation": "Delegates in the Optimism blockchain are responsible for managing the governance of the network. They propose, vote, and execute changes to the network, ensuring its smooth operation."
+        }
+      ],
+      "uuid": "6f8a5664-3201-4d32-b765-c36ddd3b335c"
+    },
+    {
       "content": "Participating in Token House governance can be a time-consuming task. To alleviate this burden, individuals have the option to delegate their voting power to community members who have volunteered to actively participate in Token House governance. However, being a delegate is not a responsibility to be taken lightly. Before deciding to become a delegate, it is crucial to understand the responsibilities and commitments that come with this role. Let's explore the steps to becoming a delegate and the expectations associated with it:\n\n### Commit\nThe first step towards becoming a delegate is to familiarize yourself with the delegate responsibilities. These responsibilities can be found on the [forum](https://gov.optimism.io/t/delegate-commitments/235) dedicated to Token House governance. It is essential to thoroughly read and comprehend these responsibilities to ensure that you are fully aware of what is expected from you as a delegate. Understanding these responsibilities will help you make an informed decision about whether or not you are ready to take on this role.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748360277_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### Set up Profile\nOnce you have familiarized yourself with the delegate responsibilities, the next step is to register as a delegate on the [Optimism Governance Portal (Optimism Agora)](https://vote.optimism.io/). This portal serves as the platform for Token House governance, and registering as a delegate will allow you to actively participate in the decision-making process. To register, you will need to complete the [delegate commitment form](https://gov.optimism.io/t/delegate-commitments/235) provided on the portal. This form will require you to provide relevant information and agree to fulfill your responsibilities as a delegate.\n\nWhile not mandatory, it is advisable to delegate your own OP tokens' voting power to yourself. By doing so, you retain control over your voting power and can actively participate in the decision-making process. Self-delegating ensures that your voice is heard and that you have a say in the governance of Token House. However, it is important to note that token grants should not be self-delegated to grant recipients. This ensures fairness and prevents any conflicts of interest.",
       "name": "Becoming a Delegate",
       "stepItems": [],
       "uuid": "6943e55e-528b-4a3d-8dd8-b14f53dbd818"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Registering as a delegate on the Optimism Governance Portal",
+              "key": "A"
+            },
+            {
+              "content": "Self-delegating your own OP tokens' voting power to yourself",
+              "key": "B"
+            },
+            {
+              "content": "Familiarizing yourself with the delegate responsibilities",
+              "key": "C"
+            },
+            {
+              "content": "Completing the delegate commitment form",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step towards becoming a delegate in Token House governance?",
+          "type": "SingleChoice",
+          "uuid": "2c8e6228-b13a-4762-ba3e-7b3de4b016ba",
+          "explanation": "The first step towards becoming a delegate is to familiarize yourself with the delegate responsibilities."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To increase the value of your tokens",
+              "key": "A"
+            },
+            {
+              "content": "To trade your tokens more easily",
+              "key": "B"
+            },
+            {
+              "content": "To prevent others from voting",
+              "key": "C"
+            },
+            {
+              "content": "To retain control over your voting power and actively participate in the decision-making process",
+              "key": "D"
+            }
+          ],
+          "content": "Why is it advisable to delegate your own OP tokens' voting power to yourself?",
+          "type": "SingleChoice",
+          "uuid": "823a6a48-6e7f-4749-be81-8344a4c958bf",
+          "explanation": "By self-delegating, you retain control over your voting power and can actively participate in the decision-making process. This ensures that your voice is heard and that you have a say in the governance of Token House."
+        }
+      ],
+      "uuid": "b42a0ab9-845c-49b0-af43-86417b50ec18"
+    },
+    {
       "content": "Existing delegates play a crucial role in the governance process. By keeping in mind the following guidelines, delegates can effectively contribute to the decision-making process and help shape the future of the community:\n\n### 1. Join Discord Channels\nAs an existing delegate, it is important to actively participate in the governance discussions. Join the relevant channels on [Discord](https://discord-gateway.optimism.io/) to engage in conversations with other delegates and stay updated on important governance events. The [#gov-general channel](https://discord.com/channels/667044843901681675/968498307913637919) is specifically designed for general governance discussions, while the [#token-house-gov channel](https://discord.com/channels/667044843901681675/991340698995544176) provides announcements about significant events in the governance process. Additionally, the [#grants channel](https://discord.com/channels/667044843901681675/1069653708369047623) allows delegates to discuss the grants process and provide feedback to grant applicants. Lastly, the [#delegate-discussion channel](https://discord.com/channels/667044843901681675/989611992295813241) is a platform for larger delegates to collaborate and discuss proposals and the overall governance process.\n\n### 2. Provide Feedback\nTo contribute to the decision-making process, delegates should provide feedback on draft proposals. This can be done in the [Proposals Discussion](https://gov.optimism.io/c/proposals/38) section of the Forum. By sharing your thoughts and insights, you can help shape the direction of the proposals and ensure that they align with the interests of the community. Remember, your feedback can have a significant impact on the final outcome of the proposals.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/delegates_optimism_university_877/1695748642625_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### 3. Approve Non-Grant Proposals\nIf you possess more than 0.5% of the voting supply, you have the authority to approve non-grant proposals. To exercise this power, simply post the following phrase in a forum comment on Discourse: \"I am an Optimism delegate with sufficient voting power and I believe this proposal is ready to move to a vote.\" By approving proposals, you contribute to the decision-making process and help determine which proposals should proceed to the voting stage.\n\n### 4. Vote on Non-Grant Proposals\nAs an existing delegate, it is crucial to exercise your voting power on non-grant proposals. Utilize the [Optimism Governance Portal](https://vote.optimism.io/) to cast your vote and make your voice heard. Remember to carefully consider the proposals and their potential impact on the community before making your decision. Additionally, after voting, it is recommended to provide a voting rationale in a [Delegate Communications Thread](https://gov.optimism.io/c/governance/41). This allows you to explain your decision and engage in further discussions with other delegates.\n\n### 5. Stay Up to Date\nTo effectively fulfill your role as a delegate, it is essential to stay informed about voting cycles and general governance updates. The Governance section of the [Forum](https://gov.optimism.io/c/governance/41) provides valuable information on these matters. Additionally, the [governance calendar](https://calendar.google.com/calendar/u/0/r?cid=Y180aHVpNzBpdG0wODllN3Q4cTUwaGVoMWtub0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) highlights when important governance calls take place. By staying up to date, you can actively participate in the decision-making process and contribute to the overall governance of the community.",
       "name": "Guidelines",
       "stepItems": [],
       "uuid": "c54e5165-bfc5-42dc-988c-9a9856db0aa7"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To only vote on non-grant proposals",
+              "key": "A"
+            },
+            {
+              "content": "To only provide feedback on draft proposals",
+              "key": "B"
+            },
+            {
+              "content": "To participate in discussions, provide feedback, approve and vote on proposals, and stay updated",
+              "key": "C"
+            },
+            {
+              "content": "To only join Discord Channels",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of an existing delegate in the governance process?",
+          "type": "SingleChoice",
+          "uuid": "eaa79c44-e8df-4659-9b89-49be7b658c76",
+          "explanation": "Existing delegates play a crucial role in the governance process by actively participating in discussions, providing feedback on proposals, approving non-grant proposals, voting on non-grant proposals, and staying up to date with governance updates."
+        }
+      ],
+      "uuid": "c4729146-fbae-4784-a1fb-2bfb018425fb"
     },
     {
       "content": "https://medium.com/@ruslanachudo88/understanding-delegates-in-optimism-blockchain-bf6735a8b034\n\nhttps://community.optimism.io/docs/governance/delegate/\n\nhttps://community.optimism.io/docs/governance/existing-delegate/",

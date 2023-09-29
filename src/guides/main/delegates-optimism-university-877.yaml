@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide for delegates on effective gov. participation
-created: '2023-09-28T13:26:47.409Z'
+created: '2023-09-29T17:40:30.591Z'
 guideType: onboarding
 key: delegates-optimism-university-877
 name: Delegates
@@ -63,6 +63,51 @@ steps:
     name: Overview
     stepItems: []
     uuid: f5523ed8-cb12-4fc2-a5b5-1ad724de99ea
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: A person who develops the blockchain
+            key: A
+          - content: A person who mines the tokens
+            key: B
+          - content: >-
+              An individual selected to make governance decisions on behalf of
+              token holders
+            key: C
+          - content: A person who only holds the tokens
+            key: D
+        content: Who is a delegate in the context of the Optimism blockchain?
+        type: SingleChoice
+        uuid: ac8eacc9-9565-4fec-b64a-c13a20d6d7ae
+        explanation: >-
+          In the Optimism blockchain, a delegate is an individual selected to
+          make governance decisions on behalf of token holders. Token holders
+          have the option to delegate their voting power to someone else, who
+          will then represent them in decision-making processes.
+      - answerKeys:
+          - B
+        choices:
+          - content: To mine new tokens
+            key: A
+          - content: >-
+              To manage the governance of the network by proposing, voting, and
+              executing changes
+            key: B
+          - content: To buy and sell tokens
+            key: C
+          - content: To develop new blockchain technologies
+            key: D
+        content: What is the role of delegates in the Optimism blockchain?
+        type: SingleChoice
+        uuid: 184c5dca-b1c2-4aae-88ab-0fceae4c52e1
+        explanation: >-
+          Delegates in the Optimism blockchain are responsible for managing the
+          governance of the network. They propose, vote, and execute changes to
+          the network, ensuring its smooth operation.
+    uuid: 6f8a5664-3201-4d32-b765-c36ddd3b335c
   - content: >-
       Participating in Token House governance can be a time-consuming task. To
       alleviate this burden, individuals have the option to delegate their
@@ -114,6 +159,52 @@ steps:
     name: Becoming a Delegate
     stepItems: []
     uuid: 6943e55e-528b-4a3d-8dd8-b14f53dbd818
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Registering as a delegate on the Optimism Governance Portal
+            key: A
+          - content: Self-delegating your own OP tokens' voting power to yourself
+            key: B
+          - content: Familiarizing yourself with the delegate responsibilities
+            key: C
+          - content: Completing the delegate commitment form
+            key: D
+        content: >-
+          What is the first step towards becoming a delegate in Token House
+          governance?
+        type: SingleChoice
+        uuid: 2c8e6228-b13a-4762-ba3e-7b3de4b016ba
+        explanation: >-
+          The first step towards becoming a delegate is to familiarize yourself
+          with the delegate responsibilities.
+      - answerKeys:
+          - D
+        choices:
+          - content: To increase the value of your tokens
+            key: A
+          - content: To trade your tokens more easily
+            key: B
+          - content: To prevent others from voting
+            key: C
+          - content: >-
+              To retain control over your voting power and actively participate
+              in the decision-making process
+            key: D
+        content: >-
+          Why is it advisable to delegate your own OP tokens' voting power to
+          yourself?
+        type: SingleChoice
+        uuid: 823a6a48-6e7f-4749-be81-8344a4c958bf
+        explanation: >-
+          By self-delegating, you retain control over your voting power and can
+          actively participate in the decision-making process. This ensures that
+          your voice is heard and that you have a say in the governance of Token
+          House.
+    uuid: b42a0ab9-845c-49b0-af43-86417b50ec18
   - content: >-
       Existing delegates play a crucial role in the governance process. By
       keeping in mind the following guidelines, delegates can effectively
@@ -196,6 +287,31 @@ steps:
     name: Guidelines
     stepItems: []
     uuid: c54e5165-bfc5-42dc-988c-9a9856db0aa7
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To only vote on non-grant proposals
+            key: A
+          - content: To only provide feedback on draft proposals
+            key: B
+          - content: >-
+              To participate in discussions, provide feedback, approve and vote
+              on proposals, and stay updated
+            key: C
+          - content: To only join Discord Channels
+            key: D
+        content: What is the role of an existing delegate in the governance process?
+        type: SingleChoice
+        uuid: eaa79c44-e8df-4659-9b89-49be7b658c76
+        explanation: >-
+          Existing delegates play a crucial role in the governance process by
+          actively participating in discussions, providing feedback on
+          proposals, approving non-grant proposals, voting on non-grant
+          proposals, and staying up to date with governance updates.
+    uuid: c4729146-fbae-4784-a1fb-2bfb018425fb
   - content: >-
       https://medium.com/@ruslanachudo88/understanding-delegates-in-optimism-blockchain-bf6735a8b034
 
