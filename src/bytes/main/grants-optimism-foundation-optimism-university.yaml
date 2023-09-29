@@ -1,0 +1,78 @@
+uniqueId: 04eb3be7-16e8-4bf4-8a02-9ae066852f15
+id: grants-optimism-foundation-optimism-university
+name: Grants- Optimism Foundation
+content: Grants offered by Optimism Foundation
+created: '2023-09-29T13:45:10.011Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Foundation Missions
+    uuid: d11ce760-795f-4ae3-9c28-d3f50134407a
+    content: >-
+      The Optimism Foundation undertakes various projects known as Foundation
+      Missions to further its objectives. These missions, pre-specified by the
+      foundation, aim to address specific challenges or opportunities. The
+      funding for these missions comes from the Partner Fund, which is an
+      external source, not the Governance Fund.
+    stepItems: []
+  - name: Application Process
+    uuid: f3925d19-d0ad-4012-91f3-ca5b203d6073
+    content: >-
+      Applications are made by replying as a comment on the RFP's Github Issue,
+      providing your application and any relevant information. The Token House,
+      a governing body, does not vote on Foundation Missions, but they have
+      visibility into all RFP applications, ensuring transparency and
+      accountability.
+    stepItems: []
+  - name: Partner Fund
+    uuid: d38a4627-9121-4936-929d-2bde43a8cb13
+    content: >-
+      The Partner Fund, managed by the Optimism Foundation, is a grants program
+      providing strategic and larger scale grants to partners who have already
+      achieved product market fit. The primary objective of the Partner Fund is
+      to foster the growth of Optimism's ecosystem for the benefit of the entire
+      Collective.
+    stepItems: []
+  - name: Fund Focus
+    uuid: a27fdcd5-68d1-42b9-b493-6cd8597ca506
+    content: >-
+      The Partner Fund primarily focuses on projects that have already
+      demonstrated success in the crypto space and are now looking to deploy and
+      scale on the Optimism platform. These projects can be related to various
+      areas of work, including Defi, NFTs, DAOs, and large scale usage growth
+      for the ecosystem.
+    stepItems: []
+  - name: Structure of Grants
+    uuid: 4e389fcc-ab44-4772-97bb-d0349d7d6051
+    content: >-
+      In the case of user incentives, grants provided by the fund are directly
+      distributed to users of the project on the Optimism ecosystem in the form
+      of liquidity mining, rewards, or other user incentives whereas projects
+      grants have a 1-year token lockup period, meaning the granted tokens
+      cannot be immediately sold or transferred.
+    stepItems: []
+  - name: Evaluation
+    uuid: 7fccc0ae-8ad4-4184-ad3c-65b88d2f9fc1
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: bf83cb00-8744-4e47-821c-0d8283405070
+        choices:
+          - key: A
+            content: To provide grants to individuals
+          - key: B
+            content: To support operational costs of the projects
+          - key: C
+            content: To distribute grants to users of the Optimism ecosystem
+          - key: D
+            content: To foster the growth of Optimism's ecosystem
+        content: What is the primary objective of the Partner Fund?
+        answerKeys:
+          - D
+        explanation: >-
+          The primary objective of the Partner Fund is to foster the growth of
+          Optimism's ecosystem for the benefit of the entire Collective.
+spaceId: optimism-university
