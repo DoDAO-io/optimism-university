@@ -1,0 +1,125 @@
+{
+  "uniqueId": "917c466b-f593-4943-af2c-9ea3a177c247",
+  "id": "seasons-voting-cycles-optimism-university",
+  "name": "Seasons & Voting Cycles",
+  "content": "Understanding the relationship btw. seasons and voting cycles",
+  "created": "2023-09-29T12:49:26.778Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Seasons in Governance",
+      "uuid": "dff3fd94-d923-40ec-b061-77212101e7c5",
+      "content": "Seasons are distinct periods of governance operations, each with its own unique timeline and objectives. These seasons are organized and scheduled to facilitate decision-making and governance within the Token House ecosystem.",
+      "stepItems": []
+    },
+    {
+      "name": "Voting Cycles",
+      "uuid": "5ed1ac2a-6cb2-491f-bb98-f7c75029dcaa",
+      "content": "Voting cycles are specific phases within a season during which token holders participate in the governance process. These cycles typically last for five weeks and serve as the primary periods for proposing, discussing, and voting on governance proposals. They commence and conclude at specific times.",
+      "stepItems": []
+    },
+    {
+      "name": "Special Voting Cycles",
+      "uuid": "346645c7-791b-494f-b4f7-d211a62ca681",
+      "content": "Special Voting Cycles are integral part of the governance system that the Optimism Foundation follows. These cycles allow for the adoption of proposals and the modification of the collective's structure based on feedback received during the previous season.",
+      "stepItems": []
+    },
+    {
+      "name": "Reflection Periods",
+      "uuid": "b59e2d7e-9226-4e5a-b18d-e0fba1752f1e",
+      "content": "During these periods, the Optimism Foundation publishes a proposed changelog to the Operating Manual and a set of governance proposals. These proposals aim to address the feedback received in the previous season, ensuring that the collective's decisions align with the community's needs.",
+      "stepItems": []
+    },
+    {
+      "name": "Role of Reflection Periods",
+      "uuid": "938b813a-830e-4895-8086-c3df363cc677",
+      "content": "To allow delegates and the broader community ample time to provide critical feedback and suggestions for improvement, there are no active votes during Reflection Periods. This period serves as a dedicated time for reflection and constructive discussions, enabling the community to contribute to the enhancement of the upcoming season.",
+      "stepItems": []
+    },
+    {
+      "name": "Importance of Voting Cycles",
+      "uuid": "072432ad-2d09-45c6-9033-46f6ad8db779",
+      "content": "These cycles focus specifically on voting for proposals that aim to modify the collective's structure. It is during these cycles that the changes made during the Reflection Period are voted upon. This ensures that the collective's structure remains adaptable and responsive to the evolving needs of the community.",
+      "stepItems": []
+    },
+    {
+      "name": "Governance Calendar",
+      "uuid": "8bdc5a0b-0488-4224-85ce-582c768072f0",
+      "content": "To stay up to date with the seasons and voting cycles, the governance calendar provides all the necessary information. It serves as a valuable resource for the community, offering insights into the timing and progression of the governance process.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "15367702-cccd-403c-b3a0-f97457ebdd38",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "96bf7cb3-67d6-4bfa-b173-b7acbc275556",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Distinct periods of governance operations with unique timelines and objectives"
+            },
+            {
+              "key": "B",
+              "content": "Specific phases within a season for proposing, discussing, and voting on governance proposals"
+            },
+            {
+              "key": "C",
+              "content": "Integral parts of the governance system that allow for the adoption of proposals and modification of the collective's structure"
+            },
+            {
+              "key": "D",
+              "content": "Periods dedicated to reflection and constructive discussions for the community to contribute to the enhancement of the upcoming season"
+            }
+          ],
+          "content": "What are voting cycles in governance?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Voting cycles are specific phases within a season during which token holders participate in the governance process. These cycles typically last for five weeks and serve as the primary periods for proposing, discussing, and voting on governance proposals. They commence and conclude at specific times."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "f8ec97c4-4075-41d2-ab44-b3348f9b8ef3",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "4892f76a-67d2-4606-b3a6-5ca8d7c1daa8",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Distinct periods of governance operations with unique timelines and objectives"
+            },
+            {
+              "key": "B",
+              "content": "Specific phases within a season for proposing, discussing, and voting on governance proposals"
+            },
+            {
+              "key": "C",
+              "content": "Integral parts of the governance system that allow for the adoption of proposals and modification of the collective's structure"
+            },
+            {
+              "key": "D",
+              "content": "Dedicated time for reflection and constructive discussions to provide critical feedback and suggestions for improvement"
+            }
+          ],
+          "content": "What is the role of Reflection Periods in governance?",
+          "answerKeys": [
+            "D"
+          ],
+          "explanation": "During Reflection Periods, there are no active votes. This period serves as a dedicated time for reflection and constructive discussions, enabling the community to provide critical feedback and suggestions for improvement to enhance the upcoming season."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
