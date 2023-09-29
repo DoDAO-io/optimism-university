@@ -1,0 +1,113 @@
+{
+  "uniqueId": "d7e7969b-a309-412b-a151-702c060e51e7",
+  "id": "retropgf-optimism-university",
+  "name": "RetroPGF",
+  "content": "Overview of Retroactive Public Goods Funding",
+  "created": "2023-09-29T13:02:55.698Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Concept and Purpose",
+      "uuid": "0ac25a98-d1e6-4af3-aab8-35086dbc0bbb",
+      "content": "RetroPGF is an initiative aiming to offer financial backing for public goods developed and used within the Optimism Stack (OP Stack). The concept behind RetroPGF is to reward those builders who positively impact the community by enabling them to profit from their contributions.",
+      "stepItems": []
+    },
+    {
+      "name": "Exit Liquidity",
+      "uuid": "15a31d80-02fb-4936-a00e-4d2280d5412c",
+      "content": "RetroPGF creates a market for early investment in public goods projects, providing them with an exit liquidity option. This allows these projects to raise capital and expand based on their early potential and contributions.",
+      "stepItems": []
+    },
+    {
+      "name": "Innovation Encouragement",
+      "uuid": "ae9f8a8a-3935-4241-ade6-a06c406b8a8f",
+      "content": "By compensating projects for their positive contributions, RetroPGF incentivizes innovation and funding in the development of public goods on Optimism.",
+      "stepItems": []
+    },
+    {
+      "name": "Rewarding Value",
+      "uuid": "9893ef23-4797-4b4c-8ece-1cd0b21ae979",
+      "content": "RetroPGF allocates funding to projects, companies, communities, or entities that have demonstrated their value to the Optimism ecosystem in the past. This approach prioritizes projects with a proven track record of usefulness, ensuring more effective capital allocation.",
+      "stepItems": []
+    },
+    {
+      "name": "Profit-Motive Integration",
+      "uuid": "469eb007-60c6-4883-943b-fb5c0f5c31e2",
+      "content": "RetroPGF introduces financial incentives similar to those in Silicon Valley, attracting speculators and early investors seeking financial gains. Builders have the opportunity to raise capital and bootstrap their projects, fostering increased innovation and development within the Optimism ecosystem.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "289eb060-92dc-4f00-9dae-224cfd7b320b",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "8d0813f7-2686-4e89-b0a0-aa6eff14666f",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To create free software for the public good"
+            },
+            {
+              "key": "B",
+              "content": "To challenge the idea of creating free software for the public good"
+            },
+            {
+              "key": "C",
+              "content": "To offer financial backing for public goods and reward builders who positively impact the community"
+            },
+            {
+              "key": "D",
+              "content": "To introduce financial incentives similar to those in Silicon Valley"
+            }
+          ],
+          "content": "What is the purpose of RetroPGF?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "RetroPGF aims to offer financial backing for public goods developed and used within the Optimism Stack and reward builders who positively impact the community."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "897bd0df-ecc5-4e6c-97c3-65f194f2eebb",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "0fb763bb-0a43-4b3a-a062-16f4cd629c1d",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Projects to be executed in future"
+            },
+            {
+              "key": "B",
+              "content": "Projects that have raised the most capital"
+            },
+            {
+              "key": "C",
+              "content": "Projects that have the most funding requests"
+            },
+            {
+              "key": "D",
+              "content": "Projects with a proven track record of usefulness"
+            }
+          ],
+          "content": "What does RetroPGF prioritize when allocating funding to projects?",
+          "answerKeys": [
+            "D"
+          ],
+          "explanation": "RetroPGF prioritizes projects with a proven track record of usefulness, ensuring more effective capital allocation."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
