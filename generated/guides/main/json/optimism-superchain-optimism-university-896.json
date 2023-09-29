@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Unlock the potential of the Optimism Superchain",
-  "created": "2023-09-29T11:43:08.951Z",
+  "created": "2023-09-29T11:48:37.898Z",
   "guideType": "onboarding",
   "key": "optimism-superchain-optimism-university-896",
   "name": "Optimism Superchain",
@@ -32,7 +32,7 @@
       "uuid": "d588582a-3515-428b-bb97-7b00e153e911"
     },
     {
-      "content": "https://www.coingecko.com/learn/optimism-superchain-interoperability-ethereum#:~:text=The%20Optimism%20Superchain%20is%20a,open%2Dsource%20standardized%20technology%20stack.\n\nhttps://stack.optimism.io/docs/understand/explainer/#superchain-overview\n\nhttps://app.optimism.io/superchain/\n\nhttps://blog.rockx.com/optimism-superchain/\n\nhttps://stack.optimism.io/docs/understand/explainer/#properties-of-the-superchain\n",
+      "content": "https://www.coingecko.com/learn/optimism-superchain-interoperability-ethereum#:~:text=The%20Optimism%20Superchain%20is%20a,open%2Dsource%20standardized%20technology%20stack.\n\nhttps://stack.optimism.io/docs/understand/explainer/#superchain-overview\n\nhttps://app.optimism.io/superchain/\n\nhttps://blog.rockx.com/optimism-superchain/\n\nhttps://stack.optimism.io/docs/understand/explainer/#properties-of-the-superchain\n\nhttps://zerocap.com/research-lab/understanding-the-op-stack/#the-op-superchain\n",
       "name": "References",
       "stepItems": [],
       "uuid": "ba932e07-016a-4983-b48c-f9adbca4ba4e"

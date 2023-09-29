@@ -1,6 +1,6 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-29T11:43:08.951Z'
+created: '2023-09-29T11:48:37.898Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism Superchain
@@ -244,6 +244,9 @@ steps:
 
 
       https://stack.optimism.io/docs/understand/explainer/#properties-of-the-superchain
+
+
+      https://zerocap.com/research-lab/understanding-the-op-stack/#the-op-superchain
     name: References
     stepItems: []
     uuid: ba932e07-016a-4983-b48c-f9adbca4ba4e
