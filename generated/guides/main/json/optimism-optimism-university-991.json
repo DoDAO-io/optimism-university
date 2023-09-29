@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A guide to Optimism; exploring its Layer 2 scaling solution",
-  "created": "2023-09-28T19:02:59.808Z",
+  "created": "2023-09-29T17:45:54.374Z",
   "guideType": "onboarding",
   "key": "optimism-optimism-university-991",
   "name": "Optimism",
@@ -14,10 +14,132 @@
       "uuid": "67ba520b-f9b7-4e5d-ab87-db198a0c7162"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A positive outlook on the future of blockchain technology",
+              "key": "A"
+            },
+            {
+              "content": "A layer 2 chain that operates on top of the Ethereum mainnet",
+              "key": "B"
+            },
+            {
+              "content": "A type of cryptocurrency",
+              "key": "C"
+            },
+            {
+              "content": "A method of encrypting blockchain data",
+              "key": "D"
+            }
+          ],
+          "content": "What is Optimism in the context of blockchain technology?",
+          "type": "SingleChoice",
+          "uuid": "ab99c2ba-39ef-4195-b651-3a70e304234b",
+          "explanation": "Optimism is a layer 2 chain that operates on top of the Ethereum mainnet, also known as layer 1. This means that transactions occur on the Optimism chain, but the transaction data is posted and validated on the Ethereum mainnet."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To replace the primary blockchain",
+              "key": "A"
+            },
+            {
+              "content": "To create a new type of cryptocurrency",
+              "key": "B"
+            },
+            {
+              "content": "To encrypt blockchain data",
+              "key": "C"
+            },
+            {
+              "content": "To enhance transaction speeds, reduce costs, and increase the overall capacity of blockchain networks",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of Layer-2 solutions in blockchain technology?",
+          "type": "SingleChoice",
+          "uuid": "d25f3b0b-240b-4db4-8184-94692885502e",
+          "explanation": "Layer-2 solutions provide a crucial remedy by offloading a portion of the transaction load onto secondary layers. These secondary layers, while independently operated, remain secured by the primary blockchain's consensus mechanisms. As a result, Layer-2 solutions significantly enhance transaction speeds, reduce costs, and increase the overall capacity of blockchain networks."
+        }
+      ],
+      "uuid": "3a89b90c-c9fb-4b6d-bd32-e1c48336287e"
+    },
+    {
       "content": "Optimism is a type of blockchain called an \"Optimistic Rollup.\" It works by leveraging the security of another blockchain, known as the parent chain. Instead of having its own consensus mechanism, Optimistic Rollups rely on the consensus mechanism of the parent chain, such as Proof of Work (PoW) or Proof of Stake (PoS). The following is a brief explanation of the fundamental principles of this concept:\n\n### Block Storage\n\nIn the case of Optimism, L2 blocks are stored on the Ethereum blockchain using a non-contract address. This helps minimize the gas expenses on the Ethereum network. Once these blocks are submitted as transaction calldata on Ethereum, they cannot be modified or censored. This ensures the availability and integrity guarantees of Ethereum are inherited by the Optimism network.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922227341_untitled-2023-09-21-1651.png\"/>\n</div>\n\n### Block Production\n\nOptimism block production is primarily managed by a single party called the \"sequencer.\" The sequencer provides various services to the network. In Bedrock, the sequencer has a private mempool, similar to Ethereum's L1, to prevent opportunities for MEV (Miner Extractable Value). Blocks are produced every two seconds on OP Mainnet, regardless of whether they are empty or filled with transactions.\n\nTransactions submitted on the Ethereum L1, known as deposits, are included in the appropriate L2 block. Each L2 block is identified by its epoch (the corresponding L1 block) and a serial number within that epoch. The first block of the epoch includes all the deposits that occurred in the corresponding L1 block. If the sequencer tries to ignore a legitimate L1 transaction, it will result in an inconsistent state with the verifiers.\n\n### Block Execution\n\nThe execution engine, implemented as the op-geth component, receives blocks using two mechanisms. It can update itself using a peer-to-peer network with other execution engines, similar to how L1 execution clients synchronize the state across the network. The rollup node, implemented as the op-node component, derives the L2 blocks from the L1 blockchain.",
       "name": "How does Optimism work?",
       "stepItems": [],
       "uuid": "1ac94e10-ce7e-473f-bae0-4e6e7a0d05a9"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Using a contract address on the Ethereum blockchain",
+              "key": "A"
+            },
+            {
+              "content": "On the parent chain's blockchain",
+              "key": "B"
+            },
+            {
+              "content": "Using a non-contract address on the Ethereum blockchain",
+              "key": "C"
+            },
+            {
+              "content": "On a separate blockchain created by Optimism",
+              "key": "D"
+            }
+          ],
+          "content": "How are L2 blocks stored in the case of Optimism?",
+          "type": "SingleChoice",
+          "uuid": "b94d9e2e-1bbe-4567-921f-197a571ebedb",
+          "explanation": "In the case of Optimism, L2 blocks are stored on the Ethereum blockchain using a non-contract address. This helps minimize the gas expenses on the Ethereum network."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The parent chain",
+              "key": "A"
+            },
+            {
+              "content": "The Ethereum network",
+              "key": "B"
+            },
+            {
+              "content": "The miners",
+              "key": "C"
+            },
+            {
+              "content": "The sequencer",
+              "key": "D"
+            }
+          ],
+          "content": "Who primarily manages the block production in Optimism?",
+          "type": "SingleChoice",
+          "uuid": "0c00bb80-2ee4-469f-b943-dea2862d1bb8",
+          "explanation": "Optimism block production is primarily managed by a single party called the 'sequencer.' The sequencer provides various services to the network."
+        }
+      ],
+      "uuid": "6791b0c0-cb5b-48d4-83e2-6c5c613e5dc3"
     },
     {
       "content": "### Size and Popularity of Optimism\n\nCurrently, Optimism is the second-largest Ethereum layer 2 solution, with a total of $313 million locked into its smart contracts. This information is based on the latest data from Defi Llama. The largest protocol on Optimism is Synthetix, a derivatives liquidity protocol, with a total value locked (TVL) of $125 million. Following closely is Uniswap, a decentralized exchange (DEX), which is the second most popular protocol on the chain. Additionally, there are 35 protocols on Optimism that have at least $1,000 locked into their smart contracts.\n\n### Advantages of Optimism\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922837002_untitled-2023-09-21-1651.png\"/>\n</div>\n\n**Scalability:** One of the key advantages of Optimism is its scalability. By operating as a layer 2 solution, it helps to alleviate the congestion and high gas fees that can occur on the Ethereum mainnet. This allows for faster and more cost-effective transactions, making it more accessible for users. \n\n**Seamless user experience:** Optimism provides a seamless user experience by maintaining compatibility with existing Ethereum applications and infrastructure. Users can continue to interact with their favorite decentralized applications (dApps) and enjoy the benefits of Optimism's improved efficiency.\n\n### Future Outlook\n\nAs the Ethereum ecosystem continues to grow, layer 2 solutions like Optimism are becoming increasingly important. They offer a way to scale the network and enhance its capabilities without compromising on security. With its growing popularity and the increasing number of protocols being built on Optimism, it is clear that this layer 2 solution has a promising future. As more users and developers adopt Optimism, we can expect to see even greater innovation and advancements in the Ethereum ecosystem.",
@@ -30,6 +152,67 @@
       "name": "Design Elements of Optimism",
       "stepItems": [],
       "uuid": "8e9ddabb-b984-44ca-8b5c-fdbdeec78eff"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To create a complex system with many moving parts",
+              "key": "A"
+            },
+            {
+              "content": "To prioritize theoretical perfection over user and developer needs",
+              "key": "B"
+            },
+            {
+              "content": "To create a simple system with necessary features",
+              "key": "C"
+            },
+            {
+              "content": "To avoid user input and iterative development",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary goal of Optimism's design philosophy?",
+          "type": "SingleChoice",
+          "uuid": "4c3ad621-787a-45d3-baaf-589aa8c30ede",
+          "explanation": "The primary goal of Optimism's design philosophy is to create a system that is as simple as possible while providing the necessary features."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Taking shortcuts to scalability",
+              "key": "A"
+            },
+            {
+              "content": "Increasing the complexity of the system",
+              "key": "B"
+            },
+            {
+              "content": "Prioritizing theoretical perfection",
+              "key": "C"
+            },
+            {
+              "content": "Sustainability",
+              "key": "D"
+            }
+          ],
+          "content": "What is a key consideration in Optimism's design process?",
+          "type": "SingleChoice",
+          "uuid": "77d72f53-4056-4602-a249-e22a7792442c",
+          "explanation": "Sustainability is a key consideration in Optimism's design process, as shortcuts to scalability are avoided in favor of a robust and enduring system."
+        }
+      ],
+      "uuid": "c761975a-b599-4575-88fd-790795db0162"
     },
     {
       "content": "https://www.coindesk.com/learn/what-are-layer-2s-and-why-are-they-important/\n\nhttps://www.coindesk.com/learn/what-is-optimism/\n\nhttps://community.optimism.io/docs/protocol/2-rollup-protocol/#\n\nhttps://community.optimism.io/docs/protocol/1-design-philosophy/\n",
