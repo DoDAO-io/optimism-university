@@ -1,0 +1,84 @@
+uniqueId: fc3cefbf-ea17-4ce2-8dd2-301727fc3208
+id: impact-of-optimism-foundation-optimism-university
+name: Impact of Optimism Foundation
+content: Understanding the role of OP Foundation
+created: '2023-09-29T12:26:54.962Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 5ea3221d-7c8b-4e4b-a677-5029a94f9fdb
+    content: >-
+      The Optimism Foundation is a crucial entity supporting the establishment
+      of the Optimism Collective and the development of the Optimism ecosystem.
+      It forms part of a larger network of companies, groups, and individuals
+      striving towards the realization of the Optimistic Vision.
+    stepItems: []
+  - name: Legal Commitments
+    uuid: f6607cb0-f939-46f2-a8ef-ad0d944b5e84
+    content: >-
+      As an established entity, the Foundation has the ability to make legally
+      enforceable commitments. This enables it to act quickly and safely in
+      supporting the Collective in its early stages.
+    stepItems: []
+  - name: Administrative Role
+    uuid: e79aefd0-3697-4e7c-a09b-7aec242b9b26
+    content: >-
+      The Optimism Foundation has a key role in facilitating various
+      administrative aspects of Collective governance. It helps create
+      frameworks such as the Working Constitution and the Operating Manual,
+      which are crucial for facilitating participation within the Collective.
+    stepItems: []
+  - name: Operational Efficiency
+    uuid: 8894acfc-3bea-4a05-b0e4-24ad93b479a3
+    content: >-
+      By providing these administrative services, the Foundation ensures that
+      the Collective operates smoothly and efficiently.
+    stepItems: []
+  - name: Technical Support
+    uuid: efeff553-c28d-4d96-bc9f-349bb536fcb6
+    content: >-
+      The Foundation also supports the Optimism protocol as an open-source
+      project. It encourages community contributions to the technical
+      architecture of the protocol and commissions technical research on
+      scalability, security, and decentralization.
+    stepItems: []
+  - name: Future Goals
+    uuid: 373fd6c4-12f8-4b2f-b0dd-a6127342a142
+    content: >-
+      The ultimate aim of the Optimism Foundation is to coordinate contributors
+      in creating the technical and governance foundations that will allow for
+      decentralization over time. The Foundation recognizes the importance of
+      empowering the community and gradually reducing its own role.
+    stepItems: []
+  - name: Evaluation
+    uuid: 0db27bf9-c66b-4cf3-8ad2-12f0f3653c57
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: d1dc712b-895f-4e27-adba-c51b0d9178c9
+        choices:
+          - key: A
+            content: To make legally enforceable commitments
+          - key: B
+            content: >-
+              To create frameworks such as the Working Constitution and the
+              Operating Manual
+          - key: C
+            content: >-
+              To encourage community contributions to the technical architecture
+              of the protocol
+          - key: D
+            content: All of the above
+        content: What is the role of the Optimism Foundation?
+        answerKeys:
+          - D
+        explanation: >-
+          The Optimism Foundation has a key role in facilitating various
+          administrative aspects of Collective governance, providing operational
+          efficiency, and supporting the Optimism protocol as an open-source
+          project.
+spaceId: optimism-university
