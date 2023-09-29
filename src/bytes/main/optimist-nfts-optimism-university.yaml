@@ -1,0 +1,113 @@
+uniqueId: b9912c74-14ed-4f3c-8d38-47bcf0871a73
+id: optimist-nfts-optimism-university
+name: Optimist NFTs
+content: Overview of Optimist NFTs
+created: '2023-09-29T16:07:20.160Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 5662d7e9-f4b8-4ef5-b9ad-c9446f2f0345
+    content: >-
+      Optimist NFTs are digital avatars that allow individuals to express their
+      personality and build their onchain identity. These NFTs are fully
+      customizable, enabling users to create a one-of-a-kind avatar that
+      represents their unique interests and traits.
+    stepItems: []
+  - name: Vision and Current Status
+    uuid: db3a9c29-1ad9-4456-ac8e-0635f02226dc
+    content: >-
+      The vision behind Optimist NFTs is to reflect the identity and reputation
+      of individuals as they interact with various projects and protocols.
+      Currently in Beta, these NFTs are available for minting to voters in
+      RetroPGF 2.
+    stepItems: []
+  - name: Customization
+    uuid: d7232629-bd2c-4a56-a3ce-139188f1c9e6
+    content: >-
+      With Optimist NFTs, users have the power to design an avatar that truly
+      reflects their individuality. These avatars can be customized to showcase
+      personal style, interests, and traits.
+    stepItems: []
+  - name: Representation
+    uuid: 25ac077a-90bb-48d1-9d67-4a38ef47831e
+    content: >-
+      The Optimist NFTs act as a representation of an individual Optimist,
+      evolving alongside their identity and reputation as they engage with
+      different projects and protocols.
+    stepItems: []
+  - name: Minting Process
+    uuid: 584f140b-cb45-4b1d-951a-7d276909560d
+    content: >-
+      The minting of Optimist NFTs was limited to voters in RetroPGF 2
+      previously. However, starting from 2023, several hundred active addresses
+      have been invited to mint each month based on their participation in the
+      Optimism Collective and data recorded in the AttestationStation.
+    stepItems: []
+  - name: Unlocking Traits
+    uuid: f7e41b73-d20c-4672-9c46-756f53fdd4aa
+    content: >-
+      As the Optimism ecosystem grows, new traits will be unlocked based on an
+      individual's participation. This means that the more actively someone
+      engages with the Optimism ecosystem, the more unique traits they can
+      unlock for their Optimist NFT.
+    stepItems: []
+  - name: Incentives
+    uuid: ed61c6cf-0f37-4a0e-884f-4ab4ea5bb477
+    content: >-
+      This incentivizes users to actively participate and contribute to the
+      growth of the Optimism Collective, allowing them to further personalize
+      their avatars and showcase their achievements within the ecosystem.
+    stepItems: []
+  - name: Evaluation
+    uuid: 7042a472-ae55-454d-bb06-f1d454636504
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 19fa48eb-0d56-46a6-9841-efbe4611f9aa
+        choices:
+          - key: A
+            content: >-
+              Digital avatars that allow individuals to express their
+              personality and build their onchain identity
+          - key: B
+            content: Digital assets that can be bought from a shop
+          - key: C
+            content: Digital items that decrease in value over time
+          - key: D
+            content: Digital collectibles that are bought for fun
+        content: What are Optimist NFTs?
+        answerKeys:
+          - A
+        explanation: >-
+          Optimist NFTs are digital avatars that allow individuals to express
+          their personality and build their onchain identity. These NFTs are
+          fully customizable, enabling users to create a one-of-a-kind avatar
+          that represents their unique interests and traits.
+  - name: Evaluation
+    uuid: d2cff3d4-7d9d-4825-9819-c0c7f4ac1232
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: b3b18085-9aa0-4103-af2b-34a34c71df8f
+        choices:
+          - key: A
+            content: To increase in value over time
+          - key: B
+            content: To be bought from a shop
+          - key: C
+            content: >-
+              To reflect the identity and reputation of individuals as they
+              interact with various projects and protocols
+          - key: D
+            content: To be bought for fun
+        content: What is the purpose of Optimist NFTs?
+        answerKeys:
+          - C
+        explanation: >-
+          The purpose of Optimist NFTs is to reflect the identity and reputation
+          of individuals as they interact with various projects and protocols.
+spaceId: optimism-university
