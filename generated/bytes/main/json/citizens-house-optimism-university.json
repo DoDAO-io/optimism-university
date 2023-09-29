@@ -1,0 +1,79 @@
+{
+  "uniqueId": "d7d05b55-654e-44f2-b76d-2d728705a1b4",
+  "id": "citizens-house-optimism-university",
+  "name": "Citizens' House",
+  "content": "Overview of the Citizens' House and its role in governance",
+  "created": "2023-09-29T12:53:18.827Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "cb470a82-9cf3-49e8-bf2a-d2a8b75386d8",
+      "content": "The Citizens' House is an innovative approach to governance that aims to promote fairness and inclusivity. It is a part of the Optimism Collective, working alongside the Token House to govern the collective. In its initial stage, the Citizens' House is responsible for voting on the allocation of Retroactive Public Goods Funding (RetroPGF).",
+      "stepItems": []
+    },
+    {
+      "name": "Early Phase",
+      "uuid": "5fa4a27d-7ec9-4239-b11e-cdc43bdcae63",
+      "content": "This funding is used to support public goods that have already been provided. During this early phase, the Optimism Foundation takes charge of determining the scope and amount of each funding round. It's important to note that holding a voting badge during this stage does not guarantee permanent participation in the Citizens' House or future rounds of RetroPGF.",
+      "stepItems": []
+    },
+    {
+      "name": "Collaboration and Criteria",
+      "uuid": "050ec453-a147-4887-9bb0-39b7f148751a",
+      "content": "The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue. The Citizens' House plays a role in defining the criteria for participation in the governance process, ensuring that those involved meet certain requirements or standards.",
+      "stepItems": []
+    },
+    {
+      "name": "Conduct and RetroPGF",
+      "uuid": "c93f3e9d-7be2-41c0-b3c6-b123fc95e289",
+      "content": "It ensures adherence to the Collective's Codes of Conduct, helping maintain a respectful and ethical environment within the governance system. The Citizens' House is closely associated with RetroPGF rounds, which follow a predefined process involving phases such as scoping, nominations, profile creation, voting, and disbursements.",
+      "stepItems": []
+    },
+    {
+      "name": "KYC Procedures",
+      "uuid": "d4e5b129-2c4f-47b4-8f1a-05760c463d83",
+      "content": "The Foundation performs Know Your Customer (KYC) procedures as part of the grant distribution process, ensuring transparency and compliance with regulatory requirements.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "69f5591c-76d1-46cb-a1ab-7b3816d5de33",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "fffa00b6-fadc-458d-99e3-b09fd26bf74e",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To determine the scope and amount of Retroactive Public Goods Funding"
+            },
+            {
+              "key": "B",
+              "content": "To collaborate with the Token House and make decisions regarding the allocation of surplus protocol revenue"
+            },
+            {
+              "key": "C",
+              "content": "To perform Know Your Customer (KYC) procedures"
+            },
+            {
+              "key": "D",
+              "content": "To support private goods that have already been provided"
+            }
+          ],
+          "content": "What is the role of the Citizens' House in governance?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue and defines the criteria for participation in the governance process."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
