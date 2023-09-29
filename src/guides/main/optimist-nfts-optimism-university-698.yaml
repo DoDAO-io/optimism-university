@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to navigating the world of NFTs on Optimism
-created: '2023-09-28T13:29:31.200Z'
+created: '2023-09-29T17:04:28.540Z'
 guideType: onboarding
 key: optimist-nfts-optimism-university-698
 name: NFTs on Optimism
@@ -231,6 +231,52 @@ steps:
     name: Optimist NFTs
     stepItems: []
     uuid: 52b5aa49-0939-4a87-8e81-a37a14996c16
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: A type of cryptocurrency
+            key: A
+          - content: >-
+              Digital avatars that allow individuals to express their
+              personality and build their onchain identity
+            key: B
+          - content: Physical assets that increase in value over time
+            key: C
+          - content: A type of digital currency used for online transactions
+            key: D
+        content: What are Optimist NFTs?
+        type: SingleChoice
+        uuid: aada67d9-69a3-4071-a2b9-49b982178338
+        explanation: >-
+          Optimist NFTs are digital avatars that allow individuals to express
+          their personality and build their onchain identity. They are fully
+          customizable, enabling users to create a unique avatar that represents
+          their interests and traits.
+      - answerKeys:
+          - D
+        choices:
+          - content: They earn more cryptocurrency
+            key: A
+          - content: Their digital avatar decreases in value
+            key: B
+          - content: They lose access to certain features
+            key: C
+          - content: They can unlock more unique traits for their Optimist NFT
+            key: D
+        content: >-
+          What happens as an individual's participation in the Optimism
+          ecosystem increases?
+        type: SingleChoice
+        uuid: e86deadd-e8fe-4be6-85c7-89f0bc223783
+        explanation: >-
+          As the Optimism ecosystem grows, new traits will be unlocked based on
+          an individual's participation. The more actively someone engages with
+          the Optimism ecosystem, the more unique traits they can unlock for
+          their Optimist NFT.
+    uuid: f4c92633-ca73-472e-8e58-eb4607400bd0
   - content: >
       https://help.optimism.io/hc/en-us/articles/10774929308699-What-is-the-Optimist-NFT-
 
