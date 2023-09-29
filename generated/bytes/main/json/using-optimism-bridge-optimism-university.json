@@ -1,0 +1,113 @@
+{
+  "uniqueId": "ac6b1d38-5a14-4ea9-9be4-7ab017ef7109",
+  "id": "using-optimism-bridge-optimism-university",
+  "name": "Using Optimism Bridge",
+  "content": "Steps to bridge tokens using the Optimism Bridge",
+  "created": "2023-09-29T12:15:20.696Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Wallet Connection",
+      "uuid": "6b06b38c-185b-4713-93f2-f56a1ef7cfda",
+      "content": "To start using the Optimism Bridge, connect your wallet to the platform. This can be done by locating the 'Connect Wallet' button, which is typically found at the bottom or top-right corner of the page. Follow the provided instructions to successfully connect your wallet to the platform.",
+      "stepItems": []
+    },
+    {
+      "name": "Source Chain Selection",
+      "uuid": "391fff8d-7459-4758-a90e-549ee02ea414",
+      "content": "Once your wallet is connected, you'll find a drop-down menu in the 'From' section. This is where you select your source chain or Centralized Exchange (CEX). For this guide, Ethereum is assumed as the source chain.",
+      "stepItems": []
+    },
+    {
+      "name": "Token Selection",
+      "uuid": "9f13a0aa-7f6c-4124-a7f3-fea1cbf0e296",
+      "content": "After selecting the source chain, choose the specific token you wish to bridge from the source chain to Optimism. Follow the on-screen instructions to complete the transaction confirmation process.",
+      "stepItems": []
+    },
+    {
+      "name": "Transaction Confirmation",
+      "uuid": "2a3c54be-2069-4941-8512-8a14b0e143f1",
+      "content": "Post transaction confirmation, you'll have to wait for it to be confirmed on the Ethereum network. The time taken for the bridging process to complete depends on the network traffic and the gas fees you opt to pay.",
+      "stepItems": []
+    },
+    {
+      "name": "Transaction Monitoring",
+      "uuid": "ec99bca8-e16b-4f7d-a69a-aec6a6c162da",
+      "content": "While waiting for the transaction confirmation, you can monitor its status on the Ethereum network using a blockchain explorer like Etherscan. This feature allows you to track your tokens' progress as they move from the source chain to the Optimism network.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "2af04d7c-7ac5-4953-8184-c0ad5f5f5a2e",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "cb2143f6-5709-49f4-a256-7ec151a0c451",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Connect your wallet to the platform"
+            },
+            {
+              "key": "B",
+              "content": "Select the source chain"
+            },
+            {
+              "key": "C",
+              "content": "Choose the specific token"
+            },
+            {
+              "key": "D",
+              "content": "Monitor the transaction status"
+            }
+          ],
+          "content": "What is the first step to bridge tokens from Ethereum to Optimism using the Optimism Bridge?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "The first step is to connect your wallet to the platform by locating the 'Connect Wallet' button and following the provided instructions."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "b1aaa685-e603-4590-a006-9a701f5c2b84",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "73125e26-6697-4d5c-ab6d-af63baf79806",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Connect your wallet to the platform"
+            },
+            {
+              "key": "B",
+              "content": "Select the source chain"
+            },
+            {
+              "key": "C",
+              "content": "Choose the specific token"
+            },
+            {
+              "key": "D",
+              "content": "Monitor the transaction"
+            }
+          ],
+          "content": "What is the final step?",
+          "answerKeys": [
+            "D"
+          ],
+          "explanation": "While waiting for the transaction confirmation, you can monitor its status on the Ethereum network using a blockchain explorer like Etherscan. This feature allows you to track your tokens' progress as they move from the source chain to the Optimism network."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
