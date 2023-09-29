@@ -1,0 +1,113 @@
+{
+  "uniqueId": "8524d9e3-44a3-4261-b160-b3820f64220e",
+  "id": "token-house-optimism-university",
+  "name": "Token House",
+  "content": "Overview of Token House & its role",
+  "created": "2023-09-29T12:40:25.990Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "c2ad00d9-1099-4da5-9817-aa2c833d7dd3",
+      "content": "Token House is a key component of the Optimism Collective's governance structure. It was created in conjunction with the OP token launch, which was distributed to addresses that showed positive, community-oriented behavior through the first airdrop. The Token House Governance Contract acts as the on-chain voting contract for all governance proposals submitted by Token House members.",
+      "stepItems": []
+    },
+    {
+      "name": "Acquiring Tokens",
+      "uuid": "155a06d9-fbac-48ad-8e05-fdedb7060c25",
+      "content": "The Optimism Governance Portal simplifies the voting process by providing a user-friendly interface for Token House members to delegate their voting power and cast their votes on-chain. There are several ways to obtain OP tokens and join the Optimism ecosystem, including airdrops and trading platforms.",
+      "stepItems": []
+    },
+    {
+      "name": "Earning Tokens",
+      "uuid": "22c04c29-da20-4d1e-a222-9b7c20b28839",
+      "content": "Engagement within the Optimism ecosystem can also lead to earning OP tokens. Those who contribute to the development, testing, or promotion of Optimism's technology may be eligible for token rewards or incentives. Keeping up with the Optimism community and official communication channels can help contributors stay informed about potential token earning opportunities.",
+      "stepItems": []
+    },
+    {
+      "name": "Governance Process",
+      "uuid": "3f8602cc-ac85-4d89-86c3-e565258f4e28",
+      "content": "The Optimism Forum is a key part of the governance process, providing a platform for discussion and deliberation on governance proposals. It allows Token House members to engage in meaningful conversations and share their views. In the future, additional user interfaces dedicated to governance councils may be developed to further enhance the governance experience.",
+      "stepItems": []
+    },
+    {
+      "name": "Decentralized Governance",
+      "uuid": "74bcf6fd-6d20-45d9-b2b1-88193b45b955",
+      "content": "OP token holders can participate in the decentralized governance of the Optimism ecosystem. They can propose changes, updates, and enhancements to the protocol and cast votes on important matters such as protocol upgrades and fee structures. Through their proposals and votes, they play a crucial role in shaping the future development and direction of the Optimism network.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "40fa02e2-f7ac-4609-ad91-749f72a65745",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "7ff3f096-fc5d-486e-9182-7b6b176c82af",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Token House is responsible for distributing OP tokens to eligible users."
+            },
+            {
+              "key": "B",
+              "content": "Token House provides a user-friendly interface for trading OP tokens."
+            },
+            {
+              "key": "C",
+              "content": "Token House is a platform for discussion and deliberation on governance proposals."
+            },
+            {
+              "key": "D",
+              "content": "Token House acts as the on-chain voting contract for all governance proposals submitted by Token House members."
+            }
+          ],
+          "content": "What is the role of Token House in the Optimism Collective's governance structure?",
+          "answerKeys": [
+            "D"
+          ],
+          "explanation": "The Token House Governance Contract acts as the on-chain voting contract for all governance proposals submitted by Token House members."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "d38ee9d3-e944-48ae-836d-800dcc08cad3",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "321bf989-8cfb-4044-997e-348e4c42bee8",
+          "choices": [
+            {
+              "key": "A",
+              "content": "OP tokens can be obtained through airdrops and trading platforms."
+            },
+            {
+              "key": "B",
+              "content": "OP tokens can only be obtained through cryptocurrency trading platforms."
+            },
+            {
+              "key": "C",
+              "content": "OP tokens can only be obtained through contributing to the development of Optimism's technology."
+            },
+            {
+              "key": "D",
+              "content": "OP tokens can only be obtained through participating in the Optimism Forum."
+            }
+          ],
+          "content": "How can one acquire OP tokens and join the Optimism ecosystem?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "OP tokens can be obtained through airdrops and trading platforms."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
