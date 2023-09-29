@@ -1,0 +1,113 @@
+{
+  "uniqueId": "58e1a6d5-fa0a-48f7-9871-8acffd0b3193",
+  "id": "science-of-optimismhow-it-works-optimism-university",
+  "name": "Science of Optimism:How It Works",
+  "content": "Exploring the Mechanics of Optimism",
+  "created": "2023-09-29T11:59:46.028Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "205f6f4c-5b37-4d30-9cba-22e4c7b8e5a5",
+      "content": "Optimism functions by utilizing the security of another blockchain, referred to as the parent chain. Instead of having its own consensus mechanism, Optimistic Rollups depend on the consensus mechanism of the parent chain, such as Proof of Work (PoW) or Proof of Stake (PoS).",
+      "stepItems": []
+    },
+    {
+      "name": "Block Storage",
+      "uuid": "41b5f29d-e331-4fb5-947d-5d369d519342",
+      "content": "In the case of Optimism, L2 blocks are stored on the Ethereum blockchain using a non-contract address. Once these blocks are submitted as transaction calldata on Ethereum, they cannot be altered or censored. This ensures the availability and integrity guarantees of Ethereum are inherited by the Optimism network.",
+      "stepItems": []
+    },
+    {
+      "name": "Block Production",
+      "uuid": "64f281cd-b16e-48c2-b4dc-2e1c7fd5235a",
+      "content": "Optimism block production is primarily managed by a single party called the 'sequencer.' In Bedrock, the sequencer has a private mempool, similar to Ethereum's L1, to prevent opportunities for MEV (Miner Extractable Value). Blocks are produced every two seconds on OP Mainnet, regardless of whether they are empty or filled with transactions.",
+      "stepItems": []
+    },
+    {
+      "name": "Transaction Inclusion",
+      "uuid": "1be0061e-93ff-4551-9853-81a9acec0411",
+      "content": "Transactions submitted on the Ethereum L1, known as deposits, are included in the appropriate L2 block. Each L2 block is identified by its epoch (the corresponding L1 block) and a serial number within that epoch. The first block of the epoch includes all the deposits that occurred in the corresponding L1 block.",
+      "stepItems": []
+    },
+    {
+      "name": "Execution Engine",
+      "uuid": "3bb618fd-ae4a-48c5-96da-a5085a2fa3d6",
+      "content": "If the sequencer tries to ignore a legitimate L1 transaction, it will result in an inconsistent state with the verifiers. The execution engine, implemented as the op-geth component, receives blocks using two mechanisms. It can update itself using a peer-to-peer network with other execution engines, similar to how L1 execution clients synchronize the state across the network or the rollup node, implemented as the op-node component, derives the L2 blocks from the L1 blockchain. This process is essential for maintaining the integrity and functionality of the Optimism network.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "006211f3-9968-4ab0-9ab3-2f5e6b74aa12",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "56b8b706-c240-4e08-8769-5ae7654f05d3",
+          "choices": [
+            {
+              "key": "A",
+              "content": "By utilizing the security of another blockchain, referred to as the parent chain"
+            },
+            {
+              "key": "B",
+              "content": "By having its own consensus mechanism"
+            },
+            {
+              "key": "C",
+              "content": "By depending on the consensus mechanism of the child chain"
+            },
+            {
+              "key": "D",
+              "content": "By using a private mempool for block production"
+            }
+          ],
+          "content": "How does Optimism utilize the security of another blockchain?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Optimism functions by utilizing the security of another blockchain, referred to as the parent chain."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "dedcebc1-100a-42c6-8dac-828005f79c54",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "12e78dbf-55c5-47f8-bf71-85c17741609a",
+          "choices": [
+            {
+              "key": "A",
+              "content": "By submitting them as transaction calldata on Ethereum"
+            },
+            {
+              "key": "B",
+              "content": "By storing them in a contract address on Ethereum"
+            },
+            {
+              "key": "C",
+              "content": "By storing them on the Ethereum blockchain using a non-contract address"
+            },
+            {
+              "key": "D",
+              "content": "By storing them on a separate blockchain"
+            }
+          ],
+          "content": "How are L2 blocks stored on the Ethereum blockchain in Optimism?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "In the case of Optimism, L2 blocks are stored on the Ethereum blockchain using a non-contract address."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
