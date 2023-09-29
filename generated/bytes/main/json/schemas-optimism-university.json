@@ -1,0 +1,79 @@
+{
+  "uniqueId": "23ff10a4-e174-4095-97ed-5b255169c2b6",
+  "id": "schemas-optimism-university",
+  "name": "Schemas",
+  "content": "Understanding Schemas in AttestationStation",
+  "created": "2023-09-29T16:00:35.922Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Schemas Role",
+      "uuid": "da5648fd-75a1-4735-86ec-ad1168072c36",
+      "content": "Schemas play a vital role in AttestationStation as they define the structure and type of data that can be included in an attestation. They act as a blueprint, ensuring that the data included in an attestation is organized and standardized. By following these predefined schemas, the information can be easily understood and processed by different systems.",
+      "stepItems": []
+    },
+    {
+      "name": "Schemas Purpose",
+      "uuid": "3f1ca7f9-4ae4-411a-be3a-6564d8f7631d",
+      "content": "The purpose of these schemas is to provide a standardized format for the data included in an attestation. This allows different systems and applications to easily interpret and process the information. By adhering to these schemas, developers can ensure that their attestations are compatible with the existing infrastructure and can be seamlessly integrated into the ecosystem.",
+      "stepItems": []
+    },
+    {
+      "name": "Schemas Types",
+      "uuid": "9752cd04-d475-428a-b979-59b46ffb05f9",
+      "content": "There are different schemas like Optimist Profile schema, Gitcoin Passport V1 scores schema, RetroPGF Badgeholders schema, RetroPGF 3 Application schema, and RetroPGF 3 Lists schema. Each of these schemas specifies the structure and type of data that can be included in an attestation, ensuring consistency across different attestations.",
+      "stepItems": []
+    },
+    {
+      "name": "AttestationStation Support",
+      "uuid": "82bdfddb-91ea-4bdf-a438-9a5fe8026345",
+      "content": "AttestationStation v1, the platform used for managing attestations, provides support for these schemas. It allows users to create attestations that adhere to the predefined schemas, ensuring that the data is structured correctly. This simplifies the process of creating and managing attestations, as users can rely on the predefined schemas to guide them.",
+      "stepItems": []
+    },
+    {
+      "name": "Schemas Security",
+      "uuid": "85b2c594-71ef-4510-a70b-a653ed4cc31c",
+      "content": "In addition to providing structure and organization, schemas also contribute to the security and integrity of the attestations. By defining the type of data that can be included, schemas prevent the inclusion of malicious or unauthorized information. This ensures that the attestations are reliable and trustworthy, as they follow a predefined set of rules and standards.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "b5c5c814-7adf-4da9-8a91-726b0007aed2",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "e4fdaee9-0dd3-484e-a74f-e73b707d5f94",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To provide a standardized format for the data included in an attestation"
+            },
+            {
+              "key": "B",
+              "content": "To define the structure and type of data that can be included in an attestation"
+            },
+            {
+              "key": "C",
+              "content": "To prevent the inclusion of malicious or unauthorized information"
+            },
+            {
+              "key": "D",
+              "content": "To increase the security and integrity of the attestations"
+            }
+          ],
+          "content": "What is the role of schemas in AttestationStation?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Schemas define the structure and type of data that can be included in an attestation, ensuring consistency and standardization."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}

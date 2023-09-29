@@ -25,3 +25,4 @@ bytes:
   - attestations-eas-optimism-university.yaml
   - attestationstation-optimism-university.yaml
   - optimist-profile-optimism-university.yaml
+  - schemas-optimism-university.yaml
