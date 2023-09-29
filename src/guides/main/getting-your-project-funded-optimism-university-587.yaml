@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2023-09-28T13:22:46.845Z'
+created: '2023-09-29T16:50:38.298Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -101,6 +101,49 @@ steps:
     name: Grants-Token House
     stepItems: []
     uuid: 227e1a3b-de02-4ff3-8303-aff357e4d1a9
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To support the proposer's personal projects
+            key: A
+          - content: >-
+              To promote the adoption of novel applications and use cases on
+              Optimism
+            key: B
+          - content: To fund the development of the Token House community
+            key: C
+          - content: To provide financial support to the Grants Council
+            key: D
+        content: What is the purpose of the Experiments grants?
+        type: SingleChoice
+        uuid: bc0d85e2-68af-4f9d-b56a-fe7274a1a393
+        explanation: >-
+          Experiments grants are designed to promote the adoption of novel
+          applications and tangible use cases on Optimism. These grants are
+          intended to reach end users and are not for the use of the proposer.
+      - answerKeys:
+          - D
+        choices:
+          - content: By submitting a proposal to the Grants Council
+            key: A
+          - content: By voting in the Token House community
+            key: B
+          - content: By submitting a request to the Optimism Collective
+            key: C
+          - content: By submitting a Mission proposal on the forum
+            key: D
+        content: What is the process for applying for a Mission grant?
+        type: SingleChoice
+        uuid: 42e01b97-1d0c-4179-9f74-9734c46d6dbb
+        explanation: >-
+          One can apply for a Mission grant by submitting a Mission proposal on
+          the forum requesting the grant amount that corresponds to their Trust
+          Tier. Mission Proposals will be approval ranked by the Token House
+          every six months.
+    uuid: 0dcd3381-8fc1-4cdc-98ac-d4e45c98e9c0
   - content: >+
       ### Foundation Missions
 
@@ -187,6 +230,53 @@ steps:
     name: Grants- Optimism Foundation
     stepItems: []
     uuid: 3f3659bf-9c62-4987-ae19-b099f4da08a0
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              To foster the growth of Optimism's ecosystem for the benefit of
+              the entire Collective
+            key: A
+          - content: To provide financial support to the Optimism Foundation
+            key: B
+          - content: To invest in high-risk, high-reward projects
+            key: C
+          - content: To generate profit for the Optimism Foundation
+            key: D
+        content: >-
+          What is the primary objective of the Partner Fund managed by the
+          Optimism Foundation?
+        type: SingleChoice
+        uuid: e1062ce1-7518-4ff1-a71f-92066e713888
+        explanation: >-
+          The primary objective of the Partner Fund is to foster the growth of
+          Optimism's ecosystem for the benefit of the entire Collective.
+      - answerKeys:
+          - C
+        choices:
+          - content: To prevent the grant recipients from selling the tokens
+            key: A
+          - content: To increase the value of the tokens
+            key: B
+          - content: >-
+              To ensure the granted tokens are utilized in a way that aligns
+              with the long-term objectives of the Optimism ecosystem
+            key: C
+          - content: To create a scarcity of tokens in the market
+            key: D
+        content: >-
+          What is the purpose of the 1-year token lockup period for Project
+          Grants from the Partner Fund?
+        type: SingleChoice
+        uuid: 2efdea7c-2794-4645-9303-ced8461d4ea9
+        explanation: >-
+          The 1-year token lockup period ensures that the granted tokens are
+          utilized in a way that aligns with the long-term objectives of the
+          Optimism ecosystem.
+    uuid: ac094b70-0c8b-450f-8cbe-901723c45574
   - content: >-
       ### Retroactive Grants (RetroPGF)
 
@@ -250,6 +340,54 @@ steps:
     name: Grants- Citizen House
     stepItems: []
     uuid: aecee0cb-12b1-4877-95e1-c3348740e2d6
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To provide upfront funding for future projects
+            key: A
+          - content: To penalize projects that have not met their goals
+            key: B
+          - content: >-
+              To reward work that has already been completed for its positive
+              impact
+            key: C
+          - content: To provide a platform for project proposals
+            key: D
+        content: What is the purpose of the Retroactive PGF (RetroPGF) program?
+        type: SingleChoice
+        uuid: 870e5b89-969c-4274-972b-36d524dedde1
+        explanation: >-
+          The Retroactive PGF (RetroPGF) program is designed to reward work that
+          has already been completed for its positive impact. It is administered
+          by the Citizens' House, which decides on the allocation of rewards
+          based on the assessment of each project's contribution to the
+          Collective.
+      - answerKeys:
+          - D
+        choices:
+          - content: Only developers working on Ethereum execution clients
+            key: A
+          - content: Only artists and creators
+            key: B
+          - content: Only writers and evangelists
+            key: C
+          - content: >-
+              All contributors in the Optimism ecosystem, including artists,
+              creators, writers, builders, and evangelists
+            key: D
+        content: Who is eligible to apply for RetroPGF rewards?
+        type: SingleChoice
+        uuid: 86fe4de5-04a5-4c5e-bcd9-385efff3dd5f
+        explanation: >-
+          RetroPGF is open to all contributors in the Optimism ecosystem,
+          including artists, creators, writers, builders, and evangelists.
+          Whether you are a developer working on an Ethereum execution client or
+          an educator creating Optimism-inspired video content, as long as your
+          work has made an impact, you are eligible to apply.
+    uuid: 4a454e7c-0f0c-4829-ae12-a9148cda8763
   - content: >-
       ### Grants Council
 
