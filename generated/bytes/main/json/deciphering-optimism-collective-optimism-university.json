@@ -1,0 +1,113 @@
+{
+  "uniqueId": "f778a2d2-861d-4ddb-a239-2507a3d361e1",
+  "id": "deciphering-optimism-collective-optimism-university",
+  "name": "Deciphering Optimism Collective",
+  "content": "Exploring the concept of the Optimism Collective",
+  "created": "2023-09-29T12:21:27.299Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "a333be93-1851-449b-8bcc-b83ced5c4e14",
+      "content": "The Optimism Collective is a revolutionary concept that aims to reshape the way we organize and govern ourselves in the digital age. In the current cyberspace, we face a significant market failure because the economic rules that govern it were designed for the physical world. However, cyberspace is built on information, which can be freely replicated, making public goods crucial for its growth.",
+      "stepItems": []
+    },
+    {
+      "name": "Collective's Purpose",
+      "uuid": "313f5388-f451-4ec2-b836-988845c86adf",
+      "content": "Unfortunately, our markets are not equipped to nurture this growth and reward the creators of these public goods for their impact. The Optimism Collective seeks to change this by introducing a new model of digital democratic governance. It is a coalition of communities, companies, and citizens who have come together with a shared goal: to reward positive impact with profit.",
+      "stepItems": []
+    },
+    {
+      "name": "Impact Equals Profit",
+      "uuid": "7a68b90b-c920-44f2-ba76-9e2c067442ad",
+      "content": "This principle, impact=profit, serves as their guiding light, motivating the creation of a more productive and empathetic economy. The Collective aims to dispel the misconception that public goods cannot be profitable and consistently provides retroactive incentives for public goods that benefit Optimism, Ethereum, and the Collective as a whole.",
+      "stepItems": []
+    },
+    {
+      "name": "Collective's Vision",
+      "uuid": "59702bb1-ba54-4858-8f55-e5f90b2d4165",
+      "content": "By incentivizing the creation of public goods, the Optimism Collective propels the growth of the decentralized ecosystem. As the Collective expands, so does the scope of what falls under the umbrella of public goods. They envision a future where the Collective extends beyond the digital realm and into the physical world, reliably providing for basic human needs at scale.",
+      "stepItems": []
+    },
+    {
+      "name": "Profitability and Public Goods",
+      "uuid": "57f4f4f3-e393-405c-8577-aabfec84cce1",
+      "content": "The Optimism Collective operates on the belief that public goods and profitability can go hand in hand. Often, public goods are underfunded because the incentives are not properly aligned, forcing individuals and organizations to choose between profit and the common good. However, the Collective is bound by a mutually beneficial pact, where impact equals profit.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "1074b9cc-e0ee-4203-9548-f7f2362259d3",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "223befc4-ca8a-4b8b-87e8-93f7848eaffb",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To reshape the way we organize and govern ourselves in the digital age"
+            },
+            {
+              "key": "B",
+              "content": "To reward positive impact with profit and introduce a new model of digital democratic governance"
+            },
+            {
+              "key": "C",
+              "content": "To dispel the misconception that public goods cannot be profitable"
+            },
+            {
+              "key": "D",
+              "content": "To incentivize the creation of public goods"
+            }
+          ],
+          "content": "What is the purpose of the Optimism Collective?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "The purpose of the Optimism Collective is to reward positive impact with profit and introduce a new model of digital democratic governance."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "0d9fbe05-950c-49ae-9b7d-2e8843c3e112",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "2650184b-22a6-41b1-b9b8-b96756002568",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Public goods and profitability cannot go hand in hand"
+            },
+            {
+              "key": "B",
+              "content": "Public goods are underfunded because the incentives are not properly aligned"
+            },
+            {
+              "key": "C",
+              "content": "Public goods and profitability can go hand in hand"
+            },
+            {
+              "key": "D",
+              "content": "Public goods funding should be based on future usefulness and the best team to build it"
+            }
+          ],
+          "content": "What is the belief of the Optimism Collective?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "The Optimism Collective believes that public goods and profitability can go hand in hand."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
