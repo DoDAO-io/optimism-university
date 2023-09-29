@@ -1,6 +1,6 @@
 categories: []
 content: A concise guide tailored for Optimism token holders
-created: '2023-09-27T17:36:11.946Z'
+created: '2023-09-29T17:33:35.444Z'
 guideType: onboarding
 key: optimism-holders-optimism-university-826
 name: Optimism Holders
@@ -68,6 +68,51 @@ steps:
     name: Overview
     stepItems: []
     uuid: 31c64e6c-2cf3-4f78-8346-d3181e4c09e3
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: By purchasing them from a physical store
+            key: A
+          - content: By winning them in a lottery
+            key: B
+          - content: >-
+              Through airdrops, purchasing and trading on cryptocurrency
+              platforms, and contributing to the Optimism's technology
+            key: C
+          - content: By inheriting them from a family member
+            key: D
+        content: How can one become an OP token holder?
+        type: SingleChoice
+        uuid: a217ff1c-7491-4716-8aec-83f55ff8c195
+        explanation: >-
+          One can become an OP token holder through methods such as airdrops,
+          purchasing and trading on cryptocurrency platforms, and contributing
+          to the development, testing, or promotion of Optimism's technology.
+      - answerKeys:
+          - D
+        choices:
+          - content: The right to sell the tokens at a high price
+            key: A
+          - content: The right to use the tokens as a form of currency
+            key: B
+          - content: The right to exchange the tokens for other cryptocurrencies
+            key: C
+          - content: >-
+              The right to participate in the decentralized governance, propose
+              changes, cast votes, and shape the future of the Optimism network
+            key: D
+        content: What rights do OP token holders have?
+        type: SingleChoice
+        uuid: 70b39834-dd4f-47fb-aac9-6bf112956d15
+        explanation: >-
+          OP token holders have the right to participate in the decentralized
+          governance of the Optimism ecosystem, propose changes, updates, and
+          enhancements to the protocol, cast votes on important matters, and
+          shape the future development and direction of the Optimism network.
+    uuid: 5fa4b011-75f5-483b-9e14-1f873bb4672c
   - content: >-
       ### Importance of Delegation
 
@@ -148,6 +193,56 @@ steps:
     name: Delegating Tokens
     stepItems: []
     uuid: ffeb0c12-2231-4fa9-9ad3-7ed707275dec
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To give away your tokens
+            key: A
+          - content: To increase the value of your tokens
+            key: B
+          - content: >-
+              To allow someone else to actively participate in governance on
+              your behalf
+            key: C
+          - content: To decrease the value of your tokens
+            key: D
+        content: >-
+          What is the purpose of delegating your voting power in the Optimism
+          Token House?
+        type: SingleChoice
+        uuid: 513f996d-0bf1-42ca-8bbc-330ad94c4d36
+        explanation: >-
+          Delegating your voting power allows you to transfer your voting power
+          to someone who will actively participate in Token House governance on
+          your behalf. This is particularly useful if you do not have the time
+          to actively participate yourself.
+      - answerKeys:
+          - B
+        choices:
+          - content: You lose your voting power
+            key: A
+          - content: >-
+              You can delegate to yourself and retain full control over your
+              voting power
+            key: B
+          - content: Your tokens decrease in value
+            key: C
+          - content: You are excluded from the voting process
+            key: D
+        content: >-
+          What happens if you choose not to delegate your voting power to a
+          representative?
+        type: SingleChoice
+        uuid: 0119b15c-9679-4bc5-9571-968968c3ab3d
+        explanation: >-
+          If you choose not to delegate your voting power to a representative,
+          you have the option to delegate to yourself. This allows you to retain
+          full control over your voting power and participate in the voting
+          process.
+    uuid: 621b4acc-dde8-44e6-b44c-70b7eb651ea3
   - content: >-
       ### Funding Sources in the OP Economy
 
@@ -219,6 +314,27 @@ steps:
     name: OP Economics
     stepItems: []
     uuid: 3d838e68-0b4c-47c5-ba18-3733ac96cff6
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: From the sale of OP tokens
+            key: A
+          - content: From the ownership of OP Mainnet and the value of its blockspace
+            key: B
+          - content: From donations made by the Optimism Foundation
+            key: C
+          - content: From the sale of merchandise related to the OP economy
+            key: D
+        content: Where does the funding for the OP economy primarily come from?
+        type: SingleChoice
+        uuid: 17e6c1ec-e1b1-442c-afa8-7d897bb2fafb
+        explanation: >-
+          The funding for the OP economy comes primarily from the ownership of
+          OP Mainnet and the value of its blockspace.
+    uuid: 38a8a455-c44f-42ad-b2f4-8bc7ad9d7859
   - content: >
       The following table & diagram  showcases the OP token allocations:
 
@@ -366,6 +482,54 @@ steps:
     name: Airdrops
     stepItems: []
     uuid: 40572d0c-8a56-4505-9d4a-7377d511d6ad
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              Rewards positive-sum governance participation and power users of
+              OP Mainnet.
+            key: A
+          - content: >-
+              Rewards those who have been instrumental as early adopters and
+              active users of projects in the Optimism ecosystem & L1 Ethereum.
+            key: B
+          - content: >-
+              Similar to Airdrop 2, rewards positive sum governance
+              participation.
+            key: C
+          - content: None of the above
+            key: D
+        content: What was the criteria for Airdrop 1?
+        type: SingleChoice
+        uuid: 48453a4d-2ce3-4314-8a25-c7386b05d50f
+        explanation: >-
+          Airdrop 1 rewarded those who have been instrumental as early adopters
+          and active users of projects in the Optimism ecosystem & L1 Ethereum.
+      - answerKeys:
+          - C
+        choices:
+          - content: Requires eligible addresses to claim the tokens
+            key: A
+          - content: >-
+              Distributed over 200m OP tokens to 250,000 early adopters and
+              engaged users
+            key: B
+          - content: >-
+              Tokens are distributed directly to eligible wallets, no claiming
+              needed.
+            key: C
+          - content: None of the above
+            key: D
+        content: How are the tokens of Airdrop 2 distributed?
+        type: SingleChoice
+        uuid: f897ba80-47c1-4c5d-9d50-d6f6909f2895
+        explanation: >-
+          Tokens of Airdrop 2 were distributed directly to eligible wallets, no
+          claiming was needed.
+    uuid: 8925f24e-2188-4446-9cbc-b4331582f0a1
   - content: |
       https://community.optimism.io/docs/governance/howto-delegate/
 

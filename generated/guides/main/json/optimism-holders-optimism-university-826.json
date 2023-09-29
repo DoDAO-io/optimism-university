@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A concise guide tailored for Optimism token holders",
-  "created": "2023-09-27T17:36:11.946Z",
+  "created": "2023-09-29T17:33:35.444Z",
   "guideType": "onboarding",
   "key": "optimism-holders-optimism-university-826",
   "name": "Optimism Holders",
@@ -14,16 +14,172 @@
       "uuid": "31c64e6c-2cf3-4f78-8346-d3181e4c09e3"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "By purchasing them from a physical store",
+              "key": "A"
+            },
+            {
+              "content": "By winning them in a lottery",
+              "key": "B"
+            },
+            {
+              "content": "Through airdrops, purchasing and trading on cryptocurrency platforms, and contributing to the Optimism's technology",
+              "key": "C"
+            },
+            {
+              "content": "By inheriting them from a family member",
+              "key": "D"
+            }
+          ],
+          "content": "How can one become an OP token holder?",
+          "type": "SingleChoice",
+          "uuid": "a217ff1c-7491-4716-8aec-83f55ff8c195",
+          "explanation": "One can become an OP token holder through methods such as airdrops, purchasing and trading on cryptocurrency platforms, and contributing to the development, testing, or promotion of Optimism's technology."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The right to sell the tokens at a high price",
+              "key": "A"
+            },
+            {
+              "content": "The right to use the tokens as a form of currency",
+              "key": "B"
+            },
+            {
+              "content": "The right to exchange the tokens for other cryptocurrencies",
+              "key": "C"
+            },
+            {
+              "content": "The right to participate in the decentralized governance, propose changes, cast votes, and shape the future of the Optimism network",
+              "key": "D"
+            }
+          ],
+          "content": "What rights do OP token holders have?",
+          "type": "SingleChoice",
+          "uuid": "70b39834-dd4f-47fb-aac9-6bf112956d15",
+          "explanation": "OP token holders have the right to participate in the decentralized governance of the Optimism ecosystem, propose changes, updates, and enhancements to the protocol, cast votes on important matters, and shape the future development and direction of the Optimism network."
+        }
+      ],
+      "uuid": "5fa4b011-75f5-483b-9e14-1f873bb4672c"
+    },
+    {
       "content": "### Importance of Delegation\n\nParticipating in the governance of the Optimism Token House can be a time-consuming task. To address this, individuals have the option to delegate their voting power to a community member who has volunteered to actively participate in Token House governance. However, if you prefer not to delegate your voting power, you will still need to delegate to yourself in order to vote. Let's explore the process of delegating tokens:\n\nWhen trying to delegate your votes to a representative, follow this process:\n\n### Choosing Your Delegate\nDelegating your voting power is a crucial decision, so it is essential to take the time to read through delegate statements of interest. These statements provide insights into the delegate's stance on various governance matters. By carefully considering these statements, you can select a delegate who aligns with your values and priorities. Remember, a healthy governance system benefits both Optimism and all OP token holders.\n\n### Use Delegates App\nDelegating tokens to a representative allows you to transfer your voting power to someone who will actively participate in Token House governance on your behalf. By doing so, you retain 100% ownership of your tokens and can use them as you wish. To delegate your tokens, you can visit the [delegates app](https://app.optimism.io/delegates) and follow the instructions provided. It is important to note that delegate voting power is measured at the start of every voting period, which occurs every five weeks.\n\n### Delegate Communications Thread\nOnce you have delegated your tokens, your chosen delegate should provide reasoning behind their votes in a [Delegate Communications Thread](https://gov.optimism.io/c/governance/41). This thread serves as a platform for delegates to explain their decision-making process and engage with the community. By reviewing these communications, you can stay informed about the actions and decisions made on your behalf.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695737376542_untitled-2023-09-26-1601.png\"/>\n</div>\n\nIf you choose not to assign your voting authority to another delegate, you will still have to delegate your vote to your own address in order to participate in the voting process:\n\n### Register Yourself\nIf you prefer not to delegate your voting power to a representative, you have the option to delegate to yourself. By following the [delegate commitment template](https://gov.optimism.io/t/delegate-commitments/235) on the [Optimism Governance Portal](https://vote.optimism.io/), you can register as a delegate and retain full control over your voting power. \n\n### Use Delegates App\nAfter completing the process, visit the delegates app to confirm that you have successfully delegated your tokens to your own address.\n\n### Start Voting \nOnce you have been added as a delegate in the next voting cycle, you can start voting on governance matters.",
       "name": "Delegating Tokens",
       "stepItems": [],
       "uuid": "ffeb0c12-2231-4fa9-9ad3-7ed707275dec"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To give away your tokens",
+              "key": "A"
+            },
+            {
+              "content": "To increase the value of your tokens",
+              "key": "B"
+            },
+            {
+              "content": "To allow someone else to actively participate in governance on your behalf",
+              "key": "C"
+            },
+            {
+              "content": "To decrease the value of your tokens",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of delegating your voting power in the Optimism Token House?",
+          "type": "SingleChoice",
+          "uuid": "513f996d-0bf1-42ca-8bbc-330ad94c4d36",
+          "explanation": "Delegating your voting power allows you to transfer your voting power to someone who will actively participate in Token House governance on your behalf. This is particularly useful if you do not have the time to actively participate yourself."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "You lose your voting power",
+              "key": "A"
+            },
+            {
+              "content": "You can delegate to yourself and retain full control over your voting power",
+              "key": "B"
+            },
+            {
+              "content": "Your tokens decrease in value",
+              "key": "C"
+            },
+            {
+              "content": "You are excluded from the voting process",
+              "key": "D"
+            }
+          ],
+          "content": "What happens if you choose not to delegate your voting power to a representative?",
+          "type": "SingleChoice",
+          "uuid": "0119b15c-9679-4bc5-9571-968968c3ab3d",
+          "explanation": "If you choose not to delegate your voting power to a representative, you have the option to delegate to yourself. This allows you to retain full control over your voting power and participate in the voting process."
+        }
+      ],
+      "uuid": "621b4acc-dde8-44e6-b44c-70b7eb651ea3"
+    },
+    {
       "content": "### Funding Sources in the OP Economy\n\nThe funding for the OP economy comes from the ownership of OP Mainnet and the value of its blockspace. Currently, funding is obtained through the centralized sequencer, which is then redistributed by The Optimism Foundation. However, in the future, funding can be obtained by selling the right to participate in Optimism's decentralized sequencing network. This sustainable revenue source ensures the growth and sustainability of the OP economic model.\n\nMany markets fail to adequately fund and support public goods. Optimism addresses this issue by integrating a sustainable funding source into the network itself. Retroactive Public Goods Funding (RetroPGF) plays a crucial role in distributing sequencer revenue back to the ecosystem. This incentivizes individuals to contribute to the public good of the Optimism Collective. The Citizens' House, through voting, determines the distribution of funds to individuals, teams, projects, or communities that have made a positive impact.\n\nThe Foundation expects RetroPGF to drive a wide range of downstream effects, benefiting the entire Optimism Collective. This mechanism not only funds public goods but also provides exit liquidity for early investment in these projects. By creating conditions for experimentation, the Foundation aims to maximize the long-term value for builders, users, tokenholders, citizens, and the entire Optimism Collective.\n\nThe Optimism Collective operates on the belief that a healthy ecosystem is built on robust public goods. The economics of this ecosystem are designed to generate value for three key groups: tokenholders, contributors and builders, and users and community members:\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_holders_optimism_university_826/1695736350386_untitled-2023-09-26-1601.png\"/>\n</div>\n\n### Tokenholders\nTokenholders benefit from the productive re-deployment of sequencer revenue. This revenue is primarily directed towards funding public goods, which not only creates value for the ecosystem but also drives demand for blockspace. As the network grows, the value of tokenholder investments increases.\n\n### Contributors & Builders\nContributors and builders play a crucial role in the Optimism Collective. They receive direct benefits from retroactive public goods funding and the markets it enables. Additionally, they benefit from a well-funded ecosystem that provides them with the necessary tools, education, apps, and infrastructure to build and thrive.\n\n### Users & Community Members\nUsers and community members also reap the rewards of the OP ecosystem. They receive ongoing airdrops of OP tokens, project incentives made possible by OP ecosystem funding, and the overall benefits that public goods provide. This creates a symbiotic relationship where the community members contribute to the ecosystem's growth and, in turn, benefit from its success.",
       "name": "OP Economics",
       "stepItems": [],
       "uuid": "3d838e68-0b4c-47c5-ba18-3733ac96cff6"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "From the sale of OP tokens",
+              "key": "A"
+            },
+            {
+              "content": "From the ownership of OP Mainnet and the value of its blockspace",
+              "key": "B"
+            },
+            {
+              "content": "From donations made by the Optimism Foundation",
+              "key": "C"
+            },
+            {
+              "content": "From the sale of merchandise related to the OP economy",
+              "key": "D"
+            }
+          ],
+          "content": "Where does the funding for the OP economy primarily come from?",
+          "type": "SingleChoice",
+          "uuid": "17e6c1ec-e1b1-442c-afa8-7d897bb2fafb",
+          "explanation": "The funding for the OP economy comes primarily from the ownership of OP Mainnet and the value of its blockspace."
+        }
+      ],
+      "uuid": "38a8a455-c44f-42ad-b2f4-8bc7ad9d7859"
     },
     {
       "content": "The following table & diagram  showcases the OP token allocations:\n\n<table>\n<thead>\n  <tr>\n    <th>Category</th>\n    <th>Percentage</th>\n    <th>Description</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Ecosystem Fund</td>\n    <td>25%</td>\n    <td>The Ecosystem Fund is a proactive program meant to stimulate development in the Collective ecosystem by providing funding to projects and communities</td>\n  </tr>\n  <tr>\n    <td>User Airdrops</td>\n    <td>19%</td>\n    <td>A series of airdrops to reward users for specific helpful behaviors, beginning with Airdrop #1</td>\n  </tr>\n  <tr>\n    <td>RetroPGF</td>\n    <td>20%</td>\n    <td>RetroPGF is the Optimism Collective’s primary mechanism to adequately and reliably reward public goods for the impact they provide</td>\n  </tr>\n  <tr>\n    <td>Sugar Xaddies</td>\n    <td>17%</td>\n    <td>Investors</td>\n  </tr>\n  <tr>\n    <td>Core Contributors</td>\n    <td>19%</td>\n    <td>The people who’ve been working tirelessly to bring the Optimism Collective into existence</td>\n  </tr>\n</tbody>\n</table>\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/a52929b2_2fda_47ee_befc_e3977a8cdedc/1695733353942_untitled-2023-09-21-1651.png\"/>\n</div>\n\n### Ecosystem Fund\n\nThe Ecosystem Fund is an incentive program designed to stimulate the development of the Collective ecosystem. This fund will directly support the communities and companies that drive the expansion of the Collective ecosystem, known as OPCOs. The allocation dedicated to the Ecosystem Fund will be further divided into different categories. It is important to mention that the Ecosystem Fund is intended to be a kick-starting mechanism that will eventually be phased out once the OP in the fund has been depleted.\n\n### Airdrops\n\nThe Optimism Foundation aims to reward and attract users from both the Optimism and Ethereum communities through the distribution of OP tokens. This distribution will occur in multiple waves, with the first wave being Airdrop #1. Airdrop #1 was designed to cast a wide net and distribute OP to over 250k addresses. To ensure fairness, the eligibility criteria for this airdrop can be found in the Airdrop #1 documentation. Additionally, 14% of the OP token supply will be reserved for future user airdrops.\n\n### RetroPGF\n\nAn allocation of 8.8% of the OP token supply will be held in reserve for future programs, to be determined by the Foundation and/or the governance community. Retroactive Public Goods Funding (RetroPGF) will be distributed by the Citizens' House, with rounds expected to occur quarterly. The objective of RetroPGF is to ensure that all OPCOs are adequately rewarded based on their impact to the Collective. The Optimism Foundation may tap into the 20% RetroPGF Reserve to increase the total OP payout of any given period.\n\n### Core Contributors & Sugar Xaddies\n\nThe Core Contributors allocation will be distributed to the individuals who played a crucial role in bringing Optimism and the Optimism Collective from concept to reality. These tokens will also continue to support the development of the protocol. Both the Core Contributors and Sugar Xaddies allocations will be subject to a lockup period.\n",
@@ -36,6 +192,67 @@
       "name": "Airdrops",
       "stepItems": [],
       "uuid": "40572d0c-8a56-4505-9d4a-7377d511d6ad"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Rewards positive-sum governance participation and power users of OP Mainnet.",
+              "key": "A"
+            },
+            {
+              "content": "Rewards those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum.",
+              "key": "B"
+            },
+            {
+              "content": "Similar to Airdrop 2, rewards positive sum governance participation.",
+              "key": "C"
+            },
+            {
+              "content": "None of the above",
+              "key": "D"
+            }
+          ],
+          "content": "What was the criteria for Airdrop 1?",
+          "type": "SingleChoice",
+          "uuid": "48453a4d-2ce3-4314-8a25-c7386b05d50f",
+          "explanation": "Airdrop 1 rewarded those who have been instrumental as early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Requires eligible addresses to claim the tokens",
+              "key": "A"
+            },
+            {
+              "content": "Distributed over 200m OP tokens to 250,000 early adopters and engaged users",
+              "key": "B"
+            },
+            {
+              "content": "Tokens are distributed directly to eligible wallets, no claiming needed.",
+              "key": "C"
+            },
+            {
+              "content": "None of the above",
+              "key": "D"
+            }
+          ],
+          "content": "How are the tokens of Airdrop 2 distributed?",
+          "type": "SingleChoice",
+          "uuid": "f897ba80-47c1-4c5d-9d50-d6f6909f2895",
+          "explanation": "Tokens of Airdrop 2 were distributed directly to eligible wallets, no claiming was needed."
+        }
+      ],
+      "uuid": "8925f24e-2188-4446-9cbc-b4331582f0a1"
     },
     {
       "content": "https://community.optimism.io/docs/governance/howto-delegate/\n\nhttps://community.optimism.io/docs/governance/economics/\n\nhttps://community.optimism.io/docs/governance/allocations/#\n\nhttps://community.optimism.io/docs/governance/airdrop-1/\n\nhttps://community.optimism.io/docs/governance/airdrop-2/\n\nhttps://community.optimism.io/docs/governance/airdrop-3/\n",
