@@ -1,0 +1,77 @@
+uniqueId: 6589a90b-b95c-4449-89bf-967e148f1abb
+id: optimist-profile-optimism-university
+name: Optimist Profile
+content: Understanding the Optimist Profile and its impact
+created: '2023-09-29T15:53:10.773Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 0a856d86-070a-491f-9a9b-2dd6081f9c61
+    content: >-
+      The Optimist Profile is a feature that enables contributors to showcase
+      their contributions and influence on the Optimism Collective. It is an
+      open platform where anyone can create an Optimist Profile and use it for
+      onchain identity applications.
+    stepItems: []
+  - name: Profile Elements
+    uuid: d4e3e8c9-150e-49cf-80fe-f2761c1f6ae2
+    content: >-
+      The Optimist Profile is constructed using a variety of onchain reputation
+      data on OP Mainnet. It includes elements such as Profile Schema, which is
+      an onchain self-attestation representing an individual or organization,
+      and Contributions, where each profile can create onchain attestations
+      about their contributions.
+    stepItems: []
+  - name: Peer Attestations
+    uuid: ccaed9ef-81ba-45a9-8a59-b8b6265d7446
+    content: >-
+      Optimist Profiles can also be used to create onchain peer-to-peer
+      attestations about the contributions of other contributors, helping the
+      Optimism Collective create a web of trust based on contributions.
+    stepItems: []
+  - name: Technical Details
+    uuid: 81f880d4-0afa-4263-9873-f676b1f6ae2d
+    content: >-
+      The Optimist Profile is built on attestations using the Ethereum
+      Attestation Service. The profile schema includes a unique identifier, name
+      of the profile, and metadata pointers that can point to any type of blob
+      storage storing the metadata.
+    stepItems: []
+  - name: Evaluation
+    uuid: 7aa85242-fb0f-47f5-95ba-e71a58fce427
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 3877355a-fd70-4db5-a620-f4b37c6679fd
+        choices:
+          - key: A
+            content: >-
+              A feature that allows team members to showcase their contributions
+              and influence on the Optimism Collective
+          - key: B
+            content: >-
+              A feature that enables contributors to showcase their
+              contributions and influence on the Optimism Collective. It is an
+              open platform where anyone can create an Optimist Profile and use
+              it for onchain identity applications.
+          - key: C
+            content: >-
+              A feature that allows builders to create onchain peer-to-peer
+              attestations about their contributions
+          - key: D
+            content: >-
+              A feature that allows developers to create onchain attestations
+              about the contributions of other contributors
+        content: What is the Optimist Profile?
+        answerKeys:
+          - B
+        explanation: >-
+          The Optimist Profile is a feature that enables contributors to
+          showcase their contributions and influence on the Optimism Collective.
+          It is an open platform where anyone can create an Optimist Profile and
+          use it for onchain identity applications.
+spaceId: optimism-university
