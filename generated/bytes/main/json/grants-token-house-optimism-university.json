@@ -1,0 +1,91 @@
+{
+  "uniqueId": "f7ef0dac-13b6-4057-bad4-239293b7666c",
+  "id": "grants-token-house-optimism-university",
+  "name": "Grants-Token House",
+  "content": "Exploring the role of Token House in providing grants",
+  "created": "2023-09-29T13:39:05.971Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Grants Council",
+      "uuid": "16bccd3e-2d13-4e83-a3b1-f6dd4012f1f2",
+      "content": "The Grants Council, elected by the Token House community, plays a crucial role in providing small to medium-sized grants to support various initiatives. These grants are divided into three categories: Builders, Experiments, and Requests for Grants (RFGs).",
+      "stepItems": []
+    },
+    {
+      "name": "Builder Grants",
+      "uuid": "ae1e7b4b-e5d8-4f10-916c-34ec2bda57a2",
+      "content": "Builders grants aim to maximize the number of builders, including developers and visionaries, who are building innovative applications on Optimism. The Council is particularly interested in projects that align with their mission of advancing the Builders community. When reviewing proposals, the Council looks for information that demonstrates how the project contributes to this mission.",
+      "stepItems": []
+    },
+    {
+      "name": "Experiments Grants",
+      "uuid": "63137acc-702f-4455-a18c-a5f1a0ea42cc",
+      "content": "Experiments grants are designed to promote the adoption of novel applications and tangible use cases on Optimism. Unlike Builders grants, these grants are intended to reach end users and are not for the use of the proposer. The proposal forms for Experiments grants are specifically designed to gather information on how the project will expand the reach of the Optimism ecosystem and enhance the adoption of useful applications.",
+      "stepItems": []
+    },
+    {
+      "name": "Requests for Grants",
+      "uuid": "8decf3a1-568b-4cba-83d6-c316ccde4b35",
+      "content": "Requests for Grants (RFGs) represent a transitional moment in the grant process. These grants are based on the needs of the Optimism ecosystem and are issued as requests for teams to submit proposals that address the most pressing problems. The Council specifies the requirements for each request, including how to submit a proposal and how the proposals will be assessed.",
+      "stepItems": []
+    },
+    {
+      "name": "Council's Voting Cycle",
+      "uuid": "a3f341fe-9fa2-409e-908e-5045cffc0d95",
+      "content": "The Grants Council follows a five-week cycle during regular Voting Cycles to process applications. It is important to refer to the governance calendar for the schedule and deadlines.",
+      "stepItems": []
+    },
+    {
+      "name": "Token House Missions",
+      "uuid": "a31f2a7b-f1e6-4340-89f7-e200cb351944",
+      "content": "The Token House plays a crucial role in the Optimism Collective by voting on approving Missions. These Missions are specific initiatives that align with the Collective Intents and can receive grants. All proposals under Intent #2 should be grant applications that will be processed by the Grants Council. The Token House votes on these Missions once per Season, which is roughly every four to six months.",
+      "stepItems": []
+    },
+    {
+      "name": "Season 4 Initiatives",
+      "uuid": "8a3dac72-7ba1-4a03-b45c-f36d0dc9ce66",
+      "content": "In Season 4, the Foundation has suggested Intent Budgets to align the community around Collective Intents. One can apply by submitting a Mission proposal on the forum requesting the grant amount that corresponds to their Trust Tier. Mission Proposals will be approval ranked by the Token House every six months.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "ecc3e511-603d-4766-994a-4153f94fb387",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "5e642940-d74a-4675-8f00-6470be09e411",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To promote the adoption of novel applications and tangible use cases on Optimism"
+            },
+            {
+              "key": "B",
+              "content": "To maximize the number of builders, including developers and visionaries, who are building innovative applications on Optimism"
+            },
+            {
+              "key": "C",
+              "content": "To issue requests for teams to submit proposals that address the most pressing problems in the Optimism ecosystem"
+            },
+            {
+              "key": "D",
+              "content": "To vote on approving Missions that align with the Collective Intents and can receive grants"
+            }
+          ],
+          "content": "What is the role of the Grants Council in providing grants for the Optimism ecosystem?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "The Grants Council provides small to medium-sized grants to support various initiatives in the Optimism ecosystem."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
