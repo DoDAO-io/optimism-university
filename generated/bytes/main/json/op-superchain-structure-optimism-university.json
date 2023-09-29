@@ -1,0 +1,107 @@
+{
+  "uniqueId": "1032638f-395b-4def-a10f-51f58cae7143",
+  "id": "op-superchain-structure-optimism-university",
+  "name": "OP Superchain Structure",
+  "content": "Understanding the structure of the OP Superchain",
+  "created": "2023-09-29T16:14:00.506Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Architecture and Bridge",
+      "uuid": "5d058ae6-3941-469a-aec2-08211da0be86",
+      "content": "OP chains within the Optimism Superchain are constructed with a standardized architecture that enhances their functionality and interoperability. A critical component of the OP chain architecture is a shared bridge that connects the base layer to the OP chains. This bridge serves the crucial role of ensuring the standardization of security measures across the entire Superchain.",
+      "stepItems": []
+    },
+    {
+      "name": "OP Chains",
+      "uuid": "1a630eff-7106-4da8-804a-9b85ad1aa6e6",
+      "content": "OP chains represent the individual chains within the Optimism Superchain. These chains are an essential part of the architecture and contribute to the overall functionality of the Superchain.",
+      "stepItems": []
+    },
+    {
+      "name": "Cross-Chain Messaging",
+      "uuid": "01e4db35-9091-421c-9dbb-ec0873bb8651",
+      "content": "To facilitate the seamless transfer of data and digital assets between OP chains, a cross-chain messaging protocol is integrated into the architecture. This protocol plays a pivotal role in ensuring efficient communication and data exchange between different OP chains.",
+      "stepItems": []
+    },
+    {
+      "name": "Transaction Ordering",
+      "uuid": "0ca1f180-4762-472d-bbe0-96bf7f350ad9",
+      "content": "One of the standout features of this architecture is its ability to establish total transaction ordering across all OP Chains. This unique capability empowers developers to create applications targeting the Superchain as a unified platform, abstracting the complexities of the underlying chains on which these applications run.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "533782ac-f9b8-41fc-8575-2d3ad8606478",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "c53e4508-a894-4f73-bae9-8833854d8398",
+          "choices": [
+            {
+              "key": "A",
+              "content": "It connects the base layer to the OP chains"
+            },
+            {
+              "key": "B",
+              "content": "It facilitates the transfer of data and digital assets between OP chains"
+            },
+            {
+              "key": "C",
+              "content": "It establishes total transaction ordering across all OP Chains"
+            },
+            {
+              "key": "D",
+              "content": "It enhances the functionality and interoperability of the OP chains"
+            }
+          ],
+          "content": "What is the role of the shared bridge in the OP chain architecture?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "The shared bridge ensures the standardization of security measures across the entire Superchain."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "1febc540-fc5c-4fbc-9387-3fabe5105139",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "92a0abdd-e11c-4e48-a510-6ba352c9bcac",
+          "choices": [
+            {
+              "key": "A",
+              "content": "It connects the base layer to the OP chains"
+            },
+            {
+              "key": "B",
+              "content": "It facilitates the transfer of data and digital assets between OP chains"
+            },
+            {
+              "key": "C",
+              "content": "It establishes total transaction ordering across all OP Chains"
+            },
+            {
+              "key": "D",
+              "content": "It enhances the functionality and interoperability of the OP chains"
+            }
+          ],
+          "content": "What is the purpose of the cross-chain messaging protocol in the OP chain architecture?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "The cross-chain messaging protocol facilitates the seamless transfer of data and digital assets between OP chains."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
