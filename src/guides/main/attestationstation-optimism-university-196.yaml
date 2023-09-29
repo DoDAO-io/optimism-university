@@ -1,21 +1,76 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-09-28T13:18:49.151Z'
+created: '2023-09-29T10:42:47.912Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
 publishStatus: Live
 steps:
+  - content: >-
+      ### What are Attestations?
+
+
+      Attestations are described as digital signatures of structured data. They
+      play a crucial role in representing trust and identity in digital
+      interactions.They serve as fundamental components of decentralized
+      identity systems. The challenge of numerous identity protocols being
+      developed, leads to fragmentation in the ecosystem. This fragmentation
+      makes it challenging for developers to create a comprehensive view of
+      digital identity. Identity can be represented as an aggregate of
+      attestations made by various entities over time. This means that entities
+      can both receive and issue attestations about themselves, creating a
+      comprehensive picture of their identity.
+
+
+      ### What is Ethereum Attestation Service (EAS)?
+
+
+      Ethereum Attestation Service (EAS) is an open-source infrastructure
+      designed to provide a public good for creating attestations. It is
+      intended to serve as a foundational layer for various applications and use
+      cases. EAS is versatile, supporting both on-chain and off-chain
+      attestations. This flexibility allows developers to choose the most
+      suitable approach for their specific needs. It offers an SDK (Software
+      Development Kit) along with a set of developer tools. These tools are
+      designed to simplify the process of working with attestations, making it
+      easier for developers to integrate EAS into their projects. EAS follows a
+      grant-based funding model. This model ensures that EAS remains a public
+      good and is not monetized as part of its infrastructure. The focus is on
+      providing a service to the community rather than generating revenue from
+      the infrastructure itself.
+
+
+      ### EAS Contracts
+
+
+      EAS operates using two fundamental smart contracts. These contracts form
+      the foundation of the service's functionality:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695984058527_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
+      #### Schema Registry Contract
+
+
+      This contract allows users to register structured data about various
+      topics. It serves as a way to define and categorize the types of data that
+      can be attested to within the EAS ecosystem.
+
+
+      #### Attestation Contract
+
+
+      The second contract enables the creation of attestations based on the
+      registered schemas. It is the core component responsible for generating
+      and managing attestations.
+    name: Attestations & EAS
+    stepItems: []
+    uuid: 8d6b96f2-8970-4efe-99cc-6c2971c5aaf5
   - content: >+
-      ### What is Attestation?
-
-
-      Attestations are authenticated declarations regarding an individual,
-      entity, or object, issued by an individual, corporation, or institution.
-      They serve as fundamental components of decentralized identity systems.
-
-
-      ### Properties of AttestationStation
+      ### What is AttestationStation?
 
 
       AttestationStation is a crucial component in building decentralized
@@ -71,7 +126,7 @@ steps:
       sybil-attacks and provides additional information about a person's
       reputation, which is crucial in governance and other use-cases. 
 
-    name: Overview
+    name: AttestationStation
     stepItems: []
     uuid: 57f9eb66-8157-46bf-a8ed-0813b1a36a34
   - content: >-
