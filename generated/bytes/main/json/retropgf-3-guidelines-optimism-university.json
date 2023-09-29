@@ -1,0 +1,91 @@
+{
+  "uniqueId": "85dc3678-a83d-4c89-a395-84d38ff7d346",
+  "id": "retropgf-3-guidelines-optimism-university",
+  "name": "RetroPGF 3 Guidelines",
+  "content": "Guidelines for applying for RetroPGF 3",
+  "created": "2023-09-29T13:32:19.647Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "5d3b460a-e26e-4c48-ad44-fac8641b0efa",
+      "content": "When applying for Optimism Contributions, it is important to follow the guidelines provided to ensure your application is considered. These guidelines are designed to help badgeholders understand the impact of your contributions and determine the appropriate RetroPGF amount.",
+      "stepItems": []
+    },
+    {
+      "name": "Application Essentials",
+      "uuid": "92e3500a-0126-41c7-8478-dbed4a4c3984",
+      "content": "To capture the attention of badgeholders, provide the most important information in the first few sentences of your application. This will help them quickly understand the nature of your work and its relevance to Optimism. Avoid making promises or alluding to future plans, as this may lead to disqualification.",
+      "stepItems": []
+    },
+    {
+      "name": "Detailing Impact",
+      "uuid": "e0497009-e3fa-4524-b5fd-c795e605fbff",
+      "content": "Be specific about the impact your contributions have on Optimism. Describe how your work benefits the Collective and who specifically benefits from it. Whether it's a consumer app, an infrastructure project, or a community tool, emphasize the positive outcomes and the value it brings to Optimism.",
+      "stepItems": []
+    },
+    {
+      "name": "Impact Metrics",
+      "uuid": "ff138637-cbc4-46b5-bbae-0c39b0224cbb",
+      "content": "To further demonstrate the value of your contributions, consider including impact metrics. These can be quantitative or qualitative measurements that highlight the impact of your work. Think about the metrics that best showcase how your contributions have supported the development and adoption of Optimism.",
+      "stepItems": []
+    },
+    {
+      "name": "Verifying Metrics",
+      "uuid": "a441341e-0ccb-42bc-8eae-b2cf24b51b24",
+      "content": "Ensure that these metrics are verifiable by including links to data sources that badgeholders can use to verify them. If you are choosing a category for your application, make sure to connect your impact description and metrics to the success metrics of that category.",
+      "stepItems": []
+    },
+    {
+      "name": "Financial Support",
+      "uuid": "bbb3b5bb-d375-4c7c-822f-37a933786d70",
+      "content": "Badgeholders need to understand the financial support you have already received for your contributions. Provide accurate information about grants or revenue directly related to the contributions you are seeking RetroPGF for. This information will help determine the appropriate amount of RetroPGF for your work.",
+      "stepItems": []
+    },
+    {
+      "name": "Exclusions",
+      "uuid": "e1692991-3354-41a6-9139-b57d985d01e3",
+      "content": "You do not need to include VC funding or other investments in your project or person. This is not relevant to the RetroPGF application process and will not affect the decision of the badgeholders.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "3e3add28-eab4-4252-b568-93c9d0f89f7a",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "b93af9cb-3d52-431f-94a5-c3c27184a933",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Details about the project and its relevance to Optimism"
+            },
+            {
+              "key": "B",
+              "content": "Promises and allusions to future plans"
+            },
+            {
+              "key": "C",
+              "content": "Qualitative measurements"
+            },
+            {
+              "key": "D",
+              "content": "VC funding"
+            }
+          ],
+          "content": "What should be included in an application to capture the attention of badgeholders?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "To capture the attention of badgeholders, the most important information should be provided in the first few sentences of the application."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
