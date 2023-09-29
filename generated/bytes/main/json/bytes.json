@@ -21,5 +21,6 @@
   "delegating-tokens-optimism-university.json",
   "op-economics-optimism-university.json",
   "op-allocations-optimism-university.json",
-  "airdrops-optimism-university.json"
+  "airdrops-optimism-university.json",
+  "attestations-eas-optimism-university.json"
 ]

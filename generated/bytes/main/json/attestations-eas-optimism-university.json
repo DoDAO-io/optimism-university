@@ -1,0 +1,85 @@
+{
+  "uniqueId": "357773f6-f8c9-43a8-a8ae-1b68ec4144b6",
+  "id": "attestations-eas-optimism-university",
+  "name": "Attestations & EAS",
+  "content": "Understanding the role of Attestations & EAS",
+  "created": "2023-09-29T15:03:26.731Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Role of Attestations",
+      "uuid": "1930444a-8f5a-4d64-b813-a196f954fabe",
+      "content": "Attestations play a significant role in representing trust and identity in digital interactions. They serve as fundamental components of decentralized identity systems. However, the challenge of numerous identity protocols being developed leads to fragmentation in the ecosystem. This fragmentation makes it challenging for developers to create a comprehensive view of digital identity.",
+      "stepItems": []
+    },
+    {
+      "name": "Identity Representation",
+      "uuid": "ceab45eb-c236-4c16-8ccb-3431607274f1",
+      "content": "Identity can be represented as an aggregate of attestations made by various entities over time. This means that entities can both receive and issue attestations about themselves, creating a comprehensive picture of their identity.",
+      "stepItems": []
+    },
+    {
+      "name": "Ethereum Attestation Service",
+      "uuid": "27b77ef1-5c18-4fa8-a120-ed44f5f4c870",
+      "content": "Ethereum Attestation Service (EAS) is an open-source infrastructure designed to provide a public good for creating attestations. It is intended to serve as a foundational layer for various applications and use cases. This flexibility allows developers to choose the most suitable approach for their specific needs.",
+      "stepItems": []
+    },
+    {
+      "name": "EAS Tools",
+      "uuid": "00d08bcb-3211-460b-906d-eb792cd3c1d0",
+      "content": "EAS offers an SDK (Software Development Kit) along with a set of developer tools. These tools are designed to simplify the process of working with attestations, making it easier for developers to integrate EAS into their projects.",
+      "stepItems": []
+    },
+    {
+      "name": "EAS Model",
+      "uuid": "2c49012b-ed97-4f1f-b434-154793283d68",
+      "content": "EAS focuses on providing a service to the community rather than generating revenue from the infrastructure itself. This model ensures that EAS remains a public good and is not monetized as part of its infrastructure.",
+      "stepItems": []
+    },
+    {
+      "name": "EAS Contracts",
+      "uuid": "55f6a949-06a5-4af2-9db3-b1870d0c6b38",
+      "content": "The schema registry contract allows users to register structured data about various topics. It serves as a way to define and categorize the types of data that can be attested to within the EAS ecosystem whereas the attestation contract enables the creation of attestations based on the registered schemas. It is the core component responsible for generating and managing attestations.\n\n\n",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "7f63d56e-f0c0-4025-ac14-5abeb5b13c78",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "d40c0551-bc44-455c-be5c-3be3960eb6a6",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To generate revenue from the infrastructure"
+            },
+            {
+              "key": "B",
+              "content": "To simplify the process of working with attestations"
+            },
+            {
+              "key": "C",
+              "content": "To provide a public good for creating attestations"
+            },
+            {
+              "key": "D",
+              "content": "To define and categorize the types of data that can be attested to within the EAS ecosystem"
+            }
+          ],
+          "content": "What is the Ethereum Attestation Service (EAS) designed for?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "Ethereum Attestation Service (EAS) is an open-source infrastructure designed to provide a public good for creating attestations. It is intended to serve as a foundational layer for various applications and use cases."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
