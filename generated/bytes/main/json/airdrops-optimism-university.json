@@ -1,0 +1,107 @@
+{
+  "uniqueId": "ad0e7217-26ec-4adf-b3cc-5d119a746fef",
+  "id": "airdrops-optimism-university",
+  "name": "Airdrops",
+  "content": "Understanding the concept of Airdrops",
+  "created": "2023-09-29T15:00:41.525Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "b7564b56-759f-4606-a539-2becd1ce22d5",
+      "content": "Airdrops are a way to reward early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum. This method is used to distribute tokens to those who have been instrumental in the growth and development of these projects.",
+      "stepItems": []
+    },
+    {
+      "name": "Airdrop 1",
+      "uuid": "e50952bd-8699-4f81-b216-256dab6bcdf4",
+      "content": "In May 2022, over 200 million OP tokens were distributed to 250,000 early adopters and engaged users. This was a significant event that rewarded those who have been actively participating in the ecosystem.",
+      "stepItems": []
+    },
+    {
+      "name": "Airdrop 2",
+      "uuid": "3bc85c85-2968-4fd7-8972-1a12ac0c01af",
+      "content": "Airdrops also reward positive-sum governance participation and power users of OP Mainnet. As of February 9th, 2023, more than 55 million OP tokens have been distributed across the ecosystem.",
+      "stepItems": []
+    },
+    {
+      "name": "Airdrop 3",
+      "uuid": "a74dda68-d312-45e0-8775-8b76c737e110",
+      "content": "Similar to Airdrop 2, Airdrop #3 is disbursed directly to eligible wallets. This continues the trend of direct distribution, making the process seamless for users.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "c1053a6e-ffaf-4a5a-b93e-775f7aaf2af8",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a4d0b0bf-ff07-4d16-bc80-721a418b00db",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Tokens that are dropped from the sky"
+            },
+            {
+              "key": "B",
+              "content": "A way to reward early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum"
+            },
+            {
+              "key": "C",
+              "content": "A method to distribute physical assets to users"
+            },
+            {
+              "key": "D",
+              "content": "A process to claim rewards from eligible wallets"
+            }
+          ],
+          "content": "What are Airdrops?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Airdrops are a way to reward early adopters and active users of projects in the Optimism ecosystem & L1 Ethereum by distributing tokens to those who have contributed to the growth and development of these projects."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "0e1b8dcd-b268-4fac-8d28-f3e348d516be",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "0727c95f-296a-4831-83bf-4c94c43a4376",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Through physical delivery to users' addresses"
+            },
+            {
+              "key": "B",
+              "content": "By sending tokens to users' email addresses"
+            },
+            {
+              "key": "C",
+              "content": "Directly to eligible wallets"
+            },
+            {
+              "key": "D",
+              "content": "By redeeming tokens through a specific platform"
+            }
+          ],
+          "content": "How are Airdrops distributed?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "Airdrops are distributed directly to eligible wallets, eliminating the need for users to claim their rewards."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
