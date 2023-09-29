@@ -1,0 +1,113 @@
+{
+  "uniqueId": "ff5fe85f-850c-4150-9d4f-2515d522addd",
+  "id": "optimism-design-optimism-university",
+  "name": "Optimism Design",
+  "content": "Design elements that contribute to Optimism",
+  "created": "2023-09-29T12:05:41.839Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Design Philosophy",
+      "uuid": "1a483563-9ffa-40fa-bd79-e6992ff7c156",
+      "content": "Optimism's design is closely aligned with the Ethereum vision, aiming to create an optimistic future for the Ethereum ecosystem. The goal is to create a system that is as simple as possible while providing the necessary features. By minimizing the number of moving parts, Optimism gains significant advantages over more complex Layer 2 constructions.",
+      "stepItems": []
+    },
+    {
+      "name": "Simplicity",
+      "uuid": "7424bc20-0277-4e2c-a0f2-fa5da6309543",
+      "content": "This simplicity reduces engineering overhead, allowing the team to focus on developing new features instead of recreating existing ones. It also enhances security by reducing the potential for unintentional bugs and makes the codebase more accessible to external contributors and auditors.",
+      "stepItems": []
+    },
+    {
+      "name": "User-Centric Approach",
+      "uuid": "d7ca757b-f730-4cab-9fd7-877fbae606a2",
+      "content": "The team acknowledges real-world constraints, the needs of projects built on Optimism, and the problems faced by users. The philosophy prioritizes user and developer needs over theoretical perfection. The development of Optimism is iterative, with continuous feedback from users playing a crucial role in shaping the protocol.",
+      "stepItems": []
+    },
+    {
+      "name": "Iterative Development",
+      "uuid": "3ddd7a57-0c49-4275-9020-ae60b90868a6",
+      "content": "This approach has enabled the implementation of features like EVM Equivalence, which were made possible through user input and iterative development. The team recognizes that a scalable system is meaningless without a sustainable ecosystem to support it.",
+      "stepItems": []
+    },
+    {
+      "name": "Sustainability Focus",
+      "uuid": "6a7bb75d-23bb-46c1-9f6a-fdb4d8c4325c",
+      "content": "To ensure long-term sustainability, Optimism's protocol design aligns with the philosophy of simplicity. By keeping the codebase simple, Optimism can build a larger community of contributors who can help maintain the protocol over time. Sustainability is a key consideration in the design process, as shortcuts to scalability are avoided in favor of a robust and enduring system.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "77409348-daf0-4bd4-81c8-7fdaa88f3191",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "36a4bb88-90dc-4d2a-bbfc-fab0cc6625bf",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To create a system with as many features as possible"
+            },
+            {
+              "key": "B",
+              "content": "To prioritize theoretical perfection over user and developer needs"
+            },
+            {
+              "key": "C",
+              "content": "To prioritize user and developer needs over theoretical perfection"
+            },
+            {
+              "key": "D",
+              "content": "To create a system with minimal features"
+            }
+          ],
+          "content": "What is the design philosophy of Optimism?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "The design philosophy of Optimism prioritizes user and developer needs over theoretical perfection. It is iterative, with continuous feedback from users playing a crucial role in shaping the protocol."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "bcf42750-8621-4a49-9e57-696489377c0b",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "0d3a68a3-8179-46bd-9475-dd257b59f304",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Reduces engineering overhead and enhances security"
+            },
+            {
+              "key": "B",
+              "content": "Increases engineering overhead and reduces security"
+            },
+            {
+              "key": "C",
+              "content": "Increases potential bugs and makes the codebase less accessible"
+            },
+            {
+              "key": "D",
+              "content": "Decreases potential bugs and makes the codebase more accessible"
+            }
+          ],
+          "content": "What is the benefit of simplicity in Optimism's design?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "The benefit of simplicity in Optimism's design is that it reduces engineering overhead, allows the team to focus on developing new features, enhances security by reducing potential bugs, and makes the codebase more accessible to external contributors and auditors."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
