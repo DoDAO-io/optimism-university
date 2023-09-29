@@ -1,0 +1,85 @@
+{
+  "uniqueId": "c784c57e-bbb0-4d21-823b-843335843c74",
+  "id": "retropgf-rounds-optimism-university",
+  "name": "RetroPGF Rounds",
+  "content": "Overview of RetroPGF rounds",
+  "created": "2023-09-29T13:22:53.037Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "RetroPGF Round 1",
+      "uuid": "8992d4f4-a494-4202-972c-9bfccf2915d9",
+      "content": "The Optimism Collective conducted its first round of Retroactive Public Goods Funding (RetroPGF) in the fourth quarter of 2021. This round aimed to allocate $1 million to fund projects that have provided value to the Optimistic Ethereum ecosystem. A total of 76 projects were nominated, and 58 of them received funding from the badgeholders. The median funding received by a project in RetroPGF 1 was $14,670, while the top 10% of projects received more than $36,919.",
+      "stepItems": []
+    },
+    {
+      "name": "RetroPGF Round 1- Process",
+      "uuid": "da298164-f312-40da-9c59-5512d31f2428",
+      "content": "The process for RetroPGF Round 1 involved two main stages: badgeholder selection and voting. In this round, 24 badgeholders, consisting of 8 Optimists and 16 Ethereum community members, were chosen to vote on distributing retrofunding to the nominated projects. Anyone could nominate a project during the nomination period by providing the project name, project lead name, project lead email, and impact description. The badgeholders were then provided with a manual and asked to evaluate and vote on the nominated projects.",
+      "stepItems": []
+    },
+    {
+      "name": "RetroPGF Round 2",
+      "uuid": "c66d1026-9905-4e65-91e1-632fed4ad4b9",
+      "content": "The Optimism Collective's second round of Retroactive Public Goods Funding took place in the first quarter of 2023. This time, RetroPGF 2 allocated 10 million OP tokens to fund public goods that support the development and usage of the OP Stack. In this round, all 195 nominated people and projects were awarded funding by the badgeholders. The badgeholders played a crucial role in distributing the OP tokens to the projects.",
+      "stepItems": []
+    },
+    {
+      "name": "RetroPGF Round 2- Process",
+      "uuid": "5402864c-6207-4637-834e-64dfcac2598e",
+      "content": "For RetroPGF Round 2, badgeholders were selected based on their participation in the previous round, through nomination by Optimism's Token House, and by nomination from other badgeholders. The nomination period allowed anyone to nominate a project by providing its name, impact description, and a link to Github/Twitter. Projects then had to create a profile with general information and a description of their project and its impact.",
+      "stepItems": []
+    },
+    {
+      "name": "RetroPGF Round 3",
+      "uuid": "54794c1d-3b39-4166-a1d9-d7bdaeb39efc",
+      "content": "The third round of Retroactive Public Goods Funding, RetroPGF 3 has commenced in the fall of 2023. This round will allocate 30 million OP tokens to reward contributions that have supported the development and adoption of Optimism. RetroPGF is open to all types of contributors to the Optimism ecosystem, including developers, educators, artists, creators, writers, builders, and evangelists.",
+      "stepItems": []
+    },
+    {
+      "name": "RetroPGF Round 3- Eligibility",
+      "uuid": "e4e4a5e0-c8e5-4c3f-8212-3b2e7ed87fa9",
+      "content": "To be eligible for RetroPGF 3, your work should have made an impact in one of the four categories: OP Stack, Collective Governance, Developer Ecosystem, and End User Experience & Adoption. Whether you have enhanced the efficiency and security of the OP Stack, provided impact to governance participants or application developers, or contributed to the end user experience and adoption, you can submit an application for RetroPGF. Voting badges for Round 3 have been distributed to 208 community members.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "9109e22b-8a1f-4fe9-9c85-710cc647120f",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a864aa34-4391-4829-8bf4-8b07dae8a294",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Being a badgeholder from previous rounds"
+            },
+            {
+              "key": "B",
+              "content": "Being nominated by Optimism's Token House"
+            },
+            {
+              "key": "C",
+              "content": "Making an impact in one of the four categories: OP Stack, Collective Governance, Developer Ecosystem, and End User Experience & Adoption"
+            },
+            {
+              "key": "D",
+              "content": "Contributing to the growth and success of the Optimism ecosystem"
+            }
+          ],
+          "content": "What is the eligibility criteria for RetroPGF 3?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "To be eligible for RetroPGF 3, your work should have made an impact in one of the four categories: OP Stack, Collective Governance, Developer Ecosystem, and End User Experience & Adoption."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
