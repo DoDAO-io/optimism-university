@@ -1,6 +1,6 @@
 categories: []
 content: Comprehensive information on RetroPGF Round 3
-created: '2023-09-28T19:38:09.742Z'
+created: '2023-09-29T16:30:57.621Z'
 guideType: onboarding
 key: retropgf-round-3-optimism-university-471
 name: RetroPGF Round 3
@@ -50,6 +50,48 @@ steps:
     name: Overview
     stepItems: []
     uuid: be2405a5-af2d-412d-b92f-762a5e13f4a8
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To promote a new technology platform
+            key: A
+          - content: >-
+              To reward contributions to the development and adoption of
+              Optimism
+            key: B
+          - content: To evaluate the performance of different technology platforms
+            key: C
+          - content: To introduce new rules and regulations for technology platforms
+            key: D
+        content: What is the main purpose of RetroPGF Round 3?
+        type: SingleChoice
+        uuid: ccc4c310-19cc-4902-98df-20f28a506a54
+        explanation: >-
+          RetroPGF Round 3 is an event that aims to reward individuals and
+          projects that have contributed to the development and adoption of
+          Optimism, a technology platform.
+      - answerKeys:
+          - C
+        choices:
+          - content: The Optimism Collective
+            key: A
+          - content: The applicants themselves
+            key: B
+          - content: 208 badgeholders
+            key: C
+          - content: The general public
+            key: D
+        content: Who will evaluate the applications for RetroPGF Round 3?
+        type: SingleChoice
+        uuid: 4a20eb68-3e64-4a2d-ae7c-5e02dfd3f3fa
+        explanation: >-
+          The application will be used by 208 badgeholders, who are individuals
+          with a certain level of authority and expertise, to evaluate the
+          impact your project has had on the Optimism Collective.
+    uuid: 9adddad0-1c29-4f00-9bba-2ff38f17a136
   - content: |+
       The diagram below highlights the tiemline for RetroPGF Round 3:
 
@@ -123,6 +165,48 @@ steps:
     name: Categories
     stepItems: []
     uuid: 941dfff2-2374-4b33-bf0b-3b5e211962f5
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Work that has provided impact to governance participants
+            key: A
+          - content: Work that has provided impact to application developers
+            key: B
+          - content: >-
+              Work that enhances the efficiency, security, resilience, and
+              awareness of the OP Stack
+            key: C
+          - content: Work that has provided impact to end users
+            key: D
+        content: What does the OP Stack category in the RetroPGF program focus on?
+        type: SingleChoice
+        uuid: b979ac37-0396-40b1-b072-47681c18ed2b
+        explanation: >-
+          The OP Stack category focuses on work that enhances the efficiency,
+          security, resilience, and awareness of the OP Stack.
+      - answerKeys:
+          - B
+        choices:
+          - content: Only developers working on an Ethereum execution client
+            key: A
+          - content: >-
+              Any contributor in the Optimism ecosystem who is making a positive
+              impact
+            key: B
+          - content: Only educators creating Optimism-inspired video content
+            key: C
+          - content: Only artists, creators, writers, builders, and evangelists
+            key: D
+        content: Who is eligible to participate in the RetroPGF program?
+        type: SingleChoice
+        uuid: 7c4d3233-5489-462a-9c02-c0862aa4b7a9
+        explanation: >-
+          Any contributor in the Optimism ecosystem who is making a positive
+          impact is eligible to participate in the RetroPGF program.
+    uuid: 3985fdde-58e5-4565-9eb1-c096bf49d20c
   - content: >
       When applying for Optimism Contributions, it is important to follow the
       guidelines provided to ensure your application is considered. These
@@ -186,6 +270,51 @@ steps:
     name: Application Guidelines
     stepItems: []
     uuid: c4ef0cf2-6a06-4f82-8833-d24b025b84f3
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Your future plans
+            key: A
+          - content: The financial support you have already received
+            key: B
+          - content: >-
+              The most important information about your work and its relevance
+              to Optimism
+            key: C
+          - content: Your personal information
+            key: D
+        content: >-
+          What is crucial to provide in the first few sentences of your
+          application for Optimism Contributions?
+        type: SingleChoice
+        uuid: cc14e70d-c126-44b5-9f1f-6c168e81c21c
+        explanation: >-
+          The most important information about the nature of your work and its
+          relevance to Optimism should be provided in the first few sentences of
+          your application to capture the attention of badgeholders.
+      - answerKeys:
+          - B
+        choices:
+          - content: Your personal achievements
+            key: A
+          - content: Impact metrics
+            key: B
+          - content: Your future plans
+            key: C
+          - content: Your personal information
+            key: D
+        content: >-
+          What should you consider including in your application to further
+          demonstrate the value of your contributions?
+        type: SingleChoice
+        uuid: c36e7611-6c81-43b1-a096-34c60dd1fb1e
+        explanation: >-
+          Including impact metrics, which can be quantitative or qualitative
+          measurements, can further demonstrate the value of your contributions.
+    uuid: cc18af5b-dbec-49ce-8c2c-dee344045892
   - content: >-
       https://plaid-cement-e44.notion.site/RetroPGF-3-Application-Guidelines-6942e743b28e4cc1a53a5e7d781f2bf4
 
