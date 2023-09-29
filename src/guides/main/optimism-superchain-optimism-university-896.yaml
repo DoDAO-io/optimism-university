@@ -1,6 +1,6 @@
 categories: []
 content: Unlock the potential of the Optimism Superchain
-created: '2023-09-29T11:48:37.898Z'
+created: '2023-09-29T17:10:07.077Z'
 guideType: onboarding
 key: optimism-superchain-optimism-university-896
 name: Optimism Superchain
@@ -59,6 +59,48 @@ steps:
     name: Overview
     stepItems: []
     uuid: 0653a1c3-a0bc-46a4-8c42-575c367cae94
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: A new blockchain project with a small user base
+            key: A
+          - content: An innovative network of chains with unique features
+            key: B
+          - content: A complex and costly method of transferring value or data
+            key: C
+          - content: A single chain that could lead to centralization concerns
+            key: D
+        content: What is the Superchain developed by Optimism?
+        type: SingleChoice
+        uuid: 179b2416-f215-436d-a08b-5b9aaca1e21d
+        explanation: >-
+          The Superchain is an innovative network of chains designed to address
+          the challenges of the fragmented blockchain ecosystem. It includes
+          features like shared security, a communication layer, and a
+          development stack.
+      - answerKeys:
+          - C
+        choices:
+          - content: To reduce the security of the Ethereum network
+            key: A
+          - content: To discourage participation in blockchain projects
+            key: B
+          - content: To increase the transaction throughput of Ethereum
+            key: C
+          - content: To introduce inefficiencies and diminish usability
+            key: D
+        content: What is one of the primary goals of implementing the Superchain?
+        type: SingleChoice
+        uuid: a0f202da-cf1e-4ad3-bc93-f7c2cb3be9b0
+        explanation: >-
+          One of the primary goals of implementing the Superchain is to
+          significantly increase the transaction throughput of Ethereum,
+          enabling more users to utilize the network without congestion or high
+          fees.
+    uuid: 32589df8-726e-4832-8fbb-170dfbf23b9a
   - content: >-
       OP chains within the Optimism Superchain are constructed with a
       standardized architecture that enhances their functionality and
@@ -108,6 +150,58 @@ steps:
     name: Structure Of The OP Superchain
     stepItems: []
     uuid: 8c219124-95b3-43aa-9345-171d7867597b
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              To facilitate the transfer of data and digital assets between OP
+              chains
+            key: A
+          - content: >-
+              To ensure the standardization of security measures across the
+              entire Superchain
+            key: B
+          - content: To establish total transaction ordering across all OP Chains
+            key: C
+          - content: To create applications targeting the Superchain
+            key: D
+        content: >-
+          What is the primary role of the shared bridge in the OP chain
+          architecture?
+        type: SingleChoice
+        uuid: 539122c9-f8ff-4ec8-bb82-7482ec0d800e
+        explanation: >-
+          The shared bridge in the OP chain architecture plays a crucial role in
+          ensuring the standardization of security measures across the entire
+          Superchain.
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              To ensure the standardization of security measures across the
+              entire Superchain
+            key: A
+          - content: To establish total transaction ordering across all OP Chains
+            key: B
+          - content: >-
+              To facilitate the seamless transfer of data and digital assets
+              between OP chains
+            key: C
+          - content: To create applications targeting the Superchain
+            key: D
+        content: >-
+          What is the purpose of the cross-chain messaging protocol in the OP
+          chain architecture?
+        type: SingleChoice
+        uuid: 8ad69a0c-fa89-4e20-9fc9-4793c3301a54
+        explanation: >-
+          The cross-chain messaging protocol is integrated into the architecture
+          to facilitate the seamless transfer of data and digital assets between
+          OP chains.
+    uuid: 944894ce-536a-43a8-8959-79a1a116cf05
   - content: >-
       To transition Optimism into a Superchain, it must possess the following
       properties:
@@ -230,6 +324,54 @@ steps:
     name: Upgrading Optimism
     stepItems: []
     uuid: d588582a-3515-428b-bb97-7b00e153e911
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To increase the cost of chain deployment
+            key: A
+          - content: To limit the number of chains in the superchain
+            key: B
+          - content: To enable permissionless proposals and withdrawal claims
+            key: C
+          - content: To reduce the security of the system
+            key: D
+        content: >-
+          What is the purpose of implementing a permissionless proof system in
+          the superchain?
+        type: SingleChoice
+        uuid: 8889737d-d5cf-473d-aa00-fad2b5d4e736
+        explanation: >-
+          A permissionless proof system allows anyone to submit a withdrawal
+          claim at any time. These claims can be permissionless when accompanied
+          by bonds, which act as collateral. If a claim is proven to be invalid,
+          the bond is paid out to the challenger, preventing spam and ensuring
+          the security of the system.
+      - answerKeys:
+          - B
+        choices:
+          - content: To increase the cost of chain deployment
+            key: A
+          - content: To govern upgrades and ensure the safety of the system
+            key: B
+          - content: To limit the number of chains in the superchain
+            key: C
+          - content: To reduce the security of the system
+            key: D
+        content: >-
+          What is the role of the decentralized security council in the
+          superchain?
+        type: SingleChoice
+        uuid: d99b4349-8916-4600-96f9-c4e2cd839dea
+        explanation: >-
+          The decentralized security council governs upgrades, has the authority
+          to update chain attestors, initiate contract upgrades with a delay,
+          and pause the bridge in case of emergencies. The ability to pause the
+          bridge prevents the loss of funds and ensures the safety of the
+          system.
+    uuid: 16ffeffa-cff8-4651-b5ae-d2f113531455
   - content: >
       https://www.coingecko.com/learn/optimism-superchain-interoperability-ethereum#:~:text=The%20Optimism%20Superchain%20is%20a,open%2Dsource%20standardized%20technology%20stack.
 
