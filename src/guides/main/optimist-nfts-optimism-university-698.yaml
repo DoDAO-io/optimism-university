@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to navigating the world of NFTs on Optimism
-created: '2023-09-29T17:04:28.540Z'
+created: '2023-09-29T18:02:16.807Z'
 guideType: onboarding
 key: optimist-nfts-optimism-university-698
 name: NFTs on Optimism
@@ -62,6 +62,47 @@ steps:
     name: NFT Projects on Optimism
     stepItems: []
     uuid: 9af3bff8-739f-44cc-a88e-8fd2bee70c0d
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: To educate new users in the Optimism ecosystem
+            key: A
+          - content: To provide voting rights in the Optimism ecosystem
+            key: B
+          - content: To serve as profile pictures for users
+            key: C
+          - content: To serve as a form of currency within the Optimism ecosystem
+            key: D
+        content: What is the purpose of Optimism Quests NFTs?
+        type: SingleChoice
+        uuid: b9d2eab1-2eb7-4ec1-a255-9d78ba666f7d
+        explanation: >-
+          Optimism Quests NFTs aim to educate new users in the Optimism
+          ecosystem.
+      - answerKeys:
+          - C
+        choices:
+          - content: They provide voting rights in the Optimism ecosystem
+            key: A
+          - content: They serve as profile pictures for users
+            key: B
+          - content: >-
+              They allow readers to collect blog post-related NFTs and support
+              writers
+            key: C
+          - content: They serve as a form of currency within the Optimism ecosystem
+            key: D
+        content: What is the function of Mirror Writing NFTs in the Optimism ecosystem?
+        type: SingleChoice
+        uuid: e8dd2982-2f71-4f8d-b410-15c59f65644b
+        explanation: >-
+          Mirror Writing NFTs allow readers to collect blog post-related NFTs
+          and support writers, providing an opportunity for writers to monetize
+          their work and build a supportive community.
+    uuid: de82a971-fa2a-4765-970b-3fc6f1378955
   - content: >-
       NFT marketplaces on Optimism offer innovative solutions for digital
       collectibles, peer-to-peer lending, generative art, public goods funding,
