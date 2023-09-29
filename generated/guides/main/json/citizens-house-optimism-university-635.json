@@ -1,17 +1,78 @@
 {
   "categories": [],
   "content": "Navigating the role of Citizens' House",
-  "created": "2023-09-27T17:16:23.901Z",
+  "created": "2023-09-29T17:25:20.170Z",
   "guideType": "onboarding",
   "key": "citizens-house-optimism-university-635",
   "name": "Citizens' House",
   "publishStatus": "Live",
   "steps": [
     {
-      "content": "### What is Citizen House?\n\nThe Citizens' House is an innovative approach to governance that aims to promote fairness and inclusivity. It is a part of the Optimism Collective, working alongside the Token House to govern the collective. In its initial stage, the Citizens' House is responsible for voting on the allocation of Retroactive Public Goods Funding (RetroPGF). This funding is used to support public goods that have already been provided.\n\nDuring this early phase, the Optimism Foundation takes charge of determining the scope and amount of each funding round. They also oversee the voting process. It's important to note that holding a voting badge during this stage does not guarantee permanent participation in the Citizens' House or future rounds of RetroPGF.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### Role & Responsibilities\n\n**Collaboration with Token House:** The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue. This collaboration ensures a balanced governance system.\n\n**Defining Participation Criteria:** The Citizens' House plays a role in defining the criteria for participation in the governance process, ensuring that those involved meet certain requirements or standards.\n\n**Enforcement of Codes of Conduct:** It ensures adherence to the Collective's Codes of Conduct, helping maintain a respectful and ethical environment within the governance system.\n\n**RetroPGF Rounds:** The Citizens' House is closely associated with RetroPGF rounds, which follow a predefined process involving phases such as scoping, nominations, profile creation, voting, and disbursements.\n\n**KYC Procedures:** The Foundation performs Know Your Customer (KYC) procedures as part of the grant distribution process, ensuring transparency and compliance with regulatory requirements.",
+      "content": "### What is Citizens' House?\n\nThe Citizens' House is an innovative approach to governance that aims to promote fairness and inclusivity. It is a part of the Optimism Collective, working alongside the Token House to govern the collective. In its initial stage, the Citizens' House is responsible for voting on the allocation of Retroactive Public Goods Funding (RetroPGF). This funding is used to support public goods that have already been provided.\n\nDuring this early phase, the Optimism Foundation takes charge of determining the scope and amount of each funding round. They also oversee the voting process. It's important to note that holding a voting badge during this stage does not guarantee permanent participation in the Citizens' House or future rounds of RetroPGF.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### Role & Responsibilities\n\n**Collaboration with Token House:** The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue. This collaboration ensures a balanced governance system.\n\n**Defining Participation Criteria:** The Citizens' House plays a role in defining the criteria for participation in the governance process, ensuring that those involved meet certain requirements or standards.\n\n**Enforcement of Codes of Conduct:** It ensures adherence to the Collective's Codes of Conduct, helping maintain a respectful and ethical environment within the governance system.\n\n**RetroPGF Rounds:** The Citizens' House is closely associated with RetroPGF rounds, which follow a predefined process involving phases such as scoping, nominations, profile creation, voting, and disbursements.\n\n**KYC Procedures:** The Foundation performs Know Your Customer (KYC) procedures as part of the grant distribution process, ensuring transparency and compliance with regulatory requirements.",
       "name": "Overview",
       "stepItems": [],
       "uuid": "12241793-0d4d-4cfd-8404-84a706443177"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Determining the scope and amount of each funding round",
+              "key": "A"
+            },
+            {
+              "content": "Overseeing the voting process",
+              "key": "B"
+            },
+            {
+              "content": "Voting on the allocation of Retroactive Public Goods Funding (RetroPGF)",
+              "key": "C"
+            },
+            {
+              "content": "Enforcing the Collective's Codes of Conduct",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary responsibility of the Citizens' House during its initial stage?",
+          "type": "SingleChoice",
+          "uuid": "3b98050d-c633-4245-9861-f17dc64becba",
+          "explanation": "During its initial stage, the Citizens' House is primarily responsible for voting on the allocation of Retroactive Public Goods Funding (RetroPGF)."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Determining the scope and amount of each funding round",
+              "key": "A"
+            },
+            {
+              "content": "Overseeing the voting process",
+              "key": "B"
+            },
+            {
+              "content": "Enforcing the Collective's Codes of Conduct",
+              "key": "C"
+            },
+            {
+              "content": "Decisions regarding the allocation of surplus protocol revenue",
+              "key": "D"
+            }
+          ],
+          "content": "What does the Citizens' House collaborate with the Token House on?",
+          "type": "SingleChoice",
+          "uuid": "95e959a7-552c-4fb2-9f29-c755e8c9fd59",
+          "explanation": "The Citizens' House collaborates with the Token House to make decisions regarding the allocation of surplus protocol revenue."
+        }
+      ],
+      "uuid": "dacaa5cf-eb46-449c-b57f-27d15ee6f08a"
     },
     {
       "content": "### How to Become a Citizen?\n\nBecoming a citizen is an important process that involves being recognized as a member of a particular community or country. In the context of the Citizens' House, citizenship is based on identity and aligning with the values of the Collective. This is different from the more common practice of token-voting governance. \n\nTo start the process of becoming a citizen in the Citizens' House, participants are given temporary badges that allow them to vote in RetroPGF rounds. These rounds serve as a way for individuals to have a say in the decision-making process of the Collective. However, holding a voting badge does not guarantee permanent citizenship, as membership is determined by governance and may change over time. \n\nThe Citizens' House works in collaboration with the Token House to establish criteria for participation in the Citizens' House. This means that the requirements for citizenship may evolve and be determined by the collective governance of the community. The AttestationStation contract plays a crucial role in this process, as it is a neutral and permissionless contract that is used to determine the set of citizens based on reputation data.\n\n### Number of Citizens\n\nThe number of citizens responsible for voting keeps on increasing in every RetroPGF round as depicted in the diagram below:\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744978005_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### Citizenship - Now & Future\n\nThe current phase of Citizens' House governance is seeing an increase in the number of voting badges with each round of RetroPGF. This shows that the community is growing and more individuals are being given the opportunity to participate in the decision-making process. However, it is important to note that voting in a specific round does not guarantee permanent participation in the Citizens' House or future iterations of RetroPGF.\n\nIn the future, the goal is to have a widely distributed citizenship across the Optimism ecosystem. This means that individuals from various subcultures and industries will have the opportunity to become citizens and contribute their expertise to the community. However, it is also important to recognize that the criteria for citizenship may change as the governance of the community evolves.\n",
@@ -20,14 +81,109 @@
       "uuid": "81b05da0-3b00-42bb-aa72-2f0d7026741c"
     },
     {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Establishing a criteria for participation",
+              "key": "A"
+            },
+            {
+              "content": "Becoming a member of the Token House",
+              "key": "B"
+            },
+            {
+              "content": "Being given a temporary badge to vote in RetroPGF rounds",
+              "key": "C"
+            },
+            {
+              "content": "Voting in a specific round of RetroPGF",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step in the process of becoming a citizen in the Citizens' House?",
+          "type": "SingleChoice",
+          "uuid": "20988183-8ecf-473e-925d-87a7cd55d06a",
+          "explanation": "The first step in the process of becoming a citizen in the Citizens' House is being given a temporary badge that allows the individual to vote in RetroPGF rounds."
+        }
+      ],
+      "uuid": "981a2e0f-160d-42fa-b8c0-eea30cbfb554"
+    },
+    {
       "content": "### Retroactive Public Goods Funding\n\nRetroPGF, is an initiative that aims to provide financial support for public goods that are developed and utilized within the Optimism Stack (OP Stack). The idea behind RetroPGF is to reward builders who make a positive impact on the community by allowing them to profit from their contributions. It questions the purpose of building free software for the public good if there is no merit or benefit for the builder themselves. \n\nThe funding provided through RetroPGF is given to projects, companies, communities, or other entities that have already proven their value to the Optimism ecosystem. This approach is taken because it is easier to identify projects that have been useful in the past, rather than predicting their future usefulness. By rewarding projects that have already demonstrated their usefulness, RetroPGF ensures better capital allocation and encourages the development of public goods that have a tangible impact.\n\n<div align=\"center\">\n  <img style=\"max-height:400px;margin-bottom:30px\" src=\"https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695747221046_untitled-2023-09-26-2024.png\"/>\n</div>\n\n### RetroPGF Round 1\n\nThe Optimism Collective conducted its first round of Retroactive Public Goods Funding (RetroPGF) in the fourth quarter of 2021. This round aimed to allocate $1 million to fund projects that have provided value to the Optimistic Ethereum ecosystem. A total of 76 projects were nominated, and 58 of them received funding from the badgeholders. The median funding received by a project in RetroPGF 1 was $14,670, while the top 10% of projects received more than $36,919.\n\nThe process for RetroPGF Round 1 involved two main stages: badgeholder selection and voting. In this round, 24 badgeholders, consisting of 8 Optimists and 16 Ethereum community members, were chosen to vote on distributing retrofunding to the nominated projects. Anyone could nominate a project during the nomination period by providing the project name, project lead name, project lead email, and impact description. The badgeholders were then provided with a manual and asked to evaluate and vote on the nominated projects.\n\n### RetroPGF Round 2\n\nThe Optimism Collective's second round of Retroactive Public Goods Funding took place in the first quarter of 2023. This time, RetroPGF 2 allocated 10 million OP tokens to fund public goods that support the development and usage of the OP Stack. The goal of RetroPGF is to build a global system where positive impact to the collective is rewarded by profit to the individual. In this round, all 195 nominated people and projects were awarded funding by the badgeholders.\n\nThe badgeholders played a crucial role in distributing the OP tokens to the projects. For RetroPGF Round 2, badgeholders were selected based on their participation in the previous round, through nomination by Optimism's Token House, and by nomination from other badgeholders. The nomination period allowed anyone to nominate a project by providing its name, impact description, and a link to Github/Twitter. Projects then had to create a profile with general information and a description of their project and its impact.\n\n### RetroPGF Round 3\n\nThe third round of Retroactive Public Goods Funding, RetroPGF 3 has commenced in the fall of 2023. This round will allocate 30 million OP tokens to reward contributions that have supported the development and adoption of Optimism. RetroPGF is open to all types of contributors to the Optimism ecosystem, including developers, educators, artists, creators, writers, builders, and evangelists.\n\nTo be eligible for RetroPGF, your work should have made an impact in one of the four categories: OP Stack, Collective Governance, Developer Ecosystem, and End User Experience & Adoption. Whether you have enhanced the efficiency and security of the OP Stack, provided impact to governance participants or application developers, or contributed to the end user experience and adoption, you can submit an application for RetroPGF. Voting badges for Round 3 have been distributed to 208 community members. \n\nRetroPGF aims to fund projects that contribute to the growth and success of the Optimism ecosystem, creating a rich ecosystem and a better economy for all.",
       "name": "RetroPGF",
       "stepItems": [],
       "uuid": "452a6580-f745-4e2c-aded-0c9d869c6d82"
     },
     {
-      "content": "The Optimism Collective employs an innovative and adaptable approach to governance, continually refining its system to ensure its long-term viability. The Collective's model of digital democratic governance comprises of two chambers: the Citizens' House and the Token House.\n\n<table>\n<thead>\n  <tr>\n    <th>Factors</th>\n    <th>Citizen House</th>\n    <th>Token House</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Comprises of</td>\n    <td>Optimism citizens</td>\n    <td>OP holders &amp; their delegates</td>\n  </tr>\n  <tr>\n    <td>Responsibility</td>\n    <td>Allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF).</td>\n    <td>Distribution of project incentives, protocol upgrades, and treasury funds.</td>\n  </tr>\n  <tr>\n    <td>Membership Criteria</td>\n    <td>Citizens are chosen via entries in the AttestationStation smart contract (builders, users, and community members)</td>\n    <td>By acquiring OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism's ecosystem.</td>\n  </tr>\n  <tr>\n    <td>New Member Selection Criteria</td>\n    <td>For RetroPGF Round 2, badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above</td>\n    <td>A Council Lead was selected by the Foundation and 8 Reviewers were elected by the Token House in a Special Voting Cycle.</td>\n  </tr>\n  <tr>\n    <td>Grant Procedure</td>\n    <td>The grant procedure involves badgeholder selection, project nominations, project profile creation, and the voting phase, with specific timelines for each stage.</td>\n    <td>Each Cycle will have three periods, a Submission Period, a Review Period, and a Decision Period.</td>\n  </tr>\n  <tr>\n    <td>Grant Application Example</td>\n    <td><a href=\"https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21\" target=\"_blank\" rel=\"noopener noreferrer\">Protocol Guild</a><br><a href=\"https://app.optimism.io/retropgf-discovery/0xa142aB9eab9264807A41F0E5cbDab877D204E233\" target=\"_blank\" rel=\"noopener noreferrer\">L2BEAT</a></td>\n    <td><a href=\"https://gov.optimism.io/t/ready-builders-cycle-11-integration-of-optimism-into-airgap-vault-airgap-wallet-and-airgap-coin-lib/5402\" target=\"_blank\" rel=\"noopener noreferrer\">AirGap Wallet</a><br><a href=\"https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538\" target=\"_blank\" rel=\"noopener noreferrer\">Another World</a></td>\n  </tr>\n  <tr>\n    <td>Grant Reviewers</td>\n    <td>In RetroPGF Round 2, 69 out of the 71 selected badgeholders – our early “citizens” – voted on how to allocate 10M OP to projects.</td>\n    <td>The Grants Council consists of two Sub-Committees: Builders and Growth Experiments. (9 Reviewers in Season 4)</td>\n  </tr>\n  <tr>\n    <td>Power</td>\n    <td>Citizenship is conferred by “soulbound,” non-transferable NFTs.</td>\n    <td>The voting power in this chamber is transferable.</td>\n  </tr>\n  <tr>\n    <td>Voting Power</td>\n    <td>Uses a one-person, one-vote system.</td>\n    <td>Token voting is distributed widely and permissionless.</td>\n  </tr>\n  <tr>\n    <td>Voting Cycles</td>\n    <td>RetroPGF rounds occur in intervals and according to a predefined process, which currently includes phases for scoping, nominations, profile creation, voting, and disbursements.</td>\n    <td>Proposals are reviewed over a five week voting cycle.</td>\n  </tr>\n  <tr>\n    <td>Funded Project Examples</td>\n    <td><a href=\"https://soliditylang.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Solidity</a><br><a href=\"https://geth.ethereum.org/\" target=\"_blank\" rel=\"noopener noreferrer\">geth</a></td>\n    <td><a href=\"http://www.atomiclinks.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Atomic Links</a><br><a href=\"https://www.jiffyscan.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Jiffyscan</a></td>\n  </tr>\n</tbody>\n</table>",
-      "name": "Citizen House vs. Token House",
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To predict the future usefulness of projects",
+              "key": "A"
+            },
+            {
+              "content": "To fund projects that are yet to prove their value",
+              "key": "B"
+            },
+            {
+              "content": "To reward projects who make a positive impact on the community",
+              "key": "C"
+            },
+            {
+              "content": "To discourage the development of public goods",
+              "key": "D"
+            }
+          ],
+          "content": "What is the primary goal of Retroactive Public Goods Funding (RetroPGF)?",
+          "type": "SingleChoice",
+          "uuid": "deefae85-b178-4331-a951-abb03f7aed5e",
+          "explanation": "The primary goal of RetroPGF is to provide financial support to public goods that have proven their value to the Optimism ecosystem, thereby encouraging the development of public goods that have a tangible impact."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Only developers",
+              "key": "A"
+            },
+            {
+              "content": "Only educators",
+              "key": "B"
+            },
+            {
+              "content": "Only artists",
+              "key": "C"
+            },
+            {
+              "content": "All types of contributors to the Optimism ecosystem",
+              "key": "D"
+            }
+          ],
+          "content": "Who can submit an application for RetroPGF?",
+          "type": "SingleChoice",
+          "uuid": "d030026e-a48c-48ae-ba30-cc4ee8c446ae",
+          "explanation": "RetroPGF is open to all types of contributors to the Optimism ecosystem, including developers, educators, artists, creators, writers, builders, and evangelists."
+        }
+      ],
+      "uuid": "420b0274-6920-4566-9234-2987181ae9c6"
+    },
+    {
+      "content": "The Optimism Collective employs an innovative and adaptable approach to governance, continually refining its system to ensure its long-term viability. The Collective's model of digital democratic governance comprises of two chambers: the Citizens' House and the Token House.\n\n<table>\n<thead>\n  <tr>\n    <th>Factors</th>\n    <th>Citizens' House</th>\n    <th>Token House</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td>Comprises of</td>\n    <td>Optimism citizens</td>\n    <td>OP holders &amp; their delegates</td>\n  </tr>\n  <tr>\n    <td>Responsibility</td>\n    <td>Allocating rewards to providers of public goods through a process called “retroactive public goods funding” (RetroPGF).</td>\n    <td>Distribution of project incentives, protocol upgrades, and treasury funds.</td>\n  </tr>\n  <tr>\n    <td>Membership Criteria</td>\n    <td>Citizens are chosen via entries in the AttestationStation smart contract (builders, users, and community members)</td>\n    <td>By acquiring OP tokens through exchanges, trading platforms, airdrops, or by participating in Optimism's ecosystem.</td>\n  </tr>\n  <tr>\n    <td>New Member Selection Criteria</td>\n    <td>For RetroPGF Round 2, badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above</td>\n    <td>A Council Lead was selected by the Foundation and 8 Reviewers were elected by the Token House in a Special Voting Cycle.</td>\n  </tr>\n  <tr>\n    <td>Grant Procedure</td>\n    <td>The grant procedure involves badgeholder selection, project nominations, project profile creation, and the voting phase, with specific timelines for each stage.</td>\n    <td>Each Cycle will have three periods, a Submission Period, a Review Period, and a Decision Period.</td>\n  </tr>\n  <tr>\n    <td>Grant Application Example</td>\n    <td><a href=\"https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21\" target=\"_blank\" rel=\"noopener noreferrer\">Protocol Guild</a><br><a href=\"https://app.optimism.io/retropgf-discovery/0xa142aB9eab9264807A41F0E5cbDab877D204E233\" target=\"_blank\" rel=\"noopener noreferrer\">L2BEAT</a></td>\n    <td><a href=\"https://gov.optimism.io/t/ready-builders-cycle-11-integration-of-optimism-into-airgap-vault-airgap-wallet-and-airgap-coin-lib/5402\" target=\"_blank\" rel=\"noopener noreferrer\">AirGap Wallet</a><br><a href=\"https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538\" target=\"_blank\" rel=\"noopener noreferrer\">Another World</a></td>\n  </tr>\n  <tr>\n    <td>Grant Reviewers</td>\n    <td>In RetroPGF Round 2, 69 out of the 71 selected badgeholders – our early “citizens” – voted on how to allocate 10M OP to projects.</td>\n    <td>The Grants Council consists of two Sub-Committees: Builders and Growth Experiments. (9 Reviewers in Season 4)</td>\n  </tr>\n  <tr>\n    <td>Power</td>\n    <td>Citizenship is conferred by “soulbound,” non-transferable NFTs.</td>\n    <td>The voting power in this chamber is transferable.</td>\n  </tr>\n  <tr>\n    <td>Voting Power</td>\n    <td>Uses a one-person, one-vote system.</td>\n    <td>Token voting is distributed widely and permissionless.</td>\n  </tr>\n  <tr>\n    <td>Voting Cycles</td>\n    <td>RetroPGF rounds occur in intervals and according to a predefined process, which currently includes phases for scoping, nominations, profile creation, voting, and disbursements.</td>\n    <td>Proposals are reviewed over a five week voting cycle.</td>\n  </tr>\n  <tr>\n    <td>Funded Project Examples</td>\n    <td><a href=\"https://soliditylang.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Solidity</a><br><a href=\"https://geth.ethereum.org/\" target=\"_blank\" rel=\"noopener noreferrer\">geth</a></td>\n    <td><a href=\"http://www.atomiclinks.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Atomic Links</a><br><a href=\"https://www.jiffyscan.xyz/\" target=\"_blank\" rel=\"noopener noreferrer\">Jiffyscan</a></td>\n  </tr>\n</tbody>\n</table>",
+      "name": "Citizens' House vs. Token House",
       "stepItems": [],
       "uuid": "c48899de-5940-4d00-8e04-494467b8aa2a"
     },

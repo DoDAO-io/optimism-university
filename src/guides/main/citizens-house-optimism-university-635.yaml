@@ -1,13 +1,13 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-09-27T17:16:23.901Z'
+created: '2023-09-29T17:25:20.170Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
 publishStatus: Live
 steps:
   - content: >-
-      ### What is Citizen House?
+      ### What is Citizens' House?
 
 
       The Citizens' House is an innovative approach to governance that aims to
@@ -59,6 +59,49 @@ steps:
     name: Overview
     stepItems: []
     uuid: 12241793-0d4d-4cfd-8404-84a706443177
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Determining the scope and amount of each funding round
+            key: A
+          - content: Overseeing the voting process
+            key: B
+          - content: >-
+              Voting on the allocation of Retroactive Public Goods Funding
+              (RetroPGF)
+            key: C
+          - content: Enforcing the Collective's Codes of Conduct
+            key: D
+        content: >-
+          What is the primary responsibility of the Citizens' House during its
+          initial stage?
+        type: SingleChoice
+        uuid: 3b98050d-c633-4245-9861-f17dc64becba
+        explanation: >-
+          During its initial stage, the Citizens' House is primarily responsible
+          for voting on the allocation of Retroactive Public Goods Funding
+          (RetroPGF).
+      - answerKeys:
+          - D
+        choices:
+          - content: Determining the scope and amount of each funding round
+            key: A
+          - content: Overseeing the voting process
+            key: B
+          - content: Enforcing the Collective's Codes of Conduct
+            key: C
+          - content: Decisions regarding the allocation of surplus protocol revenue
+            key: D
+        content: What does the Citizens' House collaborate with the Token House on?
+        type: SingleChoice
+        uuid: 95e959a7-552c-4fb2-9f29-c755e8c9fd59
+        explanation: >-
+          The Citizens' House collaborates with the Token House to make
+          decisions regarding the allocation of surplus protocol revenue.
+    uuid: dacaa5cf-eb46-449c-b57f-27d15ee6f08a
   - content: >
       ### How to Become a Citizen?
 
@@ -120,6 +163,30 @@ steps:
     name: Citizenship
     stepItems: []
     uuid: 81b05da0-3b00-42bb-aa72-2f0d7026741c
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Establishing a criteria for participation
+            key: A
+          - content: Becoming a member of the Token House
+            key: B
+          - content: Being given a temporary badge to vote in RetroPGF rounds
+            key: C
+          - content: Voting in a specific round of RetroPGF
+            key: D
+        content: >-
+          What is the first step in the process of becoming a citizen in the
+          Citizens' House?
+        type: SingleChoice
+        uuid: 20988183-8ecf-473e-925d-87a7cd55d06a
+        explanation: >-
+          The first step in the process of becoming a citizen in the Citizens'
+          House is being given a temporary badge that allows the individual to
+          vote in RetroPGF rounds.
+    uuid: 981a2e0f-160d-42fa-b8c0-eea30cbfb554
   - content: >-
       ### Retroactive Public Goods Funding
 
@@ -217,6 +284,49 @@ steps:
     name: RetroPGF
     stepItems: []
     uuid: 452a6580-f745-4e2c-aded-0c9d869c6d82
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To predict the future usefulness of projects
+            key: A
+          - content: To fund projects that are yet to prove their value
+            key: B
+          - content: To reward projects who make a positive impact on the community
+            key: C
+          - content: To discourage the development of public goods
+            key: D
+        content: >-
+          What is the primary goal of Retroactive Public Goods Funding
+          (RetroPGF)?
+        type: SingleChoice
+        uuid: deefae85-b178-4331-a951-abb03f7aed5e
+        explanation: >-
+          The primary goal of RetroPGF is to provide financial support to public
+          goods that have proven their value to the Optimism ecosystem, thereby
+          encouraging the development of public goods that have a tangible
+          impact.
+      - answerKeys:
+          - D
+        choices:
+          - content: Only developers
+            key: A
+          - content: Only educators
+            key: B
+          - content: Only artists
+            key: C
+          - content: All types of contributors to the Optimism ecosystem
+            key: D
+        content: Who can submit an application for RetroPGF?
+        type: SingleChoice
+        uuid: d030026e-a48c-48ae-ba30-cc4ee8c446ae
+        explanation: >-
+          RetroPGF is open to all types of contributors to the Optimism
+          ecosystem, including developers, educators, artists, creators,
+          writers, builders, and evangelists.
+    uuid: 420b0274-6920-4566-9234-2987181ae9c6
   - content: >-
       The Optimism Collective employs an innovative and adaptable approach to
       governance, continually refining its system to ensure its long-term
@@ -229,7 +339,7 @@ steps:
       <thead>
         <tr>
           <th>Factors</th>
-          <th>Citizen House</th>
+          <th>Citizens' House</th>
           <th>Token House</th>
         </tr>
       </thead>
@@ -293,7 +403,7 @@ steps:
       </tbody>
 
       </table>
-    name: Citizen House vs. Token House
+    name: Citizens' House vs. Token House
     stepItems: []
     uuid: c48899de-5940-4d00-8e04-494467b8aa2a
   - content: |+
