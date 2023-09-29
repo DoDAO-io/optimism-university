@@ -1,0 +1,71 @@
+uniqueId: cbdeb313-9eb7-4350-8ff5-7ed7e156ac20
+id: how-to-become-a-citizen-optimism-university
+name: How to Become a Citizen?
+content: Understanding the process of obtaining citizenship
+created: '2023-09-29T12:58:58.872Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: 8e286aa5-6fcf-4d8a-89d8-bce53370bbdc
+    content: >-
+      Becoming a citizen is a significant process that involves being recognized
+      as a member of a specific community or country. In the context of the
+      Citizens' House, citizenship is based on identity and aligning with the
+      values of the Collective. This differs from the more common practice of
+      token-voting governance.
+    stepItems: []
+  - name: Citizenship Initiation
+    uuid: 26432788-09ed-4ae3-8b61-3e5236ace9b4
+    content: >-
+      To initiate the process of becoming a citizen in the Citizens' House,
+      participants are given temporary badges that allow them to vote in
+      RetroPGF rounds. These rounds serve as a platform for individuals to
+      participate in the decision-making process of the Collective.
+    stepItems: []
+  - name: Membership Criteria
+    uuid: 9bed656d-d8bc-43ed-bbb5-f9f21e8b635e
+    content: >-
+      However, having a voting badge does not guarantee permanent citizenship,
+      as membership is determined by governance and may change over time. The
+      Citizens' House collaborates with the Token House to establish criteria
+      for participation in the Citizens' House.
+    stepItems: []
+  - name: Future Goals
+    uuid: b74a1c32-e3c7-402e-ba17-ff6f3523cc32
+    content: >-
+      In the future, the goal is to have a widely distributed citizenship across
+      the Optimism ecosystem. This means that individuals from various
+      subcultures and industries will have the opportunity to become citizens
+      and contribute their expertise to the community. However, the criteria for
+      citizenship may change as the governance of the community evolves.
+    stepItems: []
+  - name: Evaluation
+    uuid: 27b5fd21-f346-4297-bb90-92c105c829c3
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: a0b3264b-6389-4fc7-92ff-40b3c803520b
+        choices:
+          - key: A
+            content: To have a centralized citizenship process
+          - key: B
+            content: To limit the number of individuals becoming citizens
+          - key: C
+            content: To change the criteria for citizenship as the governance evolves
+          - key: D
+            content: >-
+              To have a widely distributed citizenship across the Optimism
+              ecosystem
+        content: >-
+          What is the future goal of the citizenship process in the Citizens'
+          House?
+        answerKeys:
+          - D
+        explanation: >-
+          The future goal is to have a widely distributed citizenship across the
+          Optimism ecosystem.
+spaceId: optimism-university
