@@ -22,5 +22,6 @@
   "op-economics-optimism-university.json",
   "op-allocations-optimism-university.json",
   "airdrops-optimism-university.json",
-  "attestations-eas-optimism-university.json"
+  "attestations-eas-optimism-university.json",
+  "attestationstation-optimism-university.json"
 ]

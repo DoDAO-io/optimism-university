@@ -23,3 +23,4 @@ bytes:
   - op-allocations-optimism-university.yaml
   - airdrops-optimism-university.yaml
   - attestations-eas-optimism-university.yaml
+  - attestationstation-optimism-university.yaml
