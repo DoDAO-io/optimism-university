@@ -1,0 +1,85 @@
+{
+  "uniqueId": "5743566c-88a6-4271-b464-9ccd93308259",
+  "id": "op-economics-optimism-university",
+  "name": "OP Economics",
+  "content": "Overview of the OP Economics",
+  "created": "2023-09-29T14:14:19.405Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Funding Source",
+      "uuid": "1a56224c-325b-499a-aaa5-307d54ddd6eb",
+      "content": "The OP economy is funded from the ownership of OP Mainnet and the value of its blockspace. Currently, the centralized sequencer provides the funding, which is then redistributed by The Optimism Foundation. In the future, funding could come from selling the right to participate in Optimism's decentralized sequencing network. This sustainable revenue source ensures the growth and sustainability of the OP economic model.",
+      "stepItems": []
+    },
+    {
+      "name": "Sustainability and RetroPGF",
+      "uuid": "b9ed8ba2-9c9d-4fb5-81e0-d3e729287d62",
+      "content": "Optimism addresses sustainability by integrating a sustainable funding source into the network. Retroactive Public Goods Funding (RetroPGF) is crucial in redistributing sequencer revenue back to the ecosystem. This incentivizes individuals to contribute to the public good of the Optimism Collective. The Citizens' House, through voting, determines the distribution of funds to those that have made a positive impact.",
+      "stepItems": []
+    },
+    {
+      "name": "Economic Design",
+      "uuid": "067c8365-9813-41ac-a1f6-b1e1715df2aa",
+      "content": "The economics of the Optimism Collective are designed to generate value for three key groups: tokenholders, contributors and builders, and users and community members. ",
+      "stepItems": []
+    },
+    {
+      "name": "Tokenholders",
+      "uuid": "e83372a4-13fc-4d49-a17d-a4181366f0d1",
+      "content": "Tokenholders benefit from the productive re-deployment of sequencer revenue, which is primarily directed towards funding public goods, driving demand for blockspace.  As the network grows, the value of tokenholder investments increases.",
+      "stepItems": []
+    },
+    {
+      "name": "Contributors and Builders",
+      "uuid": "79a0d1ba-4563-402c-8a03-8720275ebee1",
+      "content": "Contributors and builders play a crucial role in the Optimism Collective. They receive direct benefits from retroactive public goods funding and the markets it enables. Additionally, they benefit from a well-funded ecosystem that provides them with the necessary tools, education, apps, and infrastructure to build and thrive.",
+      "stepItems": []
+    },
+    {
+      "name": "Community Members",
+      "uuid": "798f8a54-f64d-40b3-bdf7-9514fece4814",
+      "content": "Community members receive ongoing airdrops of OP tokens, project incentives made possible by OP ecosystem funding, and the overall benefits that public goods provide. This creates a symbiotic relationship where the community members contribute to the ecosystem's growth and, in turn, benefit from its success.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "7e02e9c7-41b4-4ede-898d-23fa2975cf10",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "ff89d772-b540-492f-a28a-671828e3e1f9",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Ownership of OP Mainnet and the value of its blockspace"
+            },
+            {
+              "key": "B",
+              "content": "Selling the right to participate in Optimism's decentralized sequencing network"
+            },
+            {
+              "key": "C",
+              "content": "Centralized sequencer"
+            },
+            {
+              "key": "D",
+              "content": "The Optimism Foundation"
+            }
+          ],
+          "content": "What is the funding source for the OP economy?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "The OP economy is funded from the ownership of OP Mainnet and the value of its blockspace."
+        }
+      ]
+    }
+  ],
+  "spaceId": "optimism-university"
+}
