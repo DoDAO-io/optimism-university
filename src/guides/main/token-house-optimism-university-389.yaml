@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-09-27T17:10:08.576Z'
+created: '2023-09-29T17:18:19.992Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -131,6 +131,54 @@ steps:
     name: Overview
     stepItems: []
     uuid: 324cf926-0095-4774-9d5c-3ca12a348504
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To facilitate the distribution of OP tokens
+            key: A
+          - content: To regulate the trading of OP tokens on cryptocurrency platforms
+            key: B
+          - content: >-
+              To serve as the on-chain voting contract for all governance
+              proposals
+            key: C
+          - content: >-
+              To provide a platform for discussion and deliberation on
+              governance proposals
+            key: D
+        content: What is the primary purpose of the Token House Governance Contract?
+        type: SingleChoice
+        uuid: b4b37a86-1bb4-4271-8895-74ea65c82980
+        explanation: >-
+          The Token House Governance Contract serves as the on-chain voting
+          contract for all governance proposals submitted by Token House
+          members. This is where all qualifying proposals are submitted for
+          voting.
+      - answerKeys:
+          - D
+        choices:
+          - content: By purchasing a membership
+            key: A
+          - content: By being an employee of the Optimism Collective
+            key: B
+          - content: By winning a competition
+            key: C
+          - content: >-
+              By obtaining OP tokens through airdrops, trading, or contributing
+              to the Optimism ecosystem
+            key: D
+        content: How can one become a member of Token House?
+        type: SingleChoice
+        uuid: eff46031-5c7b-44ba-a7da-06c21e44fa62
+        explanation: >-
+          There are several avenues available for obtaining OP tokens and
+          becoming a part of the Optimism ecosystem. These include airdrops,
+          purchasing and trading on cryptocurrency platforms, and contributing
+          to the development, testing, or promotion of Optimism's technology.
+    uuid: daae4261-1d18-4130-9c2c-ffe3a2bdf031
   - content: >-
       A Token House governance proposal is considered valid when it meets
       specific criteria related to the number of votes:
@@ -242,6 +290,56 @@ steps:
     name: Proposal Types
     stepItems: []
     uuid: a6c1b84b-56f6-458b-8213-4fc744a85806
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: The maximum number of votes needed for a proposal to be approved
+            key: A
+          - content: >-
+              The minimum number of total OP votes needed for a proposal to be
+              eligible
+            key: B
+          - content: The total number of votes cast in a voting period
+            key: C
+          - content: The total number of votes in favor of a proposal
+            key: D
+        content: >-
+          What does the term 'Quorum' refer to in the context of a Token House
+          governance proposal?
+        type: SingleChoice
+        uuid: 10aa7ea8-3980-4c7b-a12a-d6477ad2ee48
+        explanation: >-
+          In the context of a Token House governance proposal, 'Quorum' refers
+          to the minimum number of total OP votes, including abstain votes, that
+          must be cast for a proposal to be eligible. It is calculated as a
+          percentage of the total votable OP supply at the start of the voting
+          period.
+      - answerKeys:
+          - C
+        choices:
+          - content: The total number of votes needed for a proposal to be rejected
+            key: A
+          - content: The total number of votes cast in a voting period
+            key: B
+          - content: >-
+              The minimum number of OP votes in favor of a proposal for it to be
+              approved
+            key: C
+          - content: The maximum number of votes a proposal can receive
+            key: D
+        content: What is the 'Approval Threshold' in a Token House governance proposal?
+        type: SingleChoice
+        uuid: 35b0f27d-157a-4909-ab6c-b48fa88b5f7f
+        explanation: >-
+          The 'Approval Threshold' in a Token House governance proposal refers
+          to the minimum number of OP votes that must be in favor of a proposal
+          for it to be approved. It is determined as a percentage of the votes
+          cast in favor of approval relative to the total number of yes and no
+          votes. Abstain votes are not included in this calculation.
+    uuid: 0ed7dc1e-5bb9-408f-b080-1a1401535ae9
   - content: >-
       ### Seasons & Voting Cycles
 
@@ -308,6 +406,48 @@ steps:
     name: Seasons and Voting Cycles
     stepItems: []
     uuid: 870c64d9-71de-45cb-a8e1-c849e140b3e5
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Seasons are changes in weather
+            key: A
+          - content: Seasons are different types of tokens
+            key: B
+          - content: Seasons are distinct periods of governance operations
+            key: C
+          - content: Seasons are different types of voting cycles
+            key: D
+        content: What are seasons in the context of governance operations?
+        type: SingleChoice
+        uuid: 6275eb07-dd32-4c7e-95dc-fd9305279f42
+        explanation: >-
+          Seasons are distinct periods of governance operations, each with its
+          own unique timeline and objectives. These seasons are organized and
+          scheduled to facilitate decision-making and governance within the
+          Token House ecosystem.
+      - answerKeys:
+          - B
+        choices:
+          - content: New seasons are proposed
+            key: A
+          - content: Proposals to modify the collective's structure are voted upon
+            key: B
+          - content: Reflection Periods are initiated
+            key: C
+          - content: The governance process is concluded
+            key: D
+        content: What happens during Special Voting Cycles?
+        type: SingleChoice
+        uuid: 0862cf89-bdd8-4e94-8d62-3613d2457b73
+        explanation: >-
+          Special Voting Cycles are conducted after Reflection Periods. These
+          cycles focus specifically on voting for proposals that aim to modify
+          the collective's structure. It is during these cycles that the changes
+          made during the Reflection Period are voted upon.
+    uuid: ea14d80b-44c1-4fc0-b5da-bc537bb8c1f3
   - content: >-
       The Optimism Collective employs an innovative and adaptable approach to
       governance, continually refining its system to ensure its long-term
