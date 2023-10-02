@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T14:32:15.349Z'
+created: '2023-10-02T14:33:27.792Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -299,7 +299,7 @@ steps:
         <tr>
           <td>git, curl, jq, make, and zstd</td>
           <td>OS default</td>
-          <td>`sudo apt update,<br>sudo apt install -y git curl make jq zstd`</td>
+          <td>sudo apt update,<br>sudo apt install -y git curl make jq zstd</td>
         </tr>
         <tr>
           <td>Go</td>
