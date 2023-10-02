@@ -1,4 +1,4 @@
-uniqueId: 84238dd5-a412-4193-ba54-158ef9340913
+uniqueId: 04bbef66-308c-4b99-99bb-0ef7e8997d52
 id: optimism-optimism-university
 name: Optimism
 content: Overview of Optimism, a Layer-2 solution for Ethereum
@@ -40,12 +40,17 @@ steps:
   - name: Layer-2 Benefits
     uuid: 231e458d-eee4-46c3-95f3-9367a95545bd
     content: >-
-      These secondary layers, while independently operated, remain secured by
-      the primary blockchain's consensus mechanisms. As a result, Layer-2
-      solutions significantly enhance transaction speeds, reduce costs, and
-      increase the overall capacity of blockchain networks. They make blockchain
-      technology more practical for a wide range of applications, from everyday
-      transactions to decentralized applications (dApps) and smart contracts.
+      - These secondary layers, while independently operated, remain secured by
+      the primary blockchain's consensus mechanisms. 
+
+
+      - As a result, Layer-2 solutions significantly enhance transaction speeds,
+      reduce costs, and increase the overall capacity of blockchain networks. 
+
+
+      - They make blockchain technology more practical for a wide range of
+      applications, from everyday transactions to decentralized applications
+      (dApps) and smart contracts.
     stepItems: []
   - name: Rollup Explanation
     uuid: e92bbe06-bde1-4a2c-a2c8-f178bea58f04
