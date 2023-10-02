@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide to essential tools for Developers
-created: '2023-10-02T16:36:51.469Z'
+created: '2023-10-02T16:48:22.190Z'
 guideType: onboarding
 key: useful-tools-optimism-university-460
 name: Useful Tools
@@ -166,7 +166,43 @@ steps:
     uuid: 6fb13553-e5b8-4020-ad2b-c8e9d922e7dc
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To provide real cryptocurrencies for trading
+            key: A
+          - content: To provide testnet Ether for development and testing purposes
+            key: B
+          - content: To provide a platform for buying and selling cryptocurrencies
+            key: C
+          - content: To provide a platform for storing cryptocurrencies
+            key: D
+        content: What is the main purpose of Network Faucets?
+        type: SingleChoice
+        uuid: 3cc01e2e-d40c-4588-81b7-b0eab23c4ea5
+        explanation: >-
+          Network faucets are designed for development and testing purposes.
+          They allow developers to experiment and test their applications
+          without using real cryptocurrencies.
+      - answerKeys:
+          - D
+        choices:
+          - content: Real Ether for trading
+            key: A
+          - content: A platform for buying and selling cryptocurrencies
+            key: B
+          - content: A platform for storing cryptocurrencies
+            key: C
+          - content: Testnet Ether on multiple testnets simultaneously
+            key: D
+        content: What does the Paradigm MultiFaucet provide?
+        type: SingleChoice
+        uuid: dc00e330-337f-4cc6-a0ab-ac7c5b5b22e7
+        explanation: >-
+          Paradigm's MultiFaucet provides ETH on multiple testnets
+          simultaneously, making it easier for developers to access testnet ETH
+          for various testing purposes.
     uuid: 2b578cdf-d9d2-4d0e-a087-810ac8439673
   - content: >-
       There are several reliable and efficient Node & API providers available
@@ -394,7 +430,46 @@ steps:
     uuid: a809f232-2f62-4074-85ac-c35d2c9443ac
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: They are used to mine cryptocurrencies
+            key: A
+          - content: They are used to create new blockchains
+            key: B
+          - content: They provide offchain data onchain
+            key: C
+          - content: They are used to regulate the value of cryptocurrencies
+            key: D
+        content: What is the main purpose of Oracles in blockchain technology?
+        type: SingleChoice
+        uuid: 4992def3-73bb-4931-ac16-752426f331ee
+        explanation: >-
+          Oracles allow code running on a blockchain to access a wide range of
+          information, providing offchain data onchain.
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              Push Oracles are only updated when information is requested while
+              Pull Oracles continuously update
+            key: A
+          - content: >-
+              Push Oracles continuously update while Pull Oracles are only
+              updated when information is requested
+            key: B
+          - content: Both update continuously and always have up-to-date information
+            key: C
+          - content: Both are only updated when information is requested by a contract
+            key: D
+        content: What is the difference between Push and Pull Oracles?
+        type: SingleChoice
+        uuid: 65a6fe36-2b36-4413-a9b0-6a6441ac5318
+        explanation: >-
+          Push oracles continuously update and always have up-to-date
+          information available onchain. Pull oracles are only updated when
+          information is requested by a contract.
     uuid: b86a3506-4621-48a5-829f-39cbadfb1d4b
   - content: >-
       ### Account Abstraction
@@ -526,7 +601,51 @@ steps:
     uuid: b9be7345-5773-481a-8200-10dd4bf8923a
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: They increase the gas fees for transactions
+            key: A
+          - content: >-
+              They simplify the user experience by eliminating the need for
+              users to pay for gas fees
+            key: B
+          - content: They make transactions more complicated
+            key: C
+          - content: They decrease the security of transactions
+            key: D
+        content: >-
+          What is the main advantage of using meta-transactions in blockchain
+          networks?
+        type: SingleChoice
+        uuid: 6b4ab8d8-5e46-485b-821d-a28248058fde
+        explanation: >-
+          Meta-transactions allow users to sign transactions that are then
+          submitted and paid for by someone else. This eliminates the need for
+          users to pay for gas fees themselves, simplifying the user experience
+          in blockchain transactions.
+      - answerKeys:
+          - D
+        choices:
+          - content: The Gas Station Network (GSN) and Ethereum
+            key: A
+          - content: Bitcoin and Gelato
+            key: B
+          - content: Ethereum and Bitcoin
+            key: C
+          - content: The Gas Station Network (GSN) and Gelato
+            key: D
+        content: >-
+          What infrastructure has been developed to facilitate
+          meta-transactions?
+        type: SingleChoice
+        uuid: cc1bb400-6d7f-4e94-9a42-209def8fa80c
+        explanation: >-
+          The Gas Station Network (GSN) and Gelato have been developed to
+          facilitate meta-transactions. The GSN provides distributed
+          infrastructure for meta-transactions, while Gelato utilizes a list of
+          white-listed executors to relay transactions.
     uuid: 6bf6a94c-94f7-42c5-8c5d-24db6bb0c462
   - content: >-
       https://community.optimism.io/docs/useful-tools/debugging/
