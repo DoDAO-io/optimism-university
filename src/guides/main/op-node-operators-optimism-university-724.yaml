@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T13:59:49.925Z'
+created: '2023-10-02T14:01:19.299Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -121,10 +121,10 @@ steps:
       ### Minimum System Requirements
 
 
-      Before deploying an (')OP node('), ensure that your system meets the
-      minimum requirements. These requirements may vary depending on the network
-      you are participating in. Make sure you have sufficient disk space
-      available to store the network's data.
+      Before deploying an `op-node`, ensure that your system meets the minimum
+      requirements. These requirements may vary depending on the network you are
+      participating in. Make sure you have sufficient disk space available to
+      store the network's data.
 
 
       ### Initialization
