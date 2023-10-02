@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T12:22:22.149Z'
+created: '2023-10-02T12:24:22.138Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -127,14 +127,22 @@ steps:
       If you encounter any issues during the deployment process, here are some
       common problems and their solutions:
 
-      - Authentication Error: Make sure op-geth's authenticated RPC is enabled
-      and the URL is correct.
 
-      - Permission Denied: Ensure that the op-node has write access to the P2P
-      discovery and peerstore directories.
+      #### Authentication Error
 
-      - Wrong Chain Error: Verify that the op-node's L1 URL, rollup
-      config/--network parameter, and L2 URL are correct for the given network.
+      Make sure op-geth's authenticated RPC is enabled and the URL is correct.
+
+
+      #### Permission Denied
+
+      Ensure that the op-node has write access to the P2P discovery and
+      peerstore directories.
+
+
+      #### Wrong Chain Error
+
+      Verify that the op-node's L1 URL, rollup config/--network parameter, and
+      L2 URL are correct for the given network.
     name: How to Deploy an OP Node?
     stepItems: []
     uuid: 805def7c-3c1e-4d3d-9878-6eb8a63a54f4
@@ -398,5 +406,5 @@ steps:
     uuid: 305f0242-549a-4969-8daf-af64331f1e5a
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: b35de113-1243-4c3b-b963-b6af70657c66
+uuid: op-node-operators-optimism-university-724
 version: 1
