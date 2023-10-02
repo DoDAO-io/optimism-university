@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T12:24:22.138Z'
+created: '2023-10-02T12:55:08.182Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -20,6 +20,11 @@ steps:
 
 
       ### Benefits of having Node Operators
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250395388_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       #### Incentivized Participation
@@ -87,6 +92,14 @@ steps:
       secret file, and other parameters based on your requirements. Consult the
       documentation for the network you are participating in to get the correct
       configuration details.
+
+
+      This diagram showcases the deployment of a typical Bedrock:
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250479290_bedrock-deployment.778a2989.png"/>
+      </div>
 
 
       ### Rollup Node Configuration
@@ -213,6 +226,11 @@ steps:
       </table>
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250742288_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
       ### Building the Optimism Monorepo
 
 
@@ -296,6 +314,11 @@ steps:
       scripts will be used to start the l2geth and op-geth components.
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696251043313_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
       ### Configuring Archive Nodes
 
 
@@ -364,7 +387,12 @@ steps:
       components of the OP Testnet.
 
 
-      ### Starting the Different Components
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696251257490_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
+      ### Starting Different Components
 
 
       In the root of your working directory, create a new directory called
