@@ -1,5 +1,5 @@
 {
-  "uniqueId": "59f2d02c-a11f-4a2c-8ac0-e35daf6e082e",
+  "uniqueId": "333d02cd-0615-4a3a-993d-151533d2f4f7",
   "id": "op-foundation-operations-optimism-university",
   "name": "OP Foundation Operations",
   "content": "Overview of the work processes of the OP Foundation",
@@ -13,7 +13,7 @@
     {
       "name": "Governance Structure",
       "uuid": "cd3c9bcd-02f4-4461-995d-aa8ff3f13bec",
-      "content": "The Optimism Foundation operates under a well-defined structure and set of processes to ensure effective governance and accountability. The foundation is governed by a Board of Directors, which currently consists of Abbey Titcomb, Ben Jones, Brian Avello, Eva Beylin, and Jing. The board's primary role is to manage the foundation's business and affairs. They oversee the foundation's directors and ensure that they fulfill their legal obligations.",
+      "content": "The Optimism Foundation operates under a well-defined structure and set of processes to ensure effective governance and accountability. The foundation is governed by a Board of Directors, which currently consists of Abbey Titcomb, Ben Jones, Brian Avello, Eva Beylin, and Jing. ",
       "stepItems": []
     },
     {
@@ -37,7 +37,7 @@
     {
       "name": "Financial Alignment",
       "uuid": "1e6b8fcd-12f7-44f8-8a70-6b098306aeac",
-      "content": "By having these proposals in place, the foundation aims to align its financial resources with the collective's interests and priorities. This means that the amount of OP tokens available for disbursement are determined through a vote by the collective. By involving the collective in this decision-making process, the foundation ensures that its financial resources are allocated in a manner that aligns with the interests and priorities of the token holders.",
+      "content": "The foundation's proposals let the collective vote on how to use OP tokens, ensuring funds match the group's goals and interests. Token holders help decide where resources go.",
       "stepItems": []
     },
     {
