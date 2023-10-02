@@ -1,5 +1,5 @@
 {
-  "uniqueId": "58e1a6d5-fa0a-48f7-9871-8acffd0b3193",
+  "uniqueId": "afb26fad-58b2-48f7-bc9d-c96491233873",
   "id": "science-of-optimismhow-it-works-optimism-university",
   "name": "Science of Optimism:How It Works",
   "content": "Exploring the Mechanics of Optimism",
@@ -37,7 +37,7 @@
     {
       "name": "Execution Engine",
       "uuid": "3bb618fd-ae4a-48c5-96da-a5085a2fa3d6",
-      "content": "If the sequencer tries to ignore a legitimate L1 transaction, it will result in an inconsistent state with the verifiers. The execution engine, implemented as the op-geth component, receives blocks using two mechanisms. It can update itself using a peer-to-peer network with other execution engines, similar to how L1 execution clients synchronize the state across the network or the rollup node, implemented as the op-node component, derives the L2 blocks from the L1 blockchain. This process is essential for maintaining the integrity and functionality of the Optimism network.",
+      "content": "The execution engine, implemented as the op-geth component, receives blocks using two mechanisms. It can update itself using a peer-to-peer network with other execution engines, similar to how L1 execution clients synchronize the state across the network or the rollup node, implemented as the op-node component, derives the L2 blocks from the L1 blockchain. ",
       "stepItems": []
     },
     {
