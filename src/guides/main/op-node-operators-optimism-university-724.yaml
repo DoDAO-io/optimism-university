@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T12:59:44.783Z'
+created: '2023-10-02T13:08:10.294Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -64,7 +64,7 @@ steps:
 
       Open blockchain architecture encourages innovation and development as
       developers can create applications and services on top of the blockchain. 
-    name: Node Operators
+    name: Overview
     stepItems: []
     uuid: 1b5557e5-59f3-4288-bc23-6ff44fe1a42a
   - content: ''
@@ -213,6 +213,51 @@ steps:
     name: How to Deploy an OP Node?
     stepItems: []
     uuid: 805def7c-3c1e-4d3d-9878-6eb8a63a54f4
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: A high-speed internet connection
+            key: A
+          - content: A specific operating system
+            key: B
+          - content: Sufficient disk space to store the network's data
+            key: C
+          - content: A specific type of processor
+            key: D
+        content: What is the minimum system requirement for deploying an OP node?
+        type: SingleChoice
+        uuid: 6c842815-4d85-42f6-b3fe-bca2f1d1bee9
+        explanation: >-
+          Before deploying an OP node, ensure that your system meets the minimum
+          requirements. These requirements may vary depending on the network you
+          are participating in. Make sure you have sufficient disk space
+          available to store the network's data.
+      - answerKeys:
+          - B
+        choices:
+          - content: To specify the type of processor required
+            key: A
+          - content: To specify network-specific genesis parameters
+            key: B
+          - content: To specify the type of operating system required
+            key: C
+          - content: To specify the type of internet connection required
+            key: D
+        content: >-
+          What is the purpose of the Rollup Node Configuration in deploying an
+          OP node?
+        type: SingleChoice
+        uuid: 556e2bb2-20c3-4636-bb98-8543e6ad32e8
+        explanation: >-
+          The Rollup Node requires a configuration file called rollup.json or
+          'rollup config' to specify network-specific genesis parameters. For
+          official networks like OP Goerli, OP Sepolia, and OP Mainnet, the
+          genesis config is hardcoded in the op-node software and can be
+          specified via a --network flag.
+    uuid: 6ea230eb-b0b3-4705-93df-abed0c716288
   - content: >
       If you want to build your own node without relying on pre-built images,
       you can follow these instructions. These instructions are specifically
@@ -416,6 +461,42 @@ steps:
     name: Running OP Mainnet from Source
     stepItems: []
     uuid: c257f5d1-69f0-4755-8c0a-f0d88499aa24
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Setting up l2geth
+            key: A
+          - content: Getting the Data Directory
+            key: B
+          - content: Creating a Shared Secret
+            key: C
+          - content: Starting the Components
+            key: D
+        content: What is the first step to run OP Mainnet from source?
+        type: SingleChoice
+        uuid: 46eb4e08-d85f-4a64-bfe2-837d962c1d74
+        explanation: The first step is to download the data directory for op-geth.
+      - answerKeys:
+          - C
+        choices:
+          - content: To start op-geth
+            key: A
+          - content: To create a shared secret
+            key: B
+          - content: To keep the data up-to-date
+            key: C
+          - content: To fetch historical execution data from Legacy Geth
+            key: D
+        content: Why is it necessary to synchronize the data directory?
+        type: SingleChoice
+        uuid: e82e5040-91ba-4787-badf-a63ee2d723de
+        explanation: >-
+          The datadir provided by Optimism is not updated continuously, so
+          synchronization is necessary to keep the data up-to-date.
+    uuid: e9ac3f3f-df26-4d04-b89f-0ff3c4f1ac90
   - content: >-
       Running OP Testnet from source allows users to set up and initialize their
       own test network for Optimism's Ethereum Layer 2 solution. The following
@@ -469,6 +550,31 @@ steps:
     name: Running OP Testnet from Source
     stepItems: []
     uuid: 19b4230a-5fa2-40f2-9f95-1acb99bb80f9
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To initialize the data directory
+            key: A
+          - content: >-
+              To ensure secure communication between the different components of
+              the OP Testnet
+            key: B
+          - content: To start the OP Geth component
+            key: C
+          - content: To estimate the synchronization time
+            key: D
+        content: >-
+          What is the purpose of creating a shared secret in running OP Testnet
+          from source?
+        type: SingleChoice
+        uuid: 4907546d-601a-4ada-8ce6-94d5a2516a59
+        explanation: >-
+          Creating a shared secret ensures secure communication between the
+          different components of the OP Testnet.
+    uuid: a38b19e0-b4d0-415d-a8d6-b5a7062cbeaa
   - content: >
       https://cryptoadventure.com/community/articles/what-are-crypto-node-operators/
 
