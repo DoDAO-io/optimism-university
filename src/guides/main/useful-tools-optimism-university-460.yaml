@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide to essential tools for Developers
-created: '2023-10-02T15:31:01.165Z'
+created: '2023-10-02T15:41:44.562Z'
 guideType: onboarding
 key: useful-tools-optimism-university-460
 name: Useful Tools
@@ -391,17 +391,9 @@ steps:
       ### Tools for Account Abstraction
 
 
-      0xStation
-
-      Alchemy
-
-      Biconomy
-
-      CyberConnect
-
-      Pimlico
-
-      Stackup
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696261100860_capture.png"/>
+      </div>
 
 
       ### Account Abstraction Infrastructure
@@ -416,7 +408,7 @@ steps:
     name: Account Abstraction
     stepItems: []
     uuid: 6280a112-d319-453e-a46b-62a57e1f1ef9
-  - content: >
+  - content: >-
       ### Meta-Transactions 
 
 
@@ -476,6 +468,11 @@ steps:
 
 
       ### The Gas Station Network & Gelato
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696261281456_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       To facilitate meta-transactions, infrastructure such as the Gas Station
