@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T14:14:07.631Z'
+created: '2023-10-02T14:20:13.630Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -340,12 +340,22 @@ steps:
       Monorepo](https://github.com/ethereum-optimism/optimism).
 
 
-      git clone https://github.com/ethereum-optimism/optimism.git
+      `git clone https://github.com/ethereum-optimism/optimism.git`
 
 
       3. Install required modules.
 
+
+      `cd optimism
+
+      pnpm install`
+
+
       4. Build the various packages inside of the Optimism Monorepo.
+
+
+      `make op-node
+       pnpm build`
 
 
       ### Building an op-geth
@@ -357,7 +367,15 @@ steps:
 
       2. Clone [op-geth](https://github.com/ethereum-optimism/op-geth).
 
+
+      `git clone https://github.com/ethereum-optimism/op-geth.git`
+
+
       3. Build op-geth.
+
+
+      `cd op-geth    
+       make geth`
 
 
       ### Building a l2geth
@@ -369,7 +387,15 @@ steps:
 
       2. Clone [l2geth](https://github.com/ethereum-optimism/optimism-legacy)
 
+
+      `git clone https://github.com/ethereum-optimism/optimism-legacy.git`
+
+
       3. Build l2geth
+
+
+      `cd optimism-legacy/l2geth
+       make`
     name: Building a Node from Source
     stepItems: []
     uuid: 1c408170-a57a-4974-9aaa-85c255d5c9f0
