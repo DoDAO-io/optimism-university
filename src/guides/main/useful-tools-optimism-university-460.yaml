@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide to essential tools for Developers
-created: '2023-10-02T15:41:44.562Z'
+created: '2023-10-02T16:36:51.469Z'
 guideType: onboarding
 key: useful-tools-optimism-university-460
 name: Useful Tools
@@ -11,8 +11,8 @@ steps:
       crucial role in ensuring the smooth execution of transactions and
       identifying any issues that may arise. These tools provide developers with
       valuable insights into the state of their contracts and help them trace
-      the flow of transactions. In this article, we will explore two popular
-      transaction debugging tools: 
+      the flow of transactions. Let's explore the popular transaction debugging
+      tools: 
 
 
       ### Tenderly
@@ -60,6 +60,29 @@ steps:
     name: Transaction Debugging Tools
     stepItems: []
     uuid: 2cf1603a-f02a-45a4-9110-788f9d75bb5d
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: Tenderly
+            key: A
+          - content: Etherscan
+            key: B
+          - content: Blockscout
+            key: C
+          - content: None of the above
+            key: D
+        content: >-
+          Which transaction debugging tool allows developers to inspect the
+          execution of transactions on the Ethereum Mainnet or Goerli testnet?
+        type: SingleChoice
+        uuid: 633239aa-3402-4787-a055-e5aac34b9e55
+        explanation: >-
+          Tenderly is a powerful tool that allows developers to inspect the
+          execution of transactions on the Ethereum Mainnet or Goerli testnet.
+    uuid: e01580ed-93f9-40fc-b801-8d37c267bc2a
   - content: >-
       ### What are Network Faucets?
 
@@ -141,6 +164,10 @@ steps:
     name: Network Faucets
     stepItems: []
     uuid: 6fb13553-e5b8-4020-ad2b-c8e9d922e7dc
+  - content: ''
+    name: Evaluation
+    stepItems: []
+    uuid: 2b578cdf-d9d2-4d0e-a087-810ac8439673
   - content: >-
       There are several reliable and efficient Node & API providers available
       for developers working with the Optimism blockchain:
@@ -365,6 +392,10 @@ steps:
     name: Oracles
     stepItems: []
     uuid: a809f232-2f62-4074-85ac-c35d2c9443ac
+  - content: ''
+    name: Evaluation
+    stepItems: []
+    uuid: b86a3506-4621-48a5-829f-39cbadfb1d4b
   - content: >-
       ### Account Abstraction
 
@@ -493,6 +524,10 @@ steps:
     name: Meta Transactions
     stepItems: []
     uuid: b9be7345-5773-481a-8200-10dd4bf8923a
+  - content: ''
+    name: Evaluation
+    stepItems: []
+    uuid: 6bf6a94c-94f7-42c5-8c5d-24db6bb0c462
   - content: >-
       https://community.optimism.io/docs/useful-tools/debugging/
 
