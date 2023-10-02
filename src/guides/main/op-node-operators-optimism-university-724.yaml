@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T14:10:21.155Z'
+created: '2023-10-02T14:14:07.631Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -338,6 +338,10 @@ steps:
 
       2. Clone the [Optimism
       Monorepo](https://github.com/ethereum-optimism/optimism).
+
+
+      git clone https://github.com/ethereum-optimism/optimism.git
+
 
       3. Install required modules.
 
