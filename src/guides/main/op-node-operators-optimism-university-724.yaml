@@ -1,6 +1,6 @@
 categories: []
 content: An essential guide to OP Node Operators
-created: '2023-10-02T14:26:34.059Z'
+created: '2023-10-02T14:28:18.629Z'
 guideType: onboarding
 key: op-node-operators-optimism-university-724
 name: OP Node Operators
@@ -299,27 +299,27 @@ steps:
         <tr>
           <td>git, curl, jq, make, and zstd</td>
           <td>OS default</td>
-          <td>sudo apt update,<br>sudo apt install -y git curl make jq zstd</td>
+          <td>`sudo apt update,<br>sudo apt install -y git curl make jq zstd`</td>
         </tr>
         <tr>
           <td>Go</td>
           <td>1.20</td>
-          <td>wget https://go.dev/dl/go1.20.linux-amd64.tar.gz,<br>tar xvzf go1.20.linux-amd64.tar.gz,<br>sudo cp go/bin/go /usr/bin/go,<br>sudo mv go /usr/lib,<br>echo export GOROOT=/usr/lib/go &gt;&gt; ~/.bashrc</td>
+          <td>`wget https://go.dev/dl/go1.20.linux-amd64.tar.gz,<br>tar xvzf go1.20.linux-amd64.tar.gz,<br>sudo cp go/bin/go /usr/bin/go,<br>sudo mv go /usr/lib,<br>echo export GOROOT=/usr/lib/go &gt;&gt; ~/.bashrc`</td>
         </tr>
         <tr>
           <td>Node</td>
           <td>18.17.1</td>
-          <td>nvm install 18.17.1,<br>nvm use 18.17.1</td>
+          <td>`nvm install 18.17.1,<br>nvm use 18.17.1`</td>
         </tr>
         <tr>
           <td>pnpm</td>
           <td>8.6.12</td>
-          <td>sudo npm install -g pnpm</td>
+          <td>`sudo npm install -g pnpm`</td>
         </tr>
         <tr>
           <td>Foundry</td>
           <td>0.2.0</td>
-          <td>curl -L https://foundry.paradigm.xyz | bash,<br>. ~/.bashrc,<br>foundryup</td>
+          <td>`curl -L https://foundry.paradigm.xyz | bash,<br>. ~/.bashrc,<br>foundryup`</td>
         </tr>
       </tbody>
 
