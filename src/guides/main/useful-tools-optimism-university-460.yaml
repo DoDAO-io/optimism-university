@@ -1,12 +1,12 @@
 categories: []
 content: A comprehensive guide to essential tools for Developers
-created: '2023-10-02T14:54:41.555Z'
+created: '2023-10-02T15:28:20.327Z'
 guideType: onboarding
 key: useful-tools-optimism-university-460
 name: Useful Tools
 publishStatus: Live
 steps:
-  - content: >
+  - content: >-
       In the world of blockchain development, transaction debugging tools play a
       crucial role in ensuring the smooth execution of transactions and
       identifying any issues that may arise. These tools provide developers with
@@ -28,6 +28,11 @@ steps:
       process.
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696259037465_untitled-2023-09-21-1651.png"/>
+      </div>
+
+
       ### Etherscan
 
 
@@ -45,9 +50,9 @@ steps:
 
 
       While Tenderly and Etherscan are well-known transaction debugging tools,
-      it's worth mentioning Blockscout as well. Blockscout provides developers
-      with the ability to view events on both the [OP
-      Mainnet](https://optimism.blockscout.com/) and the
+      it's worth mentioning [Blockscout](https://www.blockscout.com/) as well.
+      Blockscout provides developers with the ability to view events on both the
+      [OP Mainnet](https://optimism.blockscout.com/) and the
       [Goerli](https://optimism-goerli.blockscout.com/) testnet. By leveraging
       Blockscout, developers can gain insights into the events associated with
       their transactions, allowing them to track the flow of data and identify
@@ -72,6 +77,11 @@ steps:
 
 
       There are several types of network faucets available for developers: 
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696259311634_untitled-2023-09-21-1651.png"/>
+      </div>
 
 
       #### Superchain Faucet
@@ -182,6 +192,11 @@ steps:
       platforms like Quickbooks.
 
 
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696260117268_capture.png"/>
+      </div>
+
+
       ### BlockVision
 
 
@@ -217,24 +232,6 @@ steps:
       infrastructure and services provider, aiming to support the growth and
       adoption of the Web3 ecosystem. They offer both free and paid options for
       connecting to their shared OP Mainnet node. 
-
-
-      ### OnFinality 
-
-
-      [OnFinality](https://onfinality.io/) is a blockchain infrastructure
-      platform that saves time for Web3 builders. They provide scalable API
-      endpoints for major blockchain networks and allow developers to test,
-      deploy, scale, and monitor their own blockchain nodes. 
-
-
-      ### Pocket Network
-
-
-      [Pocket](https://www.portal.pokt.network/) offers access to a dedicated
-      pool of OP Mainnet nodes coordinated autonomously by the Pocket Network
-      protocol. They provide a generous free tier for developers to mint OP
-      Mainnet RPC endpoints. 
     name: Node & API Providers
     stepItems: []
     uuid: 4fb17ab6-f949-46b3-986f-74323b2476cf
@@ -263,6 +260,11 @@ steps:
 
       Push oracles continuously update and always have up-to-date information
       available onchain. 
+
+
+      <div align="center">
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696260458912_capture.png"/>
+      </div>
 
 
       #### Pull Oracles
@@ -494,6 +496,26 @@ steps:
     name: Meta Transactions
     stepItems: []
     uuid: b9be7345-5773-481a-8200-10dd4bf8923a
+  - content: >-
+      https://community.optimism.io/docs/useful-tools/debugging/
+
+
+      https://community.optimism.io/docs/useful-tools/faucets/
+
+
+      https://community.optimism.io/docs/useful-tools/providers/
+
+
+      https://community.optimism.io/docs/useful-tools/oracles/
+
+
+      https://community.optimism.io/docs/useful-tools/account-abstraction/#why-account-abstraction
+
+
+      https://community.optimism.io/docs/useful-tools/meta-tx/#
+    name: References
+    stepItems: []
+    uuid: 39dbf33c-1231-4ebc-bfc1-8990797ee5f5
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: useful-tools-optimism-university-460
