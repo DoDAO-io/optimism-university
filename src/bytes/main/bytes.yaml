@@ -38,3 +38,4 @@ bytes:
   - node-api-providers-optimism-university.yaml
   - oracles-optimism-university.yaml
   - account-abstraction-optimism-university.yaml
+  - meta-transactions-optimism-university.yaml

@@ -1,0 +1,117 @@
+{
+  "content": "Meta Transactions: A New Approach to Blockchain Transactions",
+  "id": "meta-transactions-optimism-university",
+  "name": "Meta Transactions",
+  "steps": [
+    {
+      "content": "Meta transactions have emerged as a solution to simplify user experience in blockchain transactions. Meta-transactions allow users to sign transactions, which are paid for by others, offering alternative payment methods and novel business models in blockchain networks.",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "d9f50980-3a8e-4998-bc0c-f9780f3b4d39"
+    },
+    {
+      "content": "OP Mainnet's low gas costs make it perfect for meta-transactions, enabling diverse payment methods and business models. This provides users with a seamless, cost-effective experience without paying gas fees directly.",
+      "name": "OP Mainnet and Meta Transactions",
+      "stepItems": [],
+      "uuid": "39963133-0654-4df1-8c56-f06bf11d6936"
+    },
+    {
+      "content": "For newcomers not fully immersed in web3, the initial process of paying gas fees and undergoing KYC can be discouraging. Meta-transactions offer a solution, enabling transactions without upfront payments or KYC, making blockchain technology more accessible and user-friendly for all.",
+      "name": "User Accessibility",
+      "stepItems": [],
+      "uuid": "9f4493bb-6b3f-4c10-8b2d-4f16e58b7424"
+    },
+    {
+      "content": "Meta-transactions also offer the advantage of privately transferring ETH to a new address, preserving user anonymity and security without directly linking the address to their identity. This added privacy is valuable to those who prioritize confidentiality, allowing them to fully embrace blockchain technology while maintaining a higher level of privacy.",
+      "name": "Privacy Advantages",
+      "stepItems": [],
+      "uuid": "983186f9-e631-4694-9bcf-d0ca5e3d3c1b"
+    },
+    {
+      "content": "Users can receive payment for transactions using various tokens, like ERC-20 tokens, instead of relying solely on Ether (ETH). Additionally, off-chain methods, like credit cards, can also be used for payments, providing a wider array of options and catering to users who prefer alternative payment methods.",
+      "name": "Payment Flexibility",
+      "stepItems": [],
+      "uuid": "95a5fb3e-03f1-4e0c-98fb-4c7bdc5be97c"
+    },
+    {
+      "content": "Infrastructure like the Gas Station Network (GSN) and Gelato has been developed for meta-transactions. GSN provides distributed infrastructure for user-managed or paid relays, with bonded relays to prevent censorship. Gelato uses a list of trusted executors, enhancing meta-transaction reliability and security.",
+      "name": "Infrastructure",
+      "stepItems": [],
+      "uuid": "e45a827d-d6c6-48b6-80e9-6f43043212eb"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "eb253940-4b5f-4712-a923-ccfb2650f016",
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To increase the value of assets over time",
+              "key": "A"
+            },
+            {
+              "content": "To buy items from a shop",
+              "key": "B"
+            },
+            {
+              "content": "To simplify user experience and eliminate the need for users to directly pay for gas fees",
+              "key": "C"
+            },
+            {
+              "content": "To buy items for fun",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of meta transactions in blockchain?",
+          "explanation": "Meta transactions allow users to sign transactions that are then submitted and paid for by someone else, simplifying the user experience and eliminating the need for users to directly pay for gas fees."
+        }
+      ],
+      "uuid": "e39884df-a722-4a4a-9ebd-fdac12bf6d1d"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "3fb75277-9d36-4a7c-b88e-faeee41d0de7",
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Ability to transfer ETH privately without creating a direct connection between the address and the user's identity",
+              "key": "A"
+            },
+            {
+              "content": "Ability to increase the value of assets over time",
+              "key": "B"
+            },
+            {
+              "content": "Ability to decrease the value of assets over time",
+              "key": "C"
+            },
+            {
+              "content": "Ability to buy items for fun",
+              "key": "D"
+            }
+          ],
+          "content": "What advantage do meta-transactions provide in terms of privacy?",
+          "explanation": "Meta-transactions allow users to transfer ETH to a new address privately, without creating a direct connection between the address and the user's identity, enhancing privacy in transactions."
+        }
+      ],
+      "uuid": "14d73c47-2238-41fa-a96a-598de306317c"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-10-03T11:46:48.715Z",
+  "visibility": "Public"
+}

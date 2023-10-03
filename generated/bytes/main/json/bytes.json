@@ -37,5 +37,6 @@
   "network-faucets-optimism-university.json",
   "node-api-providers-optimism-university.json",
   "oracles-optimism-university.json",
-  "account-abstraction-optimism-university.json"
+  "account-abstraction-optimism-university.json",
+  "meta-transactions-optimism-university.json"
 ]
