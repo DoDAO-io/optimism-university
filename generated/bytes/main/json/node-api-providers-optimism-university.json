@@ -1,0 +1,135 @@
+{
+  "content": "Overview of Node & API Providers for Optimism Blockchain",
+  "id": "node-api-providers-optimism-university",
+  "name": "Node & API Providers",
+  "steps": [
+    {
+      "content": "Ankr is a decentralized and geo-distributed Optimism RPC provider with worldwide independent blockchain nodes. They offer both free and premium services, including access to developer tooling on OP Mainnet and testnets, SDKs, and Advanced APIs.",
+      "name": "Ankr",
+      "stepItems": [],
+      "uuid": "dbfa00a6-600e-49d1-81f8-a823d2ce3ce4"
+    },
+    {
+      "content": "Alchemy hosts OP Mainnet and testnet nodes, providing developers easy access to their services. They offer a robust free tier with enhanced features like SDKs and APIs.",
+      "name": "Alchemy",
+      "stepItems": [],
+      "uuid": "2df953fb-dcd5-4b9a-9f97-04008f9b839d"
+    },
+    {
+      "content": "Blast is a provider offering access to dedicated OP Mainnet and testnet nodes. They provide free data access up to 12 million API calls per month and 25 requests per second. Blast also offers Public APIs that can be easily integrated with Metamask.",
+      "name": "Blast",
+      "stepItems": [],
+      "uuid": "0d1cd619-285a-4bf7-a468-1d611b0315a4"
+    },
+    {
+      "content": "BlockSpaces is a multiweb integration platform offering free Web3 infrastructure, supporting up to 10 million transactions daily. They allow developers to integrate their OP Mainnet dApps with other web2 business platforms.",
+      "name": "BlockSpaces",
+      "stepItems": [],
+      "uuid": "f0b5a4fa-f9ae-4ac9-9523-63a5247f8623"
+    },
+    {
+      "content": "BlockVision is a development platform and onchain data retrieval portal offering low-latency connections and high availability. Developers can access the Optimism blockchain with ease and reliability.",
+      "name": "BlockVision",
+      "stepItems": [],
+      "uuid": "dff22a8c-8e41-4f41-af4b-09842032c6d6"
+    },
+    {
+      "content": "Chainnodes offers low-latency archival nodes for OP Mainnet and testnets. They have a transparent pricing model and a free tier available for users.",
+      "name": "Chainnodes",
+      "stepItems": [],
+      "uuid": "7859d644-b2b4-4c86-a261-1fbbedb65e02"
+    },
+    {
+      "content": "GetBlock is a developer tool providing simple and reliable API access to multiple blockchains, including Optimism.",
+      "name": "GetBlock",
+      "stepItems": [],
+      "uuid": "560fbc13-5d93-4c73-a933-d69c7f9cd891"
+    },
+    {
+      "content": "Infura is a Web3 infrastructure provider offering free access to hosted OP Mainnet and testnet nodes, with paid plans available for additional features.",
+      "name": "Infura",
+      "stepItems": [],
+      "uuid": "4c43840d-783e-47d6-ad51-1b042866f907"
+    },
+    {
+      "content": "NodeReal is a comprehensive blockchain infrastructure and services provider, supporting the growth of the Web3 ecosystem. They offer both free and paid options for connecting to their shared OP Mainnet node.",
+      "name": "NodeReal",
+      "stepItems": [],
+      "uuid": "ac904535-e158-4236-80f4-f4a47168fb10"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a14eea84-67ec-4082-9237-4b6341088df5",
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Ankr",
+              "key": "A"
+            },
+            {
+              "content": "Alchemy",
+              "key": "B"
+            },
+            {
+              "content": "Blast",
+              "key": "C"
+            },
+            {
+              "content": "BlockSpaces",
+              "key": "D"
+            }
+          ],
+          "content": "What is a decentralized and geo-distributed Optimism RPC provider with worldwide independent blockchain nodes?",
+          "explanation": "Ankr is a decentralized and geo-distributed Optimism RPC provider with worldwide independent blockchain nodes."
+        }
+      ],
+      "uuid": "560eb4f1-4eb3-4bd7-a5de-2a5772fc0bd7"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "a26259ff-b82b-421b-915a-4f5ae5e44192",
+          "answerKeys": [
+            "E"
+          ],
+          "choices": [
+            {
+              "content": "GetBlock",
+              "key": "A"
+            },
+            {
+              "content": "Infura",
+              "key": "B"
+            },
+            {
+              "content": "NodeReal",
+              "key": "C"
+            },
+            {
+              "content": "Chainnodes",
+              "key": "E"
+            }
+          ],
+          "content": "Which provider offers low-latency archival nodes for OP Mainnet and testnets?",
+          "explanation": "Chainnodes offers low-latency archival nodes for OP Mainnet and testnets."
+        }
+      ],
+      "uuid": "7c576e5f-e9cd-456d-975b-00b47bf53021"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-10-03T11:37:28.034Z",
+  "visibility": "Public"
+}
