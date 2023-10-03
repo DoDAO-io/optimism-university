@@ -4,13 +4,13 @@
   "name": "Running OP Mainnet",
   "steps": [
     {
-      "content": "To run OP Mainnet from source, start by downloading the data directory for `op-geth`. The [Bedrock]( version is recommended, which is 303GB in size. Use a tool like [aria2]( to reduce the chance of data corruption.",
+      "content": "To run OP Mainnet from source, start by downloading the data directory for `op-geth`. The Bedrock version is recommended, which is 303GB in size. Use a tool like aria2 to reduce the chance of data corruption.",
       "name": "Getting the Data Directory",
       "stepItems": [],
       "uuid": "b226d0eb-ee4b-4b03-aef4-dd23fd58f21b"
     },
     {
-      "content": "After downloading, navigate to your op-geth directory and create a new directory called 'datadir'. If you're using the optional `l2geth` archive node, download the data directory snapshot using [aria2](. Navigate to your `l2geth` directory and create a new directory called 'datadir'.",
+      "content": "After downloading, navigate to your op-geth directory and create a new directory called 'datadir'. If you're using the optional `l2geth` archive node, download the data directory snapshot using aria2. Navigate to your `l2geth` directory and create a new directory called 'datadir'.",
       "name": "Setting up `l2geth`",
       "stepItems": [],
       "uuid": "5c5a5f65-7e7d-410f-9bc8-0fe00bbe6b2c"
@@ -40,7 +40,7 @@
       "uuid": "5513dca2-5a1d-4ea7-a351-95597b1be269"
     },
     {
-      "content": "To estimate the synchronization time, use the [Foundry]( script. Navigate to your `scripts` directory and create a new file called `run-estimate.sh`. Run the script to get an estimated sync time based on the number of blocks synchronized in a minute.",
+      "content": "To estimate the synchronization time, use the Foundry script. Navigate to your `scripts` directory and create a new file called `run-estimate.sh`. Run the script to get an estimated sync time based on the number of blocks synchronized in a minute.",
       "name": "Estimating Sync Time",
       "stepItems": [],
       "uuid": "152a3d3a-d764-4bc4-a01e-0aca05946dd7"
