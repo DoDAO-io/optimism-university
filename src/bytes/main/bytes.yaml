@@ -30,3 +30,4 @@ bytes:
   - op-superchain-optimism-university.yaml
   - op-superchain-structure-optimism-university.yaml
   - node-operators-optimism-university.yaml
+  - op-node-deployment-optimism-university.yaml

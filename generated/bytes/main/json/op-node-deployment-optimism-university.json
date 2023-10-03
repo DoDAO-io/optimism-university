@@ -1,0 +1,123 @@
+{
+  "content": "Process of deploying an OP node",
+  "id": "op-node-deployment-optimism-university",
+  "name": "OP Node Deployment",
+  "steps": [
+    {
+      "content": "Deploying an OP node involves setting up and configuring different components, including the Rollup Node, Execution Engine, and Legacy Geth. Before deploying an `op-node`, ensure that your system meets the minimum requirements. These requirements may vary depending on the network you are participating in. Make sure you have sufficient disk space available to store the network's data.",
+      "name": "Preparation",
+      "stepItems": [],
+      "uuid": "24dc92b5-0ac3-476f-a812-0e9a72778b09"
+    },
+    {
+      "content": "The Execution Engine, also known as `op-geth`, requires initialization. For networks like OP Sepolia, you'll need to download the genesis file and initialize the data directory via geth init. For networks migrated from a legacy network, you'll download a preconfigured data directory and extract it. `op-geth` accepts standard go-ethereum flags and additional flags specific to Optimism.",
+      "name": "Execution Engine Initialization",
+      "stepItems": [],
+      "uuid": "ebe8503c-3509-44f7-b02f-031b12e6ab4c"
+    },
+    {
+      "content": "You'll need to configure the authenticated RPC endpoint, JWT secret file, and other parameters based on your requirements. Consult the documentation for the network you are participating in to get the correct configuration details. The Rollup Node requires a configuration file called `rollup.json` or 'rollup config' to specify network-specific genesis parameters.",
+      "name": "Configuration",
+      "stepItems": [],
+      "uuid": "50bc4578-cf49-438b-b27d-dd8991ca0c22"
+    },
+    {
+      "content": "For official networks like OP Goerli, OP Sepolia, and OP Mainnet, the genesis config is hardcoded in the `op-node` software and can be specified via a `--network flag`. You can also manually specify a path to a rollup config using the `--rollup.config flag`. The `op-node` participates in a peer-to-peer network to distribute blocks that have not been submitted to L1 yet.",
+      "name": "Network Setup",
+      "stepItems": [],
+      "uuid": "44236b6a-5d77-4cf9-bcc5-15ee1382e652"
+    },
+    {
+      "content": "It automatically discovers and connects to peers using a set of bootnodes. You can also manually specify peers to connect to via the `--p2p.static` flag. Make sure to run the node with a static IP address accessible from the public Internet and open the required port on your firewall.",
+      "name": "Peer Connection",
+      "stepItems": [],
+      "uuid": "97115220-6321-4033-a9f8-b38a1400b59e"
+    },
+    {
+      "content": "For upgraded networks like OP Mainnet or OP Goerli, you'll need to run Legacy Geth to serve historical execution traces. Legacy Geth is our old `l2geth` binary running against a preconfigured data directory. Configure Legacy Geth by following the instructions for using a preconfigured data directory and specify the `USING_OVM=true` environment variable.",
+      "name": "Legacy Geth",
+      "stepItems": [],
+      "uuid": "c0876cd4-a99e-4fe8-8f2e-b73a35940c34"
+    },
+    {
+      "content": "If you encounter any issues during the deployment process, here are some common problems and their solutions:. Make sure `op-geth` authenticated RPC is enabled and the URL is correct. Ensure that the `op-node` has write access to the P2P discovery and peerstore directories. Verify that the `op-node` 's L1 URL, rollup config/ `--network` parameter, and L2 URL are correct for the given network.",
+      "name": "Troubleshooting",
+      "stepItems": [],
+      "uuid": "d82535f5-b368-4a5d-a8ab-a6b83bbe50fb"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "97d6a017-c929-4561-912b-b272b2190d54",
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To buy assets for fun",
+              "key": "A"
+            },
+            {
+              "content": "To participate in a peer-to-peer network and distribute blocks",
+              "key": "B"
+            },
+            {
+              "content": "To increase the value of owned assets over time",
+              "key": "C"
+            },
+            {
+              "content": "To decrease the value of owned assets over time",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of deploying an OP node?",
+          "explanation": "The purpose of deploying an OP node is to participate in a peer-to-peer network to distribute blocks that have not been submitted to L1 yet."
+        }
+      ],
+      "uuid": "8aade7eb-d6f7-4cd5-aea2-5ad2d88bab5b"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "be5c31fc-2416-404f-8e76-4f9ccd5a76df",
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To configure the authenticated RPC endpoint",
+              "key": "A"
+            },
+            {
+              "content": "To manually specify peers to connect to",
+              "key": "B"
+            },
+            {
+              "content": "To serve historical execution traces in upgraded networks",
+              "key": "C"
+            },
+            {
+              "content": "To troubleshoot any issues during the deployment process",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of Legacy Geth in OP node deployment?",
+          "explanation": "Legacy Geth is used to serve historical execution traces in upgraded networks like OP Mainnet or OP Goerli."
+        }
+      ],
+      "uuid": "be52fbe1-4b8c-4ad1-94c0-3eb36197c953"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-10-03T11:14:11.073Z",
+  "visibility": "Public"
+}
