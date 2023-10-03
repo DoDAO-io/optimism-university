@@ -1,112 +1,106 @@
-uniqueId: b6e480df-6fce-466d-a10f-3e85274b39f2
+content: Becoming an OP Holder
 id: optimism-holders-optimism-university
 name: Optimism Holders
-content: Becoming an OP Holder
-created: '2023-09-29T13:51:07.826Z'
-visibility: Public
-publishStatus: Live
-admins: []
-tags: []
-priority: 0
 steps:
-  - name: Acquiring OP Tokens
-    uuid: 7c11194d-5436-4cf8-9907-b0ff403d12f5
-    content: >-
+  - content: >-
       There are several avenues available for obtaining OP tokens and becoming a
       part of the Optimism ecosystem. One common method is through airdrops,
       which involve the distribution of tokens to eligible users based on
       specific criteria. Airdrops are frequently employed to recognize early
       adopters, active participants, or contributors to the project.
+    name: Acquiring OP Tokens
     stepItems: []
-  - name: Trading Platforms
-    uuid: 5d6a82dd-2d62-4329-88a9-4569e914216a
-    content: >-
+    uuid: 7c11194d-5436-4cf8-9907-b0ff403d12f5
+  - content: >-
       Another way to acquire OP tokens is through cryptocurrency trading
       platforms. For instance, Crypto.com offers a user-friendly platform for
       purchasing and trading OP tokens. By setting up an account and completing
       the required verification process, users gain access to the OP token
       market and can commence trading.
+    name: Trading Platforms
     stepItems: []
-  - name: Earning OP Tokens
+    uuid: 5d6a82dd-2d62-4329-88a9-4569e914216a
+  - content: >-
+      Engaging with the Optimism ecosystem can earn you OP tokens. Contributions
+      to tech development, testing, or promotion may yield rewards. Staying
+      connected with the community and official channels keeps you informed
+      about token-earning possibilities.
+    name: Earning OP Tokens
+    stepItems: []
     uuid: 3990e424-411e-4434-a735-b75d2fdf06da
-    content: >-
-      Furthermore, engagement within the Optimism ecosystem presents
-      opportunities for earning OP tokens. Individuals who contribute to the
-      development, testing, or promotion of Optimism's technology may qualify
-      for token rewards or incentives. Staying connected with the Optimism
-      community and keeping abreast of the network's official communication
-      channels enables contributors to stay informed about potential avenues for
-      earning tokens.
+  - content: >-
+      The Optimism Forum is vital for governance, offering a platform for Token
+      House members to discuss and deliberate on proposals. It fosters
+      meaningful conversations and perspectives sharing. Future governance
+      councils might see dedicated user interfaces to enhance the governance
+      process even more.
+    name: Governance Process
     stepItems: []
-  - name: Governance Process
     uuid: 6fb7cf8c-a2c5-4805-bdf1-3ea86b454111
-    content: >-
-      The Optimism Forum plays a crucial role in the governance process by
-      providing a platform for discussion and deliberation on governance
-      proposals. It serves as a space where Token House members can engage in
-      meaningful conversations and share their perspectives. In the future,
-      additional user interfaces dedicated to governance councils may be
-      developed to further enhance the governance experience.
-    stepItems: []
-  - name: Decentralized Governance
-    uuid: 9d8b7315-8c48-4cbb-9118-38a95c7b6cb8
-    content: >-
-      OP token holders have the opportunity to participate in the decentralized
-      governance of the Optimism ecosystem. Proposal Rights: They can propose
-      changes, updates, and enhancements to the protocol. Voting Privileges: OP
-      token holders can cast votes on important matters such as protocol
+  - content: >-
+      OP token holders actively engage in the decentralized governance of the
+      Optimism ecosystem. They possess Proposal Rights, allowing them to suggest
+      protocol changes and improvements. Additionally, they have Voting
+      Privileges, enabling them to vote on crucial matters like protocol
       upgrades and fee structures.
+    name: Decentralized Governance
     stepItems: []
-  - name: Evaluation
-    uuid: 2813a9ab-ce41-4ca8-b728-5467c39e9b92
-    content: ''
+    uuid: 9d8b7315-8c48-4cbb-9118-38a95c7b6cb8
+  - content: ''
+    name: Evaluation
     stepItems:
       - type: SingleChoice
         uuid: ff90341e-e02c-4f46-ae41-2f5ee130daff
-        choices:
-          - key: A
-            content: >-
-              Through airdrops, trading platforms, and earning opportunities
-              within the Optimism ecosystem
-          - key: B
-            content: Through purchasing from a shop
-          - key: C
-            content: Through selling assets
-          - key: D
-            content: Through participating in fun activities
-        content: How can OP tokens be acquired?
         answerKeys:
           - A
+        choices:
+          - content: >-
+              Through airdrops, trading platforms, and earning opportunities
+              within the Optimism ecosystem
+            key: A
+          - content: Through purchasing from a shop
+            key: B
+          - content: Through selling assets
+            key: C
+          - content: Through participating in fun activities
+            key: D
+        content: How can OP tokens be acquired?
         explanation: >-
           OP tokens can be acquired through airdrops, trading platforms, and
           earning opportunities within the Optimism ecosystem.
-  - name: Evaluation
-    uuid: 26b667b5-537b-4a59-8d09-d658568de55c
-    content: ''
+    uuid: 2813a9ab-ce41-4ca8-b728-5467c39e9b92
+  - content: ''
+    name: Evaluation
     stepItems:
       - type: SingleChoice
         uuid: 012f936e-bd72-40f7-95d9-581399babb3e
+        answerKeys:
+          - B
         choices:
-          - key: A
-            content: >-
+          - content: >-
               They can propose changes, updates, and enhancements to the
               protocol
-          - key: B
-            content: >-
+            key: A
+          - content: >-
               They can propose changes, updates, and enhancements to the
               protocol and cast votes on important matters such as protocol
               upgrades and fee structures
-          - key: C
-            content: >-
+            key: B
+          - content: >-
               They can only cast votes on important matters such as protocol
               upgrades and fee structures
-          - key: D
-            content: They have no role in the governance process
+            key: C
+          - content: They have no role in the governance process
+            key: D
         content: What is the role of OP token holders in the governance process?
-        answerKeys:
-          - B
         explanation: >-
           OP token holders can propose changes, updates, and enhancements to the
           protocol and cast votes on important matters such as protocol upgrades
           and fee structures.
-spaceId: optimism-university
+    uuid: 26b667b5-537b-4a59-8d09-d658568de55c
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-09-29T13:51:07.826Z'
+visibility: Public
