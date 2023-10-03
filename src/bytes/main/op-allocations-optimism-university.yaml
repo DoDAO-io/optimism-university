@@ -1,84 +1,73 @@
-uniqueId: a11b5a5a-853d-442f-9382-a8bd850749a8
+content: Overview of OP Allocations in the Collective Ecosystem
 id: op-allocations-optimism-university
 name: OP Allocations
-content: Overview of OP Allocations in the Collective Ecosystem
-created: '2023-09-29T14:38:18.154Z'
-visibility: Public
-publishStatus: Live
-admins: []
-tags: []
-priority: 0
 steps:
-  - name: Ecosystem Fund
+  - content: >-
+      The Ecosystem Fund, comprising 25% of OP tokens, fosters Collective
+      ecosystem growth by supporting communities and companies (OPCOs). It
+      provides incentives across various categories and serves as a kick-start
+      mechanism, eventually phasing out when its OP tokens are exhausted.
+    name: Ecosystem Fund
+    stepItems: []
     uuid: 8c24113b-636d-4fca-82c9-2d7393de95d3
-    content: >-
-      The Ecosystem Fund is an incentive program created to stimulate the
-      development of the Collective ecosystem. This fund is designed to directly
-      support the communities and companies, known as OPCOs, that drive the
-      expansion of the Collective ecosystem. The allocation dedicated to the
-      Ecosystem Fund will be divided into different categories. The Ecosystem
-      Fund is intended to be a kick-starting mechanism that will eventually be
-      phased out once the OP in the fund has been depleted. 25% of the OP tokens
-      are allocated to this fund.
+  - content: >-
+      The Optimism Foundation aims to draw users from both the Optimism and
+      Ethereum communities by distributing OP tokens in multiple waves. The
+      first wave, Airdrop #1, targeted over 250k addresses, with eligibility
+      criteria outlined in its documentation. Furthermore, 14% of the OP token
+      supply is earmarked for future user airdrops to maintain fairness and
+      inclusivity.
+    name: Air Drops
     stepItems: []
-  - name: Air Drops
     uuid: 6da9e4a4-bce4-4b9e-a97f-be4be2507c42
-    content: >-
-      The Optimism Foundation aims to attract users from both the Optimism and
-      Ethereum communities through the distribution of OP tokens. This
-      distribution occurs in multiple waves, with the first wave being Airdrop
-      #1. Airdrop #1 was designed to distribute OP to over 250k addresses. To
-      ensure fairness, the eligibility criteria for this airdrop can be found in
-      the Airdrop #1 documentation. Additionally, 14% of the OP token supply
-      will be reserved for future user airdrops.
+  - content: >-
+      RetroPGF ensures fair rewards for OPCOs. The Foundation can use the 20%
+      RetroPGF Reserve to boost OP payouts. Another 8.8% of OP tokens is
+      reserved for future programs. RetroPGF is managed by the Citizens' House,
+      with quarterly rounds.
+    name: RetroPGF
     stepItems: []
-  - name: RetroPGF
     uuid: 8bc5f093-3353-4ae9-b9e7-9317199fd389
-    content: >-
-      The objective of RetroPGF is to ensure that all OPCOs are adequately
-      rewarded based on their impact to the Collective. The Optimism Foundation
-      may tap into the 20% RetroPGF Reserve to increase the total OP payout of
-      any given period. An allocation of 8.8% of the OP token supply will be
-      held in reserve for future programs, to be determined by the Foundation
-      and/or the governance community. Retroactive Public Goods Funding
-      (RetroPGF) will be distributed by the Citizens' House, with rounds
-      expected to occur quarterly.
-    stepItems: []
-  - name: Contributors & Sugar Xaddies
-    uuid: 19b92c53-c030-46d3-aa11-c351256c7a3c
-    content: >-
+  - content: >-
       19% of the tokens will be distributed to core contributors who are the
       individuals who played a crucial role in bringing Optimism and the
       Optimism Collective from concept to reality. These tokens will also
       continue to support the development of the protocol whereas Sugar Xaddies
       who are the investors will receive 17% of OP tokens.
+    name: Contributors & Sugar Xaddies
     stepItems: []
-  - name: Evaluation
-    uuid: 45524eef-4ce7-4b5e-b124-8eb05b915eb0
-    content: ''
+    uuid: 19b92c53-c030-46d3-aa11-c351256c7a3c
+  - content: ''
+    name: Evaluation
     stepItems:
       - type: SingleChoice
         uuid: fd5bf6ad-4ab8-4475-bdc9-68898fc8e1f8
-        choices:
-          - key: A
-            content: >-
-              To distribute OP tokens to users from both the Optimism and
-              Ethereum communities
-          - key: B
-            content: >-
-              To reserve OP tokens for future programs to be determined by the
-              Foundation and/or the governance community
-          - key: C
-            content: >-
-              To directly support the communities and companies driving the
-              expansion of the Collective ecosystem
-          - key: D
-            content: 'To distribute OP tokens to over 250k addresses through Airdrop #1'
-        content: What is the purpose of the Ecosystem Fund?
         answerKeys:
           - C
+        choices:
+          - content: >-
+              To distribute OP tokens to users from both the Optimism and
+              Ethereum communities
+            key: A
+          - content: >-
+              To reserve OP tokens for future programs to be determined by the
+              Foundation and/or the governance community
+            key: B
+          - content: >-
+              To directly support the communities and companies driving the
+              expansion of the Collective ecosystem
+            key: C
+          - content: 'To distribute OP tokens to over 250k addresses through Airdrop #1'
+            key: D
+        content: What is the purpose of the Ecosystem Fund?
         explanation: >-
           The Ecosystem Fund is an incentive program created to stimulate the
           development of the Collective ecosystem by directly supporting the
           communities and companies driving its expansion.
-spaceId: optimism-university
+    uuid: 45524eef-4ce7-4b5e-b124-8eb05b915eb0
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-09-29T14:38:18.154Z'
+visibility: Public
