@@ -1,0 +1,94 @@
+content: Overview of Transaction Debugging Tools
+id: debugging-tools-optimism-university
+name: Debugging Tools
+steps:
+  - content: >-
+      Transaction debugging tools are critical in the blockchain development
+      world. They ensure smooth transaction execution and help identify any
+      potential issues. These tools give developers valuable insights into their
+      contract's state and help them trace transaction flow.
+    name: Introduction
+    stepItems: []
+    uuid: 84b9b665-f609-42f2-8522-18482e1dc47f
+  - content: >-
+      Tenderly is a powerful transaction debugging tool used for inspecting
+      transaction execution on the Ethereum Mainnet or Goerli testnet. With
+      Tenderly, developers can delve into their verified contract's state at any
+      transaction execution step. This detailed view reduces development time
+      and enhances understanding of transaction flow.
+    name: Tenderly
+    stepItems: []
+    uuid: 6d4c39dd-c71a-4159-b48c-a0ce9d1c1c92
+  - content: >-
+      Etherscan is another popular transaction debugging tool offering features
+      to help developers analyze transactions. It allows viewing events
+      associated with a transaction and accessing revert messages. Such
+      information is vital in identifying errors or unexpected behavior during
+      transaction execution.
+    name: Etherscan
+    stepItems: []
+    uuid: 433c2259-75d5-433c-8654-f94e21f6cfe1
+  - content: >-
+      Blockscout is another notable transaction debugging tool. It allows
+      developers to view events on both the OP Mainnet and the Goerli testnet.
+      Using Blockscout, developers can gain insights into the events associated
+      with their transactions, helping them track data flow and identify
+      potential issues.
+    name: Blockscout
+    stepItems: []
+    uuid: 7dde22ec-50c4-4040-99a4-b58e808ecc5b
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: 5cb55d6a-e30e-460b-8054-b4437c444e85
+        answerKeys:
+          - B
+        choices:
+          - content: To buy assets for fun
+            key: A
+          - content: >-
+              To ensure smooth transaction execution and identify potential
+              issues
+            key: B
+          - content: To increase the value of assets over time
+            key: C
+          - content: To decrease the value of assets over time
+            key: D
+        content: What is the purpose of transaction debugging tools?
+        explanation: >-
+          Transaction debugging tools are used to ensure smooth transaction
+          execution and help identify any potential issues. They provide
+          valuable insights into the contract's state and help trace transaction
+          flow.
+    uuid: 015797e3-c685-4577-b8d1-7ec30fd9e3c9
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: b43487bc-b3f8-4bd7-9eee-b6d37bf42331
+        answerKeys:
+          - C
+        choices:
+          - content: Tenderly
+            key: A
+          - content: Etherscan
+            key: B
+          - content: Blockscout
+            key: C
+          - content: None of the above
+            key: D
+        content: >-
+          Which transaction debugging tool allows developers to view events on
+          both the OP Mainnet and the Goerli testnet?
+        explanation: >-
+          Blockscout is the transaction debugging tool that allows developers to
+          view events on both the OP Mainnet and the Goerli testnet. It helps
+          track data flow and identify potential issues.
+    uuid: 46dde051-16f5-4583-89ab-45bf85bca091
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-10-03T11:29:54.812Z'
+visibility: Public

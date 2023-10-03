@@ -32,5 +32,6 @@
   "node-operators-optimism-university.json",
   "op-node-deployment-optimism-university.json",
   "running-op-mainnet-optimism-university.json",
-  "op-testnet-setup-optimism-university.json"
+  "op-testnet-setup-optimism-university.json",
+  "debugging-tools-optimism-university.json"
 ]
