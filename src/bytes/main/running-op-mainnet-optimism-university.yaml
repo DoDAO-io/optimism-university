@@ -1,0 +1,113 @@
+content: Steps to run OP Mainnet from source
+id: running-op-mainnet-optimism-university
+name: Running OP Mainnet
+steps:
+  - content: >-
+      To run OP Mainnet from source, start by downloading the data directory for
+      `op-geth`. The [Bedrock]( version is recommended, which is 303GB in size.
+      Use a tool like [aria2]( to reduce the chance of data corruption.
+    name: Getting the Data Directory
+    stepItems: []
+    uuid: b226d0eb-ee4b-4b03-aef4-dd23fd58f21b
+  - content: >-
+      After downloading, navigate to your op-geth directory and create a new
+      directory called 'datadir'. If you're using the optional `l2geth` archive
+      node, download the data directory snapshot using [aria2](. Navigate to
+      your `l2geth` directory and create a new directory called 'datadir'.
+    name: Setting up `l2geth`
+    stepItems: []
+    uuid: 5c5a5f65-7e7d-410f-9bc8-0fe00bbe6b2c
+  - content: >-
+      To establish a connection between `op-geth` and `op-node`, create a shared
+      secret. Navigate to your `op-geth` directory and run the command 'openssl
+      rand -hex 32 > jwt.txt' to generate the shared secret.
+    name: Creating a Shared Secret
+    stepItems: []
+    uuid: cbdf1fe0-b975-421a-a3f2-eaaa4aa9f18e
+  - content: >-
+      In the root of your working directory, create a new directory called
+      `scripts`. Inside this directory, create two new files: 'run-l2geth.sh'
+      and 'run-op-geth.sh'. Insert the necessary code into these files,
+      modifying the paths to the `l2geth` and `op-geth` directories. These
+      scripts will be used to start the `l2geth` and `op-geth` components.
+    name: Starting the Components
+    stepItems: []
+    uuid: cbd40afb-9ba0-4679-a061-9695469a7c4e
+  - content: >-
+      If you're using archive nodes, point `op-geth` at `l2geth` using the
+      `--rollup.historicalrpc` flag. This enables the historical RPC endpoint,
+      which fetches historical execution data from Legacy Geth. Modify the code
+      snippet in the `run-op-geth.sh` file to include the L1 RPC URL and set the
+      L1KIND to the network provider you're using.
+    name: Configuring Archive Nodes
+    stepItems: []
+    uuid: f02538a4-f5ee-4201-8e6a-7e72cfef9f3e
+  - content: >-
+      Before using the node, synchronize the data directory. The datadir
+      provided by Optimism isn't updated continuously, so synchronization is
+      necessary. During the synchronization process, `op-node` will display log
+      messages indicating its progress. This is normal and means that `op-node`
+      is looking for a location in the batch queue.
+    name: Synchronizing the Data Directory
+    stepItems: []
+    uuid: 5513dca2-5a1d-4ea7-a351-95597b1be269
+  - content: >-
+      To estimate the synchronization time, use the [Foundry]( script. Navigate
+      to your `scripts` directory and create a new file called
+      `run-estimate.sh`. Run the script to get an estimated sync time based on
+      the number of blocks synchronized in a minute.
+    name: Estimating Sync Time
+    stepItems: []
+    uuid: 152a3d3a-d764-4bc4-a01e-0aca05946dd7
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: 51aaeabe-8aba-4390-8b4c-1fa3831ca987
+        answerKeys:
+          - A
+        choices:
+          - content: 303GB
+            key: A
+          - content: 256GB
+            key: B
+          - content: 512GB
+            key: C
+          - content: 128GB
+            key: D
+        content: >-
+          What is the recommended size of the data directory for running OP
+          Mainnet from source?
+        explanation: >-
+          The recommended size of the data directory for running OP Mainnet from
+          source is 303GB.
+    uuid: bb1e35f2-5720-4154-8702-22ab395d30c0
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: b0ee31cb-f36a-43f9-96ea-c2556ebf97f2
+        answerKeys:
+          - C
+        choices:
+          - content: openssl rand -hex 16 > jwt.txt
+            key: A
+          - content: openssl rand -hex 64 > jwt.txt
+            key: B
+          - content: openssl rand -hex 32 > jwt.txt
+            key: C
+          - content: openssl rand -hex 8 > jwt.txt
+            key: D
+        content: >-
+          What command should be run to generate the shared secret for
+          establishing a connection between `op-geth` and `op-node`?
+        explanation: >-
+          The command 'openssl rand -hex 32 > jwt.txt' should be run to generate
+          the shared secret.
+    uuid: d80a50c9-38c4-438e-b40d-cca7563f9cc7
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-10-03T11:17:30.101Z'
+visibility: Public

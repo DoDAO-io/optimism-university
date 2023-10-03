@@ -30,5 +30,6 @@
   "op-superchain-optimism-university.json",
   "op-superchain-structure-optimism-university.json",
   "node-operators-optimism-university.json",
-  "op-node-deployment-optimism-university.json"
+  "op-node-deployment-optimism-university.json",
+  "running-op-mainnet-optimism-university.json"
 ]
