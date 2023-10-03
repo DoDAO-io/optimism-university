@@ -37,3 +37,4 @@ bytes:
   - network-faucets-optimism-university.yaml
   - node-api-providers-optimism-university.yaml
   - oracles-optimism-university.yaml
+  - account-abstraction-optimism-university.yaml

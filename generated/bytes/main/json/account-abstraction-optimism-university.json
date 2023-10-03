@@ -1,0 +1,117 @@
+{
+  "content": "Understanding the concept of Account Abstraction",
+  "id": "account-abstraction-optimism-university",
+  "name": "Account Abstraction",
+  "steps": [
+    {
+      "content": "Account abstraction is a concept that allows users to use smart contracts as their accounts instead of the traditional Externally Owned Accounts (EOA). While EOAs have been the default choice for most users, the adoption of smart accounts has been increasing due to the enhanced user experiences they offer.",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "746d7f74-d609-4e1a-9461-ed20173fe852"
+    },
+    {
+      "content": "By leveraging account abstraction, users can explore new possibilities and create more innovative dapps and wallets. One significant advantage of using smart contracts as accounts is the cost-effectiveness it brings.",
+      "name": "Advantages",
+      "stepItems": [],
+      "uuid": "812a456f-1b7f-4f8f-a16b-a26f460f0dab"
+    },
+    {
+      "content": "For instance, deploying a contract wallet on the OP Stack is 34 times cheaper than on the Ethereum Mainnet. This cost reduction can be a game-changer for developers and businesses looking to build, onboard, and scale their dapps.",
+      "name": "Cost Effectiveness",
+      "stepItems": [],
+      "uuid": "f4657dd1-5884-450f-bb1e-b34f548106ff"
+    },
+    {
+      "content": "By utilizing smart contract wallet primitives, developers can leverage the power of account abstraction to create efficient and scalable solutions.",
+      "name": "Efficiency and Scalability",
+      "stepItems": [],
+      "uuid": "a51ea252-a73c-4cdb-8b09-542ea91b72ae"
+    },
+    {
+      "content": "To support account abstraction, various infrastructure components have been developed. One such example is the ERC-4337 bundler, which allows developers to bundle multiple transactions together, reducing gas costs and improving efficiency.",
+      "name": "Supporting Infrastructure",
+      "stepItems": [],
+      "uuid": "722fe8d0-f7fb-4e89-803d-4238021b9474"
+    },
+    {
+      "content": "Additionally, gas manager APIs are available on the OP Mainnet, providing developers with tools to manage gas consumption effectively. These infrastructure components empower developers to optimize their dapps and wallets, ensuring a seamless user experience.",
+      "name": "Optimization Tools",
+      "stepItems": [],
+      "uuid": "80a2c780-e2a7-458d-acd7-a87a1583f0ad"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "7c272f91-405d-49a7-b571-d65523c8c697",
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A concept that allows users to use traditional Externally Owned Accounts (EOA) as their accounts",
+              "key": "A"
+            },
+            {
+              "content": "A concept that allows users to use smart contracts as their accounts instead of the traditional Externally Owned Accounts (EOA)",
+              "key": "B"
+            },
+            {
+              "content": "A concept that allows users to use both smart contracts and traditional Externally Owned Accounts (EOA) as their accounts",
+              "key": "C"
+            },
+            {
+              "content": "A concept that allows users to use only smart contracts as their accounts",
+              "key": "D"
+            }
+          ],
+          "content": "What is account abstraction?",
+          "explanation": "Account abstraction is a concept that allows users to use smart contracts as their accounts instead of the traditional Externally Owned Accounts (EOA)."
+        }
+      ],
+      "uuid": "b881a078-a84b-4ca9-8b24-03c3a715952d"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "fba6f37f-4677-42a7-9985-f3df2a9b5811",
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Faster abstractions",
+              "key": "A"
+            },
+            {
+              "content": "Enhanced user experiences",
+              "key": "B"
+            },
+            {
+              "content": "Cost-effectiveness",
+              "key": "C"
+            },
+            {
+              "content": "Improved scalability",
+              "key": "D"
+            }
+          ],
+          "content": "What is one advantage of using smart contracts as accounts?",
+          "explanation": "One significant advantage of using smart contracts as accounts is the cost-effectiveness it brings."
+        }
+      ],
+      "uuid": "27a89e27-3786-4aba-89c1-ab127f5d5c84"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-10-03T11:43:12.433Z",
+  "visibility": "Public"
+}
