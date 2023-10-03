@@ -1,0 +1,107 @@
+content: Running OP Testnet from Source
+id: op-testnet-setup-optimism-university
+name: OP Testnet Setup
+steps:
+  - content: >-
+      Running OP Testnet from source allows users to set up and initialize their
+      own test network for Optimism's Ethereum Layer 2 solution. Since OP
+      Sepolia is a non-migrated network, it requires initialization via a
+      genesis file.
+    name: Introduction
+    stepItems: []
+    uuid: e12e7512-0019-466c-9b71-4539bfc48675
+  - content: >-
+      To initialize the data directory, you'll need to download the genesis JSON
+      and run the following command: `curl -o <path to genesis JSON> -sL <URL to
+      genesis JSON>`.
+    name: Initialization
+    stepItems: []
+    uuid: 795bf4d7-b0eb-494c-88a0-f763ce649f3d
+  - content: >-
+      To create a shared secret between `op-geth` and `op-node`, navigate to
+      your `op-geth` directory and run the command `openssl rand -hex 32 >
+      jwt.txt`. This shared secret will ensure secure communication between the
+      different components of the OP Testnet.
+    name: Shared Secret Creation
+    stepItems: []
+    uuid: fc9001fe-3b43-4f38-87e1-1c44b41a8b6d
+  - content: >-
+      In the root of your working directory, create a new directory called
+      `scripts`. Inside this directory, insert a snippet of code into the
+      run-`op-geth.sh` file and modify the path to the `op-geth` directory.
+    name: Script Setup
+    stepItems: []
+    uuid: 78ccaaec-265f-4ef4-b2d4-0298c7ecb80a
+  - content: >-
+      Before you can use the OP Testnet, you need to synchronize the data
+      directory. The datadir provided by Optimism is not updated continuously,
+      so synchronization is necessary. While the synchronization process is
+      ongoing, you will receive log messages from `op-node`.
+    name: Synchronization
+    stepItems: []
+    uuid: c11b7e6c-e491-43fa-8e5a-37d5be3e26b9
+  - content: >-
+      To estimate how long the synchronization will take, you can use the
+      Foundry script provided. Simply navigate to your scripts directory, create
+      a new file called `run-estimate.sh`, and run the command
+      `./run-estimate.sh` to get an estimate of the synchronization time.
+    name: Synchronization Estimation
+    stepItems: []
+    uuid: 5017a0af-76d3-4392-8ebf-b0b92c8e39b4
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: 0c93d768-8fa5-4b96-ab40-d52df2e99b79
+        answerKeys:
+          - A
+        choices:
+          - content: >-
+              To set up and initialize the test network for Optimism's Ethereum
+              Layer 2 solution
+            key: A
+          - content: To synchronize the data directory with the Optimism network
+            key: B
+          - content: To estimate the synchronization time for the OP Testnet
+            key: C
+          - content: To create a shared secret between `op-geth` and `op-node`
+            key: D
+        content: >-
+          What is the purpose of initializing the data directory in OP Testnet
+          setup?
+        explanation: >-
+          Initializing the data directory is necessary to set up and initialize
+          the test network for Optimism's Ethereum Layer 2 solution.
+    uuid: cc4c50f5-3579-4901-ac46-5b85efa29424
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - type: SingleChoice
+        uuid: 39408d0d-e24d-49ae-a017-5cea75ba84b1
+        answerKeys:
+          - D
+        choices:
+          - content: >-
+              To set up and initialize the test network for Optimism's Ethereum
+              Layer 2 solution
+            key: A
+          - content: To synchronize the data directory with the Optimism network
+            key: B
+          - content: To estimate the synchronization time for the OP Testnet
+            key: C
+          - content: >-
+              To ensure secure communication between the different components of
+              the OP Testnet
+            key: D
+        content: What is the purpose of creating a shared secret in OP Testnet setup?
+        explanation: >-
+          Creating a shared secret between `op-geth` and `op-node` ensures
+          secure communication between the different components of the OP
+          Testnet.
+    uuid: 34b63997-a106-4dff-9429-bc309bf23f79
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+created: '2023-10-03T11:23:44.742Z'
+visibility: Public

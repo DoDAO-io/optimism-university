@@ -32,3 +32,4 @@ bytes:
   - node-operators-optimism-university.yaml
   - op-node-deployment-optimism-university.yaml
   - running-op-mainnet-optimism-university.yaml
+  - op-testnet-setup-optimism-university.yaml
