@@ -1,100 +1,89 @@
 {
-  "uniqueId": "333d02cd-0615-4a3a-993d-151533d2f4f7",
+  "content": "Overview of the work processes of the OP Foundation",
   "id": "op-foundation-operations-optimism-university",
   "name": "OP Foundation Operations",
-  "content": "Overview of the work processes of the OP Foundation",
-  "created": "2023-09-29T12:32:42.494Z",
-  "visibility": "Public",
-  "publishStatus": "Live",
-  "admins": [],
-  "tags": [],
-  "priority": 0,
   "steps": [
     {
-      "name": "Governance Structure",
-      "uuid": "cd3c9bcd-02f4-4461-995d-aa8ff3f13bec",
       "content": "The Optimism Foundation operates under a well-defined structure and set of processes to ensure effective governance and accountability. The foundation is governed by a Board of Directors, which currently consists of Abbey Titcomb, Ben Jones, Brian Avello, Eva Beylin, and Jing. ",
+      "name": "Governance Structure",
       "stepItems": [],
-      "order": 0
+      "uuid": "cd3c9bcd-02f4-4461-995d-aa8ff3f13bec"
     },
     {
-      "name": "Operational Structure",
-      "uuid": "d3106a45-c41b-4934-8205-e45359039da4",
       "content": "To execute its operational and administrative aims, the foundation employs officers, contractors, and service providers. These individuals and entities play a crucial role in carrying out the day-to-day tasks and responsibilities of the foundation. They work closely with the board and other stakeholders to ensure the smooth functioning of the foundation.",
+      "name": "Operational Structure",
       "stepItems": [],
-      "order": 1
+      "uuid": "d3106a45-c41b-4934-8205-e45359039da4"
     },
     {
-      "name": "Legal Obligations",
-      "uuid": "d42900e7-d643-4a44-9c88-9e0a149f168d",
       "content": "As a Cayman Islands foundation company, the Optimism Foundation is legally accountable to its governing documentation. This documentation establishes the foundation's commitment to defer to the will of the Optimism Collective and its governance. The foundation is required to observe and implement the outcome of valid governance votes diligently and in a commercially reasonable manner.",
+      "name": "Legal Obligations",
       "stepItems": [],
-      "order": 2
+      "uuid": "d42900e7-d643-4a44-9c88-9e0a149f168d"
     },
     {
-      "name": "Proposal Limitations",
-      "uuid": "1654fad8-e3a9-4c88-90fc-124f65930c10",
       "content": "However, the foundation's discretion is limited to proposals that are unsafe, insecure, inconsistent with its purpose, legally non-compliant, or would hinder its ability to function effectively. To ensure accountability and transparency, the foundation has implemented three governance proposal types. These proposals are designed to protect the rights of OP token holders and maintain transparency within the organization.",
+      "name": "Proposal Limitations",
       "stepItems": [],
-      "order": 3
+      "uuid": "1654fad8-e3a9-4c88-90fc-124f65930c10"
     },
     {
-      "name": "Financial Alignment",
-      "uuid": "1e6b8fcd-12f7-44f8-8a70-6b098306aeac",
       "content": "The foundation's proposals let the collective vote on how to use OP tokens, ensuring funds match the group's goals and interests. Token holders help decide where resources go.",
+      "name": "Financial Alignment",
       "stepItems": [],
-      "order": 4
+      "uuid": "1e6b8fcd-12f7-44f8-8a70-6b098306aeac"
     },
     {
-      "name": "Board Accountability",
-      "uuid": "0b00d426-c351-444a-9564-d2990311b030",
       "content": "The governance has the authority to remove any member of the foundation's Board of Directors from service. This power is crucial in holding board members accountable for their actions and decisions. It allows for the removal of any director who fails to fulfill their responsibilities or acts against the best interests of the foundation.",
+      "name": "Board Accountability",
       "stepItems": [],
-      "order": 5
+      "uuid": "0b00d426-c351-444a-9564-d2990311b030"
     },
     {
+      "content": "The Token House, representing OP token holders, can veto changes to foundation documents that harm token holder rights. This safeguards their interests and ensures their voices are respected in document changes.",
       "name": "Token Holder Rights",
-      "uuid": "50522ae7-f65c-4d6d-9573-31e64b862fdb",
-      "content": "The Token House, representing the OP token holders, has the power to veto any proposed changes to the foundation's governing documents that would significantly reduce the rights of OP token holders. This mechanism serves as a safeguard for the interests and rights of the token holders. It ensures that their voices are heard and respected, and that any changes to the governing documents are in line with their best interests.",
       "stepItems": [],
-      "order": 6
+      "uuid": "50522ae7-f65c-4d6d-9573-31e64b862fdb"
     },
     {
-      "name": "Evaluation",
-      "uuid": "7ec6376b-edeb-4a79-b9f8-df1308345aee",
       "content": "",
+      "name": "Evaluation",
       "stepItems": [
         {
           "type": "SingleChoice",
           "uuid": "ca8aa8fe-f820-4d01-95bb-8c34052693da",
-          "choices": [
-            {
-              "key": "A",
-              "content": "To buy assets for the foundation"
-            },
-            {
-              "key": "B",
-              "content": "To ensure accountability and transparency, protect the rights of OP token holders, and maintain transparency within the organization"
-            },
-            {
-              "key": "C",
-              "content": "To remove any member of the foundation's Board of Directors from service"
-            },
-            {
-              "key": "D",
-              "content": "To veto any proposed changes to the foundation's governing documents"
-            }
-          ],
-          "content": "What is the purpose of the governance proposal types implemented by the Optimism Foundation?",
           "answerKeys": [
             "B"
           ],
-          "explanation": "The governance proposal types are implemented to ensure accountability and transparency, protect the rights of OP token holders, and maintain transparency within the organization.",
-          "order": 0
+          "choices": [
+            {
+              "content": "To buy assets for the foundation",
+              "key": "A"
+            },
+            {
+              "content": "To ensure accountability and transparency, protect the rights of OP token holders, and maintain transparency within the organization",
+              "key": "B"
+            },
+            {
+              "content": "To remove any member of the foundation's Board of Directors from service",
+              "key": "C"
+            },
+            {
+              "content": "To veto any proposed changes to the foundation's governing documents",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of the governance proposal types implemented by the Optimism Foundation?",
+          "explanation": "The governance proposal types are implemented to ensure accountability and transparency, protect the rights of OP token holders, and maintain transparency within the organization."
         }
       ],
-      "order": 7
+      "uuid": "7ec6376b-edeb-4a79-b9f8-df1308345aee"
     }
   ],
-  "spaceId": "optimism-university"
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-09-29T12:32:42.494Z",
+  "visibility": "Public"
 }
