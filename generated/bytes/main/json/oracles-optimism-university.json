@@ -1,0 +1,117 @@
+{
+  "content": "Overview of Oracles",
+  "id": "oracles-optimism-university",
+  "name": "Oracles",
+  "steps": [
+    {
+      "content": "Oracles are important tools in blockchain technology. They allow code running on a blockchain to access a wide range of information, bringing offchain data onchain. Oracles are crucial in stablecoins using ETH as collateral, as they determine how many stablecoins are given for a given amount of ETH by providing the ETH/USD exchange rate.",
+      "name": "Oracles in Blockchain",
+      "stepItems": [],
+      "uuid": "0421e994-1fcd-4efb-b07e-ca897395bcb7"
+    },
+    {
+      "content": "There are two types of oracles: push and pull. Push oracles continuously update and provide up-to-date information onchain. Pull oracles, on the other hand, are only updated when a contract requests information. This requires two transactions, with the first transaction requesting information and the second providing the answer.",
+      "name": "Types of Oracles",
+      "stepItems": [],
+      "uuid": "97665a5b-e5ba-49c9-bc12-acaf6082375c"
+    },
+    {
+      "content": "Gas Oracle is a push oracle that provides information about gas prices and related parameters. The L1 gas price is updated onchain every 5 minutes and can change by up to 20% each time. Chainlink, another popular oracle provider, offers a variety of price feeds that provide up-to-date information accessible onchain.",
+      "name": "Gas and Chainlink Oracles",
+      "stepItems": [],
+      "uuid": "0702ed0f-9955-4182-a7e5-dec10f00db1d"
+    },
+    {
+      "content": "Tellor is a customizable oracle that allows users to put any verifiable data onchain. It rewards entities providing accurate information and penalizes those providing incorrect information. It usually operates as a pull oracle but can act as a push oracle under certain circumstances.",
+      "name": "Tellor Oracle",
+      "stepItems": [],
+      "uuid": "e8eff63c-791f-4828-8c9d-900f48f028c3"
+    },
+    {
+      "content": "UMA is a generic oracle that allows any contract to request information. Staked entities provide answers, and external entities can dispute the proposed answer by providing their own answer and staking their tokens. UMA operates as a pull oracle, meaning information is not obtained until it is requested by a contract.",
+      "name": "UMA Oracle",
+      "stepItems": [],
+      "uuid": "b879d78e-1fc6-4686-8c5a-0487446a173f"
+    },
+    {
+      "content": "Uniswap pools, although not technically oracles, provide quotes that give the relative costs of assets. These quotes can be used to determine asset prices. However, relying solely on onchain asset prices, especially in low liquidity pools, can lead to price manipulation.",
+      "name": "Uniswap Pools",
+      "stepItems": [],
+      "uuid": "bdfd2faa-0f91-4f1c-b9dd-9675dbc5cec9"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "d4820a2a-f174-43da-a9dc-ab5460b4d677",
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Providing offchain data onchain",
+              "key": "A"
+            },
+            {
+              "content": "Updating gas prices and related parameters",
+              "key": "B"
+            },
+            {
+              "content": "Determining asset prices in Uniswap pools",
+              "key": "C"
+            },
+            {
+              "content": "Rewarding entities providing accurate information",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of oracles in the blockchain ecosystem?",
+          "explanation": "Oracles play a crucial role in the blockchain ecosystem by providing offchain data onchain."
+        }
+      ],
+      "uuid": "ca1dd8c0-bb0c-4a9f-ada6-d002b21b951b"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "3cd4b82d-b41d-4c2e-a725-be08efce841a",
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Gas and Chainlink oracles",
+              "key": "A"
+            },
+            {
+              "content": "Push and pull oracles",
+              "key": "B"
+            },
+            {
+              "content": "Tellor and UMA oracles",
+              "key": "C"
+            },
+            {
+              "content": "Stablecoins and Uniswap oracles",
+              "key": "D"
+            }
+          ],
+          "content": "What are the two types of oracles?",
+          "explanation": "The two types of oracles are push and pull oracles."
+        }
+      ],
+      "uuid": "41151ef2-428e-4d4e-8f20-cf330aca31d6"
+    }
+  ],
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "created": "2023-10-03T11:39:30.209Z",
+  "visibility": "Public"
+}

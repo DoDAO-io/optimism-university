@@ -35,5 +35,6 @@
   "op-testnet-setup-optimism-university.json",
   "debugging-tools-optimism-university.json",
   "network-faucets-optimism-university.json",
-  "node-api-providers-optimism-university.json"
+  "node-api-providers-optimism-university.json",
+  "oracles-optimism-university.json"
 ]

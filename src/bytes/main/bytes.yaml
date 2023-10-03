@@ -36,3 +36,4 @@ bytes:
   - debugging-tools-optimism-university.yaml
   - network-faucets-optimism-university.yaml
   - node-api-providers-optimism-university.yaml
+  - oracles-optimism-university.yaml
