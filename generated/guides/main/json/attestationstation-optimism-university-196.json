@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Your go-to guide for AttestationStation",
-  "created": "2023-10-04T15:45:19.142Z",
+  "created": "2023-10-05T10:20:22.524Z",
   "guideType": "onboarding",
   "key": "attestationstation-optimism-university-196",
   "name": "AttestationStation",
@@ -288,7 +288,8 @@
       "uuid": "185833da-dd56-45a4-a45b-20defb89ce5d"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696434315404_rectangle_99.png",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696501217570_rectangle_98.png",
   "uuid": "attestationstation-optimism-university-196",
-  "version": 1
+  "version": 1,
+  "priority": 50
 }
