@@ -1,0 +1,208 @@
+## What is Optimism?
+
+
+## What is Optimism?
+
+### What is Optimism?
+
+Optimism is a layer 2 chain that operates on top of the Ethereum mainnet, also known as layer 1. This means that transactions occur on the Optimism chain, but the transaction data is posted and validated on the Ethereum mainnet. To put it simply, it's like driving on a less crowded side street while still benefiting from the security of a highway.
+
+### What is Layer-2?
+
+Layer-2 (L2) is a secondary layer built on top of a main blockchain (Layer-1 or L1) to improve its speed and scalability. It helps process transactions faster and reduce congestion on the main blockchain. Examples include the Lightning Network for Bitcoin and Optimistic Rollups for Ethereum.
+
+### Why do we need Layer-2?
+
+Layer-2 solutions are essential because they tackle the inherent limitations of Layer-1 blockchains. Main blockchains like Ethereum and Bitcoin often struggle with slow transaction processing and high fees when they become congested due to increased user activity. This congestion hinders their ability to scale and support a growing user base effectively.
+
+Layer-2 solutions provide a crucial remedy by offloading a portion of the transaction load onto secondary layers. These secondary layers, while independently operated, remain secured by the primary blockchain's consensus mechanisms. As a result, Layer-2 solutions significantly enhance transaction speeds, reduce costs, and increase the overall capacity of blockchain networks. They make blockchain technology more practical for a wide range of applications, from everyday transactions to decentralized applications (dApps) and smart contracts.
+
+### Roll-ups
+
+Rollup is a type of layer two solution to solve the Ethereum scalability problem. Roll ups work by executing transactions outside the main ethereum chain, while submitting data to the base chain.This means that layer-2 networks can handle the processing of transactions much faster than the base blockchain, since there is a smaller validator set with better hardware. In addition, the base blockchain only needs to execute proofs submitted to the rollup smart contract to verify the activity on the layer-2 network, rather than store raw, unexecuted transaction data. There are generally two main kinds of roll-ups:
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695921982727_untitled-2023-09-21-1651.png"/>
+</div>
+
+
+#### a. Optimistic Rollups
+
+Optimism is categorized as an "Optimistic Rollup," which is essentially a blockchain that relies on the security of another blockchain, known as the parent chain. In this case, Optimism leverages the consensus mechanism, such as Proof of Work (PoW) or Proof of Stake (PoS), of the Ethereum mainnet. By doing so, Optimism can benefit from the robust security measures already in place on the parent chain, ensuring the safety and integrity of transactions on the Optimism chain.
+
+#### b. Zero-Knowledge Rollups
+
+Unlike Optimistic rollups, ZK rollups use cryptographic proofs like SNARKs or STARKs to confirm transactions' authenticity, making them more efficient as they update Layer 2 state through these proofs. This approach simplifies block validation and ETH transfers to Layer 1. However, ZK rollups may not fully support EVM and may be resource-intensive for low on-chain activity applications.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### What is Optimism in the context of blockchain technology?  
+     
+- [ ]  A positive outlook on the future of blockchain technology
+- [x]  A layer 2 chain that operates on top of the Ethereum mainnet
+- [ ]  A type of cryptocurrency
+- [ ]  A method of encrypting blockchain data
+
+
+
+
+
+##### What is the purpose of Layer-2 solutions in blockchain technology?  
+     
+- [ ]  To replace the primary blockchain
+- [ ]  To create a new type of cryptocurrency
+- [ ]  To encrypt blockchain data
+- [x]  To enhance transaction speeds, reduce costs, and increase the overall capacity of blockchain networks
+
+    
+
+
+---
+## How does Optimism work?
+
+Optimism is a type of blockchain called an "Optimistic Rollup." It works by leveraging the security of another blockchain, known as the parent chain. Instead of having its own consensus mechanism, Optimistic Rollups rely on the consensus mechanism of the parent chain, such as Proof of Work (PoW) or Proof of Stake (PoS). The following is a brief explanation of the fundamental principles of this concept:
+
+### Block Storage
+
+In the case of Optimism, L2 blocks are stored on the Ethereum blockchain using a non-contract address. This helps minimize the gas expenses on the Ethereum network. Once these blocks are submitted as transaction calldata on Ethereum, they cannot be modified or censored. This ensures the availability and integrity guarantees of Ethereum are inherited by the Optimism network.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922227341_untitled-2023-09-21-1651.png"/>
+</div>
+
+### Block Production
+
+Optimism block production is primarily managed by a single party called the "sequencer." The sequencer provides various services to the network. In Bedrock, the sequencer has a private mempool, similar to Ethereum's L1, to prevent opportunities for MEV (Miner Extractable Value). Blocks are produced every two seconds on OP Mainnet, regardless of whether they are empty or filled with transactions.
+
+Transactions submitted on the Ethereum L1, known as deposits, are included in the appropriate L2 block. Each L2 block is identified by its epoch (the corresponding L1 block) and a serial number within that epoch. The first block of the epoch includes all the deposits that occurred in the corresponding L1 block. If the sequencer tries to ignore a legitimate L1 transaction, it will result in an inconsistent state with the verifiers.
+
+### Block Execution
+
+The execution engine, implemented as the op-geth component, receives blocks using two mechanisms. It can update itself using a peer-to-peer network with other execution engines, similar to how L1 execution clients synchronize the state across the network. The rollup node, implemented as the op-node component, derives the L2 blocks from the L1 blockchain.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### How are L2 blocks stored in the case of Optimism?  
+     
+- [ ]  Using a contract address on the Ethereum blockchain
+- [ ]  On the parent chain's blockchain
+- [x]  Using a non-contract address on the Ethereum blockchain
+- [ ]  On a separate blockchain created by Optimism
+
+
+
+
+
+##### Who primarily manages the block production in Optimism?  
+     
+- [ ]  The parent chain
+- [ ]  The Ethereum network
+- [ ]  The miners
+- [x]  The sequencer
+
+    
+
+
+---
+##  Advantages & Popularity 
+
+### Size and Popularity of Optimism
+
+Currently, Optimism is the second-largest Ethereum layer 2 solution, with a total of $313 million locked into its smart contracts. This information is based on the latest data from Defi Llama. The largest protocol on Optimism is Synthetix, a derivatives liquidity protocol, with a total value locked (TVL) of $125 million. Following closely is Uniswap, a decentralized exchange (DEX), which is the second most popular protocol on the chain. Additionally, there are 35 protocols on Optimism that have at least $1,000 locked into their smart contracts.
+
+### Advantages of Optimism
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922837002_untitled-2023-09-21-1651.png"/>
+</div>
+
+**Scalability:** One of the key advantages of Optimism is its scalability. By operating as a layer 2 solution, it helps to alleviate the congestion and high gas fees that can occur on the Ethereum mainnet. This allows for faster and more cost-effective transactions, making it more accessible for users. 
+
+**Seamless user experience:** Optimism provides a seamless user experience by maintaining compatibility with existing Ethereum applications and infrastructure. Users can continue to interact with their favorite decentralized applications (dApps) and enjoy the benefits of Optimism's improved efficiency.
+
+### Future Outlook
+
+As the Ethereum ecosystem continues to grow, layer 2 solutions like Optimism are becoming increasingly important. They offer a way to scale the network and enhance its capabilities without compromising on security. With its growing popularity and the increasing number of protocols being built on Optimism, it is clear that this layer 2 solution has a promising future. As more users and developers adopt Optimism, we can expect to see even greater innovation and advancements in the Ethereum ecosystem.
+
+    
+
+
+---
+## Design Elements of Optimism
+
+Optimism's design is closely aligned with the Ethereum vision, aiming to create an optimistic future for the Ethereum ecosystem. The design philosophy of Optimism is built on the following pillars:
+
+### Simplicity
+The design philosophy of Optimism revolves around simplicity. The goal is to create a system that is as simple as possible while providing the necessary features. By minimizing the number of moving parts, Optimism gains significant advantages over more complex Layer 2 constructions. This simplicity reduces engineering overhead, allowing the team to focus on developing new features instead of recreating existing ones. It also enhances security by reducing the potential for unintentional bugs and makes the codebase more accessible to external contributors and auditors.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1695922958277_untitled-2023-09-21-1651.png"/>
+</div>
+
+### Pragmatism
+The design process of Optimism is driven by pragmatism. The team acknowledges real-world constraints, the needs of projects built on Optimism, and the problems faced by users. The philosophy prioritizes user and developer needs over theoretical perfection. The development of Optimism is iterative, with continuous feedback from users playing a crucial role in shaping the protocol. This approach has enabled the implementation of features like EVM Equivalence, which were made possible through user input and iterative development.
+
+### Sustainability
+Optimism's design philosophy emphasizes long-term sustainability. The team recognizes that a scalable system is meaningless without a sustainable ecosystem to support it. To ensure long-term sustainability, Optimism's protocol design aligns with the philosophy of simplicity. By keeping the codebase simple, Optimism can build a larger community of contributors who can help maintain the protocol over time. Sustainability is a key consideration in the design process, as shortcuts to scalability are avoided in favor of a robust and enduring system.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### What is the primary goal of Optimism's design philosophy?  
+     
+- [ ]  To create a complex system with many moving parts
+- [ ]  To prioritize theoretical perfection over user and developer needs
+- [x]  To create a simple system with necessary features
+- [ ]  To avoid user input and iterative development
+
+
+
+
+
+##### What is a key consideration in Optimism's design process?  
+     
+- [ ]  Taking shortcuts to scalability
+- [ ]  Increasing the complexity of the system
+- [ ]  Prioritizing theoretical perfection
+- [x]  Sustainability
+
+    
+
+
+---
+## References
+
+https://www.coindesk.com/learn/what-are-layer-2s-and-why-are-they-important/
+
+https://www.coindesk.com/learn/what-is-optimism/
+
+https://community.optimism.io/docs/protocol/2-rollup-protocol/#
+
+https://community.optimism.io/docs/protocol/1-design-philosophy/
+
+
+    
+

@@ -1,0 +1,384 @@
+## OP Node Operators
+
+
+## Overview
+
+### What is a Node?
+
+In a blockchain network like Bitcoin or Ethereum, a node is a device (usually a computer) running software that maintains a copy of the entire blockchain ledger, validates transactions, and participates in network consensus.
+
+### Who are Node Operators?
+
+Node operators are individuals or entities responsible for managing and maintaining the operation of nodes in a blockchain network. Their main role is to validate transactions and add them to the blockchain, which is a decentralized and distributed ledger that records all transactions on the network. By doing so, node operators help ensure the integrity of the network by making sure that all nodes have the same copy of the blockchain.
+
+### Benefits of having Node Operators
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250395388_untitled-2023-09-21-1651.png"/>
+</div>
+
+#### Incentivized Participation
+Node operators receive cryptocurrency rewards for contributing computational power, ensuring active and secure network maintenance.
+
+#### Distributed Power
+Multiple node operators distribute control, enhancing network resilience against failures and attacks by reducing single points of failure.
+
+#### Enhanced Security
+Node operators validate transactions and maintain blockchain consistency, safeguarding the network from fraud and preserving its integrity.
+
+#### Transparency
+Blockchain data is open and accessible to all, enabling verification of transactions and data, fostering trust, and promoting accountability.
+
+#### Innovation
+Open blockchain architecture encourages innovation and development as developers can create applications and services on top of the blockchain. 
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### Who are Node Operators?  
+     
+- [ ]  Individuals who only validate transactions
+- [x]  Individuals or entities who manage and maintain the operation of nodes in a blockchain network
+- [ ]  Individuals who only participate in network consensus
+- [ ]  Individuals who only maintain a copy of the blockchain ledger
+
+
+
+
+
+##### What is one of the benefits of having Node Operators?  
+     
+- [ ]  They receive physical rewards for their work
+- [ ]  They receive recognition from the community
+- [ ]  They receive a salary from the blockchain network
+- [x]  They receive cryptocurrency rewards for contributing computational power
+
+    
+
+
+---
+## How to Deploy an OP Node?
+
+Deploying an OP node involves setting up and configuring different components, including the Rollup Node, Execution Engine, and Legacy Geth. Let's walk you through the process of deploying an `op-node`, step by step:
+
+### Minimum System Requirements
+
+Before deploying an `op-node`, ensure that your system meets the minimum requirements. These requirements may vary depending on the network you are participating in. Make sure you have sufficient disk space available to store the network's data.
+
+### Initialization
+
+The Execution Engine, also known as `op-geth`, requires initialization. The initialization process depends on the network you're deploying. For networks like OP Sepolia, you'll need to download the genesis file and initialize the data directory via geth init. For networks migrated from a legacy network, you'll download a preconfigured data directory and extract it.
+
+### Configuration
+
+`op-geth` accepts standard go-ethereum flags and additional flags specific to Optimism. You'll need to configure the authenticated RPC endpoint, JWT secret file, and other parameters based on your requirements. Consult the documentation for the network you are participating in to get the correct configuration details.
+
+This diagram showcases the deployment of a typical Bedrock:
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250479290_bedrock-deployment.778a2989.png"/>
+</div>
+
+### Rollup Node Configuration
+
+The Rollup Node requires a configuration file called `rollup.json` or "rollup config" to specify network-specific genesis parameters. For official networks like OP Goerli, OP Sepolia, and OP Mainnet, the genesis config is hardcoded in the `op-node` software and can be specified via a `--network flag`. You can also manually specify a path to a rollup config using the `--rollup.config flag`.
+
+### Peer-to-Peer Network
+
+The `op-node` participates in a peer-to-peer network to distribute blocks that have not been submitted to L1 yet. It automatically discovers and connects to peers using a set of bootnodes. You can also manually specify peers to connect to via the `--p2p.static` flag. Make sure to run the node with a static IP address accessible from the public Internet and open the required port on your firewall.
+
+### Legacy Geth (Optional)
+
+For upgraded networks like OP Mainnet or OP Goerli, you'll need to run Legacy Geth to serve historical execution traces. Legacy Geth is our old `l2geth` binary running against a preconfigured data directory. Configure Legacy Geth by following the instructions for using a preconfigured data directory and specify the `USING_OVM=true` environment variable.
+
+### Troubleshooting:
+
+If you encounter any issues during the deployment process, here are some common problems and their solutions:
+
+#### Authentication Error
+Make sure `op-geth` authenticated RPC is enabled and the URL is correct.
+
+#### Permission Denied
+Ensure that the `op-node` has write access to the P2P discovery and peerstore directories.
+
+#### Wrong Chain Error
+Verify that the `op-node` 's L1 URL, rollup config/ `--network` parameter, and L2 URL are correct for the given network.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### What is the minimum system requirement for deploying an OP node?  
+     
+- [ ]  A high-speed internet connection
+- [ ]  A specific operating system
+- [x]  Sufficient disk space to store the network's data
+- [ ]  A specific type of processor
+
+
+
+
+
+##### What is the purpose of the Rollup Node Configuration in deploying an OP node?  
+     
+- [ ]  To specify the type of processor required
+- [x]  To specify network-specific genesis parameters
+- [ ]  To specify the type of operating system required
+- [ ]  To specify the type of internet connection required
+
+    
+
+
+---
+## Building a Node from Source
+
+If you want to build your own node without relying on pre-built images, you can follow these instructions. These instructions are specifically generated for an Ubuntu 20.04 LTS system, but they should work with other systems as well. Building a node allows you to process and store the transaction history of either OP Mainnet or OP Sepolia.
+
+### Hardware Recommendations
+
+Before starting the build process, it is important to consider the hardware requirements. For OP Mainnet, it is recommended to have a 2TB SSD, as the current archive node usage is approximately 1TB. On the other hand, for OP Sepolia, a 256GB SSD is sufficient, as the current full node usage is around 1.6GB and the archive node usage is approximately 5.6GB.
+
+### Software Requirements
+
+<table>
+<thead>
+  <tr>
+    <th>Software</th>
+    <th>Version</th>
+    <th>Installation command(s)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Ubuntu</td>
+    <td>20.04 LTS</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>git, curl, jq, make, and zstd</td>
+    <td>OS default</td>
+    <td>sudo apt update,<br>sudo apt install -y git curl make jq zstd</td>
+  </tr>
+  <tr>
+    <td>Go</td>
+    <td>1.20</td>
+    <td>wget https://go.dev/dl/go1.20.linux-amd64.tar.gz,<br>tar xvzf go1.20.linux-amd64.tar.gz,<br>sudo cp go/bin/go /usr/bin/go,<br>sudo mv go /usr/lib,<br>echo export GOROOT=/usr/lib/go &gt;&gt; ~/.bashrc</td>
+  </tr>
+  <tr>
+    <td>Node</td>
+    <td>18.17.1</td>
+    <td>nvm install 18.17.1,<br>nvm use 18.17.1</td>
+  </tr>
+  <tr>
+    <td>pnpm</td>
+    <td>8.6.12</td>
+    <td>sudo npm install -g pnpm</td>
+  </tr>
+  <tr>
+    <td>Foundry</td>
+    <td>0.2.0</td>
+    <td>curl -L https://foundry.paradigm.xyz | bash,<br>. ~/.bashrc,<br>foundryup</td>
+  </tr>
+</tbody>
+</table>
+
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696250742288_untitled-2023-09-21-1651.png"/>
+</div>
+
+### Building the Optimism Monorepo
+
+1. Navigate to your working directory.
+2. Clone the [Optimism Monorepo](https://github.com/ethereum-optimism/optimism).
+
+`git clone https://github.com/ethereum-optimism/optimism.git`
+
+3. Install required modules.
+
+`cd optimism
+pnpm install`
+
+4. Build the various packages inside of the Optimism Monorepo.
+
+`make op-node
+ pnpm build`
+
+
+### Building an op-geth
+
+To build an op-geth node, you need to follow these steps:
+1. Navigate to your working directory.
+2. Clone [op-geth](https://github.com/ethereum-optimism/op-geth).
+
+`git clone https://github.com/ethereum-optimism/op-geth.git`
+
+3. Build op-geth.
+
+`cd op-geth    
+ make geth`
+
+
+### Building a l2geth
+
+To build a l2geth node, the process is similar but with a few variations:
+1. Navigate to your working directory.
+2. Clone [l2geth](https://github.com/ethereum-optimism/optimism-legacy)
+
+`git clone https://github.com/ethereum-optimism/optimism-legacy.git`
+
+3. Build l2geth
+
+`cd optimism-legacy/l2geth
+ make`
+
+
+    
+
+
+---
+## Running OP Mainnet from Source
+
+By following these steps, you can successfully run OP Mainnet from source:
+
+### Getting the Data Directory
+
+To run OP Mainnet from source, the first step is to download the data directory for `op-geth`. You can find the data directory for the [Bedrock](https://datadirs.optimism.io/mainnet-bedrock.tar.zst) version, which is 303GB in size. It is recommended to use a tool like [aria2](https://aria2.github.io/) to reduce the chance of the data directory being corrupted. Once downloaded, navigate to your op-geth directory and create a new directory called "datadir".
+
+### Setting up `l2geth`
+
+If you want to use the optional `l2geth` archive node, you will need to download the data directory snapshot. This snapshot is much larger, around 2.9TB in size. Again, it is recommended to use a tool like [aria2](https://aria2.github.io/) to download the data directory to reduce the chance of corruption. Once downloaded, navigate to your `l2geth` directory and create a new directory called "datadir".
+
+### Creating a Shared Secret
+
+To establish a connection between `op-geth` and `op-node`, you need to create a shared secret. Navigate to your `op-geth` directory and run the command "openssl rand -hex 32 > jwt.txt" to generate the shared secret.
+
+### Starting the Components
+
+In the root of your working directory, create a new directory called `scripts`. Inside the `scripts` directory, create two new files: "run-l2geth.sh" and "run-op-geth.sh". Insert the necessary code into these files, modifying the paths to the `l2geth` and `op-geth` directories. These scripts will be used to start the `l2geth` and `op-geth` components.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696251043313_untitled-2023-09-21-1651.png"/>
+</div>
+
+### Configuring Archive Nodes
+
+If you are using archive nodes, you will need to point `op-geth` at `l2geth` using the `--rollup.historicalrpc` flag. This flag enables the historical RPC endpoint, which is used to fetch historical execution data from Legacy Geth. Modify the code snippet in the `run-op-geth.sh` file to include the L1 RPC URL and set the L1KIND to the network provider you are using.
+
+### Synchronizing the Data Directory
+
+Before you can use the node, you need to synchronize the data directory. The datadir provided by Optimism is not updated continuously, so synchronization is necessary. During the synchronization process, you will see log messages from `op-node` indicating its progress. This is normal and means that `op-node` is looking for a location in the batch queue. You can expect to see log messages from `op-node` and `op-geth` during the synchronization process.
+
+### Estimating Sync Time
+
+To estimate how long the synchronization will take, you can use the [Foundry](https://book.getfoundry.sh/) script. Navigate to your `scripts` directory and create a new file called `run-estimate.sh`. Run the script to get an estimated sync time based on the number of blocks synchronized in a minute.
+
+### Operations
+
+It is recommended to start `op-geth` first and shut it down last. This will ensure that the web app behaves like any other installed app and can safely interact with other apps and your operating system. Once running, you can find the installed web app in your app lists and pin it to your home screen, start menus, or task bars.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### What is the first step to run OP Mainnet from source?  
+     
+- [ ]  Setting up l2geth
+- [x]  Getting the Data Directory
+- [ ]  Creating a Shared Secret
+- [ ]  Starting the Components
+
+
+
+
+
+##### Why is it necessary to synchronize the data directory?  
+     
+- [ ]  To start op-geth
+- [ ]  To create a shared secret
+- [x]  To keep the data up-to-date
+- [ ]  To fetch historical execution data from Legacy Geth
+
+    
+
+
+---
+## Running OP Testnet from Source
+
+Running OP Testnet from source allows users to set up and initialize their own test network for Optimism's Ethereum Layer 2 solution. The following are the necessary steps to run OP Testnet from source:
+
+### OP Sepolia Initialization
+
+Since OP Sepolia is a non-migrated network, it requires initialization via a genesis file. To initialize the data directory, you'll need to download the genesis JSON and run the following command: `curl -o <path to genesis JSON> -sL <URL to genesis JSON>`. This will set up the necessary files for OP Sepolia.
+
+### Creating a Shared Secret
+
+To create a shared secret between `op-geth` and `op-node`, navigate to your `op-geth` directory and run the command `openssl rand -hex 32 > jwt.txt`. This shared secret will ensure secure communication between the different components of the OP Testnet.
+
+<div align="center">
+  <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/op_node_operators_optimism_university_724/1696251257490_untitled-2023-09-21-1651.png"/>
+</div>
+
+### Starting Different Components
+
+In the root of your working directory, create a new directory called `scripts`. Inside this directory, insert a snippet of code into the run-`op-geth.sh` file and modify the path to the `op-geth` directory. This will start the OP Geth component.
+
+### Estimating Synchronization Time
+
+Before you can use the OP Testnet, you need to synchronize the data directory. The datadir provided by Optimism is not updated continuously, so synchronization is necessary. While the synchronization process is ongoing, you will receive log messages from `op-node`. To estimate how long the synchronization will take, you can use the Foundry script provided. Simply navigate to your scripts directory, create a new file called `run-estimate.sh`, and run the command `./run-estimate.sh` to get an estimate of the synchronization time.
+
+    
+
+
+---
+## Evaluation
+
+
+
+
+
+##### What is the purpose of creating a shared secret in running OP Testnet from source?  
+     
+- [ ]  To initialize the data directory
+- [x]  To ensure secure communication between the different components of the OP Testnet
+- [ ]  To start the OP Geth component
+- [ ]  To estimate the synchronization time
+
+    
+
+
+---
+## References
+
+https://cryptoadventure.com/community/articles/what-are-crypto-node-operators/
+
+https://community.optimism.io/docs/developers/bedrock/node-operator-guide/
+
+https://community.optimism.io/docs/developers/nodes/intro/
+
+https://community.optimism.io/docs/developers/nodes/mainnet/
+
+https://community.optimism.io/docs/developers/nodes/testnet/
+
+
+    
+
