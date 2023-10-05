@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A comprehensive guide to essential tools for Developers",
-  "created": "2023-10-04T16:12:30.416Z",
+  "created": "2023-10-05T10:28:53.367Z",
   "guideType": "onboarding",
   "key": "useful-tools-optimism-university-460",
   "name": "Useful Tools",
@@ -267,7 +267,8 @@
       "uuid": "39dbf33c-1231-4ebc-bfc1-8990797ee5f5"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696435946856_rectangle_106.png",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696501729948_rectangle_106.png",
   "uuid": "useful-tools-optimism-university-460",
-  "version": 1
+  "version": 1,
+  "priority": 50
 }
