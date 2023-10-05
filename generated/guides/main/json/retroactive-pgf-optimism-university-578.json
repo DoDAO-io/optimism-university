@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Everything about Retroactive Public Good Funding",
-  "created": "2023-10-05T10:53:20.105Z",
+  "created": "2023-10-05T10:54:17.194Z",
   "guideType": "onboarding",
   "key": "retroactive-pgf-optimism-university-578",
   "name": "RetroPGF",
@@ -224,5 +224,5 @@
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/retroactive_pgf_optimism_university_578/1696444662518_rectangle_89%20%281%29.png",
   "uuid": "retroactive-pgf-optimism-university-578",
   "version": 1,
-  "priority": 90
+  "priority": 88
 }
