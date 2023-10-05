@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A guide to Optimism; exploring its Layer 2 scaling solution",
-  "created": "2023-10-04T15:50:01.000Z",
+  "created": "2023-10-05T10:25:46.165Z",
   "guideType": "onboarding",
   "key": "optimism-optimism-university-991",
   "name": "What is Optimism?",
@@ -221,7 +221,8 @@
       "uuid": "d09ddcdc-5e79-44f1-8cc6-bd0e7666a672"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1696434594163_rectangle_107.png",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1696501542617_rectangle_107.png",
   "uuid": "optimism-optimism-university-991",
-  "version": 1
+  "version": 1,
+  "priority": 50
 }
