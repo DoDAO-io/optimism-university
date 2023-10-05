@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A comprehensive guide for using Optimism Bridge",
-  "created": "2023-10-04T15:50:29.401Z",
+  "created": "2023-10-05T10:26:13.810Z",
   "guideType": "onboarding",
   "key": "optimism-bridge-optimism-university-283",
   "name": "Optimism Bridge",
@@ -188,7 +188,8 @@
       "uuid": "95e657d2-17b8-4ef9-b29f-298165991750"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1696434626116_rectangle_95.png",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1696501570072_rectangle_95.png",
   "uuid": "optimism-bridge-optimism-university-283",
-  "version": 1
+  "version": 1,
+  "priority": 50
 }
