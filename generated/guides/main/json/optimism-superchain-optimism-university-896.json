@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Unlock the potential of the Optimism Superchain",
-  "created": "2023-10-03T10:01:19.517Z",
+  "created": "2023-10-05T10:56:22.595Z",
   "guideType": "onboarding",
   "key": "optimism-superchain-optimism-university-896",
   "name": "Optimism Superchain",
@@ -223,5 +223,6 @@
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_superchain_optimism_university_896/1696327276885_superchain.png",
   "uuid": "optimism-superchain-optimism-university-896",
-  "version": 1
+  "version": 1,
+  "priority": 97
 }
