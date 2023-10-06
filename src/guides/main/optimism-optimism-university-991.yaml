@@ -1,12 +1,12 @@
 categories: []
 content: A guide to Optimism; exploring its Layer 2 scaling solution
-created: '2023-10-05T10:49:59.514Z'
+created: '2023-10-06T18:20:55.453Z'
 guideType: onboarding
 key: optimism-optimism-university-991
 name: What is Optimism?
 publishStatus: Live
 steps:
-  - content: >-
+  - content: >+
       ### What is Optimism?
 
 
@@ -63,7 +63,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_bridge_optimism_university_283/1695921982727_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/optimism_optimism_university_991/1696616382252_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -89,6 +89,9 @@ steps:
       simplifies block validation and ETH transfers to Layer 1. However, ZK
       rollups may not fully support EVM and may be resource-intensive for low
       on-chain activity applications.
+
+
+
     name: What is Optimism?
     stepItems: []
     uuid: 67ba520b-f9b7-4e5d-ab87-db198a0c7162
