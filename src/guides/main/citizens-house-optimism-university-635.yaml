@@ -1,6 +1,6 @@
 categories: []
 content: Navigating the role of Citizens' House
-created: '2023-10-05T10:52:58.347Z'
+created: '2023-10-09T12:45:11.445Z'
 guideType: onboarding
 key: citizens-house-optimism-university-635
 name: Citizens' House
@@ -26,7 +26,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744433503_untitled-2023-09-26-2024.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1696854820409_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -102,7 +102,7 @@ steps:
           The Citizens' House collaborates with the Token House to make
           decisions regarding the allocation of surplus protocol revenue.
     uuid: dacaa5cf-eb46-449c-b57f-27d15ee6f08a
-  - content: >
+  - content: >-
       ### How to Become a Citizen?
 
 
@@ -138,7 +138,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695744978005_untitled-2023-09-26-2024.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1696854930323_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -187,7 +187,7 @@ steps:
           House is being given a temporary badge that allows the individual to
           vote in RetroPGF rounds.
     uuid: 981a2e0f-160d-42fa-b8c0-eea30cbfb554
-  - content: >-
+  - content: >+
       ### Retroactive Public Goods Funding
 
 
@@ -210,7 +210,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1695747221046_untitled-2023-09-26-2024.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/citizens_house_optimism_university_635/1696855437212_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -281,6 +281,9 @@ steps:
       RetroPGF aims to fund projects that contribute to the growth and success
       of the Optimism ecosystem, creating a rich ecosystem and a better economy
       for all.
+
+
+
     name: RetroPGF
     stepItems: []
     uuid: 452a6580-f745-4e2c-aded-0c9d869c6d82
