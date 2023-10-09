@@ -1,6 +1,6 @@
 categories: []
 content: A comprehensive guide to essential tools for Developers
-created: '2023-10-09T16:10:30.860Z'
+created: '2023-10-09T16:16:28.286Z'
 guideType: onboarding
 key: useful-tools-optimism-university-460
 name: Useful Tools
@@ -29,7 +29,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696866857151_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696868165963_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -256,7 +256,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696867466988_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696868007823_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -471,7 +471,7 @@ steps:
           information available onchain. Pull oracles are only updated when
           information is requested by a contract.
     uuid: b86a3506-4621-48a5-829f-39cbadfb1d4b
-  - content: >-
+  - content: >
       ### Account Abstraction
 
 
@@ -497,8 +497,9 @@ steps:
       ### Tools for Account Abstraction
 
 
+
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696867625404_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/useful_tools_optimism_university_460/1696868051283_untitled-2023-09-21-1651.png"/>
       </div>
 
 
