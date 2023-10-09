@@ -1,6 +1,6 @@
 categories: []
 content: Your go-to guide for AttestationStation
-created: '2023-10-05T10:20:57.504Z'
+created: '2023-10-09T15:41:12.787Z'
 guideType: onboarding
 key: attestationstation-optimism-university-196
 name: AttestationStation
@@ -48,7 +48,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695984058527_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696865728634_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -112,7 +112,7 @@ steps:
           for creating attestations. It is intended to serve as a foundational
           layer for various applications and use cases.
     uuid: 92f53eb0-867e-4598-b807-09641e06a54b
-  - content: >+
+  - content: >-
       ### What is AttestationStation?
 
 
@@ -127,7 +127,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695726951931_untitled-2023-09-26-1601.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696865779540_untitled-2023-09-20-1744.png"/>
       </div>
 
 
@@ -168,7 +168,6 @@ steps:
       proof of personhood solutions like WorldID. This combination helps prevent
       sybil-attacks and provides additional information about a person's
       reputation, which is crucial in governance and other use-cases. 
-
     name: AttestationStation
     stepItems: []
     uuid: 57f9eb66-8157-46bf-a8ed-0813b1a36a34
@@ -252,7 +251,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695647439460_untitled-2023-09-25-1547.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696865878273_untitled-2023-09-21-1651.png"/>
       </div>
 
 
@@ -357,7 +356,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695727252990_untitled-2023-09-26-1601.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696865958423_untitled-2023-09-20-1744.png"/>
       </div>
 
 
@@ -477,7 +476,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1695882682832_untitled-2023-09-28-1116.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/attestationstation_optimism_university_196/1696866053715_untitled-2023-09-20-1744.png"/>
       </div>
 
 
