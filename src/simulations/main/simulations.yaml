@@ -1,1 +1,2 @@
-simulations: []
+simulations:
+  - transfer-tokens-to-optimism-optimism-university.yaml
