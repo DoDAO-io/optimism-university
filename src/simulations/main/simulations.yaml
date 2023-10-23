@@ -1,2 +1,3 @@
 simulations:
   - transfer-tokens-to-optimism-optimism-university.yaml
+  - withdraw-tokens-from-optimism-optimism-university.yaml
