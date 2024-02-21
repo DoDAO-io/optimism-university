@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2023-10-09T12:21:59.962Z'
+created: '2024-02-21T14:46:32.506Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -340,7 +340,7 @@ steps:
           cast in favor of approval relative to the total number of yes and no
           votes. Abstain votes are not included in this calculation.
     uuid: 0ed7dc1e-5bb9-408f-b080-1a1401535ae9
-  - content: >-
+  - content: >+
       ### Seasons & Voting Cycles
 
 
@@ -362,7 +362,7 @@ steps:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/token_house_optimism_university_389/1696854095349_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/token_house_optimism_university_389/1708526776587_untitled-2023-10-24-1553.png"/>
       </div>
 
 
@@ -403,6 +403,9 @@ steps:
       calendar provides all the necessary information. It serves as a valuable
       resource for the community, offering insights into the timing and
       progression of the governance process.
+
+
+
     name: Seasons and Voting Cycles
     stepItems: []
     uuid: 870c64d9-71de-45cb-a8e1-c849e140b3e5
