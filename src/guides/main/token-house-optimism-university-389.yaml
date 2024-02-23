@@ -1,6 +1,6 @@
 categories: []
 content: Concise guide on one of Optimism Collective's Governing Body
-created: '2024-02-23T17:17:09.335Z'
+created: '2024-02-23T17:17:40.427Z'
 guideType: onboarding
 key: token-house-optimism-university-389
 name: Token House
@@ -198,42 +198,139 @@ steps:
 
       <thead>
         <tr>
-          <th>Software</th>
-          <th>Version</th>
-          <th>Installation command(s)</th>
+          <th>Proposal Type</th>
+          <th>Proposing House</th>
+          <th>Description</th>
+          <th>Submission Requirements</th>
+          <th>Vote Duration</th>
+          <th>Quorum</th>
+          <th>Approval Threshold</th>
+          <th>Veto Threshold</th>
+          <th>Veto Rights</th>
         </tr>
       </thead>
 
       <tbody>
         <tr>
-          <td>Ubuntu</td>
-          <td>20.04 LTS</td>
-          <td></td>
+          <td>Governance Fund</td>
+          <td>Token House</td>
+          <td>The Governance Fund may be used to support development of the Collective and/or growth of the ecosystem.</td>
+          <td>Forum + On-Chain Voting</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51%</td>
+          <td>N/A</td>
+          <td>N/A</td>
         </tr>
         <tr>
-          <td>git, curl, jq, make, and zstd</td>
-          <td>OS default</td>
-          <td>sudo apt update,<br>sudo apt install -y git curl make jq zstd</td>
+          <td>Protocol Upgrade</td>
+          <td>Token House</td>
+          <td>Scheduled changes to the on-chain smart contracts comprising the mainnet Optimism protocol. Please reference the <a href="https://github.com/ethereum-optimism/OPerating-manual/blob/main/Framework%20for%20Protocol%20Upgrades.md">Framework for Protocol Upgrades</a> to understand when governance approval is required.</td>
+          <td>Forum + On-Chain Voting</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>76%</td>
+          <td>30%</td>
+          <td>Citizens' House</td>
         </tr>
         <tr>
-          <td>Go</td>
-          <td>1.20</td>
-          <td>wget https://go.dev/dl/go1.20.linux-amd64.tar.gz,<br>tar xvzf go1.20.linux-amd64.tar.gz,<br>sudo cp go/bin/go /usr/bin/go,<br>sudo mv go /usr/lib,<br>echo export GOROOT=/usr/lib/go &gt;&gt; ~/.bashrc</td>
+          <td>Inflation Adjustment</td>
+          <td>Token House</td>
+          <td>Changes to the inflation rate of newly minted OP (currently capped at 2% annually)</td>
+          <td>Forum + On-Chain Voting. Proposals should follow <a href="https://gov.optimism.io/t/inflation-adjustment-proposal-template/5923">this template</a>.</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>76%</td>
+          <td>TBD</td>
+          <td>Citizens' House</td>
         </tr>
         <tr>
-          <td>Node</td>
-          <td>18.17.1</td>
-          <td>nvm install 18.17.1,<br>nvm use 18.17.1</td>
+          <td>Director Removal</td>
+          <td>Token House</td>
+          <td>Removal of a director of the Optimism Foundation</td>
+          <td>Forum + On-Chain Voting</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>76%</td>
+          <td>N/A</td>
+          <td>N/A</td>
         </tr>
         <tr>
-          <td>pnpm</td>
-          <td>8.6.12</td>
-          <td>sudo npm install -g pnpm</td>
+          <td>Treasury Appropriations</td>
+          <td>Token House</td>
+          <td>The amount of OP the Optimism Foundation may spend or distribute annually, beginning in Year 2 of its existence (the Year 1 budget is 30% of the initial total OP supply)</td>
+          <td>Proposals to be initiated by the Foundation</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51%</td>
+          <td>N/A</td>
+          <td>N/A</td>
         </tr>
         <tr>
-          <td>Foundry</td>
-          <td>0.2.0</td>
-          <td>curl -L https://foundry.paradigm.xyz | bash,<br>. ~/.bashrc,<br>foundryup</td>
+          <td>Rights Protections</td>
+          <td>Token House</td>
+          <td>OP holders must consent to any changes to the founding documents of the Optimism Foundation, if those changes would materially reduce their rights</td>
+          <td>Proposals to be initiated by the Foundation</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51%</td>
+          <td>N/A</td>
+          <td>N/A</td>
+        </tr>
+        <tr>
+          <td>Code of Conduct Violation</td>
+          <td>Token House</td>
+          <td>Token House Code of Conduct violations will be processed by the Code of Conduct Council, subject to veto by the Token House.</td>
+          <td>Proposals to be initiated by the Token House Code of Conduct Council outlining any enforcement actions.</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>N/A</td>
+          <td>N/A</td>
+          <td>12%</td>
+          <td>Token House</td>
+        </tr>
+        <tr>
+          <td>Collective Council or Advisory Board Member Removal</td>
+          <td>Token House</td>
+          <td>Collective Council or Advisory Board members may be removed from their position for failing to uphold the responsibilities outlined in the relevant Charter or to act with honesty, integrity, and transparency.</td>
+          <td>Forum + On-Chain Voting.</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51%</td>
+          <td>N/A</td>
+          <td>N/A</td>
+        </tr>
+        <tr>
+          <td>Council Dissolution</td>
+          <td>Token House</td>
+          <td>A persistent Council may be dissolved if it is no longer fulfilling its Charter</td>
+          <td>Forum + On-Chain Voting</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51</td>
+          <td>N/A</td>
+          <td>N/A</td>
+        </tr>
+        <tr>
+          <td>Ratification</td>
+          <td>Token House</td>
+          <td>Ratification of governance documents</td>
+          <td>Proposals to be initiated by the Foundation</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51</td>
+          <td>N/A</td>
+          <td>N/A</td>
+        </tr>
+        <tr>
+          <td>Reflection Period Proposals (including elections)</td>
+          <td>Token House</td>
+          <td>Experiments with new governance structures, programs, and/or processes</td>
+          <td>Proposals to be initiated by the Foundation</td>
+          <td>Two-week review period plus one week voting window</td>
+          <td>30%</td>
+          <td>51</td>
+          <td>N/A</td>
+          <td>N/A</td>
         </tr>
       </tbody>
 
