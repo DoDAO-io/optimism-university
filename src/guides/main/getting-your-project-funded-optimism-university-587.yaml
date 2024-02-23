@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2024-02-21T14:49:50.929Z'
+created: '2024-02-23T13:17:27.959Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -17,144 +17,34 @@ steps:
     stepItems: []
     uuid: af680fcb-92fb-4746-b862-8628f7a0f26b
   - content: >-
-      ### Grants Council
+      Collective Grants are a type of funding that supports specific projects to
+      be completed in the future. These grants are made in OP (Optimism) and are
+      subject to the Collective Grant Policies. There are two main sources of
+      Collective Grants: Mission Grants and Foundation Funds.
 
 
-      The Grants Council, elected by the Token House community, plays a crucial
-      role in providing small to medium-sized grants to support various
-      initiatives. These grants are divided into three categories: Builders,
-      Experiments, and Requests for Grants (RFGs):
+      # Mission Grants
 
 
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855688861_untitled-2023-09-21-1651.png"/>
-      </div>
+      Mission Grants are grants that align with the Collective Intents and are
+      specified initiatives that can be completed within 12 months. Each Mission
+      Request has a bounty of OP attached to it. The Foundation and the Top 100
+      Token House Delegates have the authority to issue Mission Requests. Any
+      team can submit a Mission Application to fulfill a Request. To apply for a
+      Mission Grant, you can find an open Mission Request on the list provided
+      and submit your application via the specified link or directly as a
+      comment on the Github Issue. The Grants Council, with the help of the
+      Developer Advisory Board, evaluates and selects Delegate Mission
+      Applications, while the Optimism Foundation evaluates and selects
+      Foundation Mission Requests.
 
 
-      **Builders grants** aim to maximize the number of builders, including
-      developers and visionaries, who are building innovative applications on
-      Optimism. The Council is particularly interested in projects that align
-      with their mission of advancing the Builders community. When reviewing
-      proposals, the Council looks for information that demonstrates how the
-      project contributes to this mission.
-
-
-      **Experiments grants** are designed to promote the adoption of novel
-      applications and tangible use cases on Optimism. Unlike Builders grants,
-      these grants are intended to reach end users and are not for the use of
-      the proposer. The proposal forms for Experiments grants are specifically
-      designed to gather information on how the project will expand the reach of
-      the Optimism ecosystem and enhance the adoption of useful applications.
-
-
-      **Requests for Grants (RFGs)** represent a transitional moment in the
-      grant process. These grants are based on the needs of the Optimism
-      ecosystem and are issued as requests for teams to submit proposals that
-      address the most pressing problems. The Council specifies the requirements
-      for each request, including how to submit a proposal and how the proposals
-      will be assessed. The RFG process is dynamic and may be updated
-      periodically.
-
-
-      The Grants Council follows a five-week cycle during regular Voting Cycles
-      to process applications. It is important to refer to the [governance
-      calendar](https://calendar.google.com/calendar/u/0?cid=Y19mbm10Z3VoNm5vbzZxZ2JuaTJncGVyaWQ0a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-      for the schedule and deadlines. 
-
-
-
-      The following diagram showcases the procedure to submit a proposal:
-
+      These are the Collective Intents for the 5th Season:
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855766046_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1708694018168_untitled-2023-10-24-1553.png"/>
       </div>
-
-
-
-      ### Token House Missions
-
-
-      The Token House plays a crucial role in the Optimism Collective by voting
-      on approving Missions. These Missions are specific initiatives that align
-      with the Collective Intents and can receive grants. You can propose a
-      Mission under Intent #1, Intent #3, or Intent #4. All proposals under
-      Intent #2 should be grant applications that will be processed by the
-      Grants Council. The Token House votes on these Missions once per Season,
-      which is roughly every four to six months. In Season 4, the Foundation has
-      suggested Intent Budgets to align the community around Collective Intents.
-      Let's explore the different Intents and their proposed budgets:
-
-
-      <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696855863595_untitled-2023-09-21-1651.png"/>
-      </div>
-
-
-
-      One can apply by submitting a [Mission
-      proposal](https://gov.optimism.io/t/proposed-mission-template/5882) on the
-      forum requesting the grant amount that corresponds to their Trust Tier.
-      Mission Proposals will be approval ranked by the Token House every six
-      months. 
-    name: Grants-Token House
-    stepItems: []
-    uuid: 227e1a3b-de02-4ff3-8303-aff357e4d1a9
-  - content: ''
-    name: Evaluation
-    stepItems:
-      - answerKeys:
-          - B
-        choices:
-          - content: To support the proposer's personal projects
-            key: A
-          - content: >-
-              To promote the adoption of novel applications and use cases on
-              Optimism
-            key: B
-          - content: To fund the development of the Token House community
-            key: C
-          - content: To provide financial support to the Grants Council
-            key: D
-        content: What is the purpose of the Experiments grants?
-        type: SingleChoice
-        uuid: bc0d85e2-68af-4f9d-b56a-fe7274a1a393
-        explanation: >-
-          Experiments grants are designed to promote the adoption of novel
-          applications and tangible use cases on Optimism. These grants are
-          intended to reach end users and are not for the use of the proposer.
-      - answerKeys:
-          - D
-        choices:
-          - content: By submitting a proposal to the Grants Council
-            key: A
-          - content: By voting in the Token House community
-            key: B
-          - content: By submitting a request to the Optimism Collective
-            key: C
-          - content: By submitting a Mission proposal on the forum
-            key: D
-        content: What is the process for applying for a Mission grant?
-        type: SingleChoice
-        uuid: 42e01b97-1d0c-4179-9f74-9734c46d6dbb
-        explanation: >-
-          One can apply for a Mission grant by submitting a Mission proposal on
-          the forum requesting the grant amount that corresponds to their Trust
-          Tier. Mission Proposals will be approval ranked by the Token House
-          every six months.
-    uuid: 0dcd3381-8fc1-4cdc-98ac-d4e45c98e9c0
-  - content: >+
-      ### Foundation Missions
-
-      Foundation Missions are projects that the Optimism Foundation wants to
-      undertake to further their goals. These missions are pre-specified by the
-      foundation and are designed to address specific challenges or
-      opportunities. They are supported by the Partner Fund, which means that
-      the funding for these missions comes from external sources and not from
-      the Governance Fund. The foundation carefully selects which proposals will
-      be chosen to complete each mission, ensuring that they align with their
-      vision and objectives.
 
 
       The following are the types of Collective Trust Tiers which are the very
@@ -168,68 +58,24 @@ steps:
       </div>
 
 
-      If you are interested in contributing to a Foundation Mission, you can
-      find an open mission on the list provided by the Optimism Foundation. Each
-      mission will have a specified submission and selection deadline, so make
-      sure to take note of these dates. To apply, you can simply reply as a
-      comment on the [RFP's Github
-      Issue](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+RFP),
-      providing your application and any relevant information. While the Token
-      House, a governing body, does not vote on Foundation Missions, they have
-      visibility into all RFP applications, ensuring transparency and
-      accountability.
 
-
-      ### Partner Fund
-
-
-      The Partner Fund, managed by the Optimism Foundation, is a grants program
-      aimed at providing strategic and larger scale grants to partners who have
-      already achieved product market fit. The primary objective of the Partner
-      Fund is to foster the growth of Optimism's ecosystem for the benefit of
-      the entire Collective.
-
-
-      The Partner Fund primarily focuses on projects that have already
-      demonstrated success in the crypto space and are now looking to deploy and
-      scale on the Optimism platform. These projects can be related to various
-      areas of work, including Defi, NFTs, DAOs, and large scale usage growth
-      for the ecosystem. By supporting these projects, the Partner Fund aims to
-      build a thriving ecosystem for developers and users alike.
-
-
-      The structure of the grants falls under these two categories:
+      # Foundation Funds
 
 
       <div align="center">
-        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1696856139816_untitled-2023-09-21-1651.png"/>
+        <img style="max-height:400px;margin-bottom:30px" src="https://d31h13bdjwgzxs.cloudfront.net/academy/optimism-university/Guide/getting_your_project_funded_optimism_university_587/1708694148865_untitled-2023-10-24-1553.png"/>
       </div>
 
 
-      **User Incentives:** Grants provided by the fund are directly distributed
-      to users of the project on the Optimism ecosystem. This can be in the form
-      of liquidity mining, rewards, or other user incentives. By directly
-      involving the users, the Partner Fund ensures that the grants have a
-      meaningful impact on the growth and adoption of the projects.
-
-
-      **Project Grants:** Projects that receive a grant from the Partner Fund,
-      there is a 1-year token lockup period. This means that the granted tokens
-      cannot be immediately sold or transferred. Instead, they can be used to
-      support the operational costs of the project. This lockup period ensures
-      that the granted tokens are utilized in a way that aligns with the
-      long-term objectives of the Optimism ecosystem.
-
-
-      It's important to note that the Optimism Foundation receives a large
-      number of applications for the Partner Fund and can only support a select
-      few that align with its objectives. Anyone can apply by simply filling out
-      the [form](https://airtable.com/shrvQNlFPHGcVNqDe?prefill_Referrer=OPGov).
-      There are no deadlines, applications are processed on a rolling basis.
-
-
-
-    name: Grants- Optimism Foundation
+      Foundation Funds are another source of Collective Grants. The Foundation
+      may make grants from the Partner or Seed Fund on a case-by-case basis. The
+      Seed Fund is used to support projects or teams that are starting from
+      scratch and are focused on building Optimism. On the other hand, the
+      Partner Fund is used to provide tools to the Optimism community, bring
+      applications to OP Mainnet, promote education, experiment with liquidity
+      mining programs, drive consumer usage, and support Optimism's governance
+      system.
+    name: Collective Grants
     stepItems: []
     uuid: 3f3659bf-9c62-4987-ae19-b099f4da08a0
   - content: ''
@@ -330,16 +176,10 @@ steps:
       Collective.
 
 
-      [Project applications](http://app.optimism.io/retropgf-signup) will be
-      accepted from September 19th to October 23rd 2023. Applicants will
-      typically have to provide detailed information about their projects.
-      Following the project application period, a voting phase will take place.
-      The voting period starts from November 6th to December 7th 2023. Voting
-      badges have been offered to 208 community members. After the voting phase
-      will conclude, the results of the selected projects will be determined.
-      Starting in early January, the process of disbursing tokens or funding to
-      the chosen projects will begin.
-    name: Grants- Citizen House
+      Voting badges were offered to 146 badgeholders. After the voting phase
+      will conclude, the results of the selected projects were determined by
+      January. 
+    name: Retroactive Grants
     stepItems: []
     uuid: aecee0cb-12b1-4877-95e1-c3348740e2d6
   - content: ''
