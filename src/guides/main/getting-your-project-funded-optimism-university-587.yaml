@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2024-02-23T13:19:21.684Z'
+created: '2024-02-23T13:21:18.425Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -105,25 +105,20 @@ steps:
       - answerKeys:
           - C
         choices:
-          - content: To prevent the grant recipients from selling the tokens
+          - content: Mission Funds and Foundation Grants
             key: A
-          - content: To increase the value of the tokens
+          - content: Mission Funds and Foundation Funds
             key: B
-          - content: >-
-              To ensure the granted tokens are utilized in a way that aligns
-              with the long-term objectives of the Optimism ecosystem
+          - content: Mission Grants and Foundation Funds
             key: C
-          - content: To create a scarcity of tokens in the market
+          - content: Mission Grants and Foundation Grants
             key: D
-        content: >-
-          What is the purpose of the 1-year token lockup period for Project
-          Grants from the Partner Fund?
+        content: What are the two main sources of Collective Grants?
         type: SingleChoice
-        uuid: 2efdea7c-2794-4645-9303-ced8461d4ea9
+        uuid: c48728c7-be33-414b-955f-9898f7f17773
         explanation: >-
-          The 1-year token lockup period ensures that the granted tokens are
-          utilized in a way that aligns with the long-term objectives of the
-          Optimism ecosystem.
+          The two main sources of Collective Grants are Mission Grants and
+          Foundation Funds.
     uuid: ac094b70-0c8b-450f-8cbe-901723c45574
   - content: >-
       ### Retroactive Grants (RetroPGF)
