@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A Comprehensive Guide about Optimism Collective",
-  "created": "2024-02-23T17:07:38.370Z",
+  "created": "2024-02-23T17:10:03.128Z",
   "guideType": "onboarding",
   "key": "optimism-collective-optimism-university-778",
   "name": "Optimism Collective",
@@ -83,7 +83,62 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Keeping information and resources private",
+              "key": "A"
+            },
+            {
+              "content": "Transparency, collaboration, and accessibility",
+              "key": "B"
+            },
+            {
+              "content": "Working in isolation",
+              "key": "C"
+            },
+            {
+              "content": "Restricting access to resources",
+              "key": "D"
+            }
+          ],
+          "content": "What does the 'Open Source/Open Access' value of the Optimism Collective emphasize?",
+          "type": "SingleChoice",
+          "uuid": "e5c4c903-9a11-4498-87e2-65a14b841790",
+          "explanation": "This value emphasizes the importance of transparency, collaboration, and accessibility. It is about creating and sharing resources and information in a way that is open to everyone."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Focusing on immediate impact",
+              "key": "A"
+            },
+            {
+              "content": "Ignoring the future consequences of actions",
+              "key": "B"
+            },
+            {
+              "content": "Avoiding accountability",
+              "key": "C"
+            },
+            {
+              "content": "Resilience and lasting significance",
+              "key": "D"
+            }
+          ],
+          "content": "What does the 'Long-Term Thinking' value of the Optimism Collective encourage?",
+          "type": "SingleChoice",
+          "uuid": "a934fdee-e26d-4013-9789-e8058f6c8a2f",
+          "explanation": "This value encourages resilience in pursuing the collective's mission and prioritizes lasting significance over immediate impact."
+        }
+      ],
       "uuid": "4fe8d9db-9e27-482c-99a6-0f55b7520101"
     },
     {
