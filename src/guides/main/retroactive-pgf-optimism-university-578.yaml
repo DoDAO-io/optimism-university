@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2024-02-23T12:43:21.714Z'
+created: '2024-02-23T12:46:41.788Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
@@ -224,7 +224,7 @@ steps:
           <td>Examples of Past Projects Funded</td>
           <td>Ethersjs<br>go-ethereum<br>EthGlobal</td>
           <td>BuidlGuidl<br>Solidity<br>Ethers</td>
-          <td>-</td>
+          <td>Lighthouse<br>Hardhat<br>Vyper</td>
         </tr>
         <tr>
           <td>Badgeholder Selection</td>
