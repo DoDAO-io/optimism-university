@@ -1,6 +1,6 @@
 categories: []
 content: Everything about Retroactive Public Good Funding
-created: '2023-10-09T13:16:44.670Z'
+created: '2024-02-23T12:43:21.714Z'
 guideType: onboarding
 key: retroactive-pgf-optimism-university-578
 name: RetroPGF
@@ -212,13 +212,13 @@ steps:
           <td>No. of Projects Nominated</td>
           <td>76 projects</td>
           <td>195 projects</td>
-          <td>-</td>
+          <td>There were no nominations for projects in this round</td>
         </tr>
         <tr>
           <td>No. of Projects Funded</td>
           <td>58 projects</td>
           <td>195 projects</td>
-          <td>-</td>
+          <td>643 projects</td>
         </tr>
         <tr>
           <td>Examples of Past Projects Funded</td>
@@ -230,25 +230,25 @@ steps:
           <td>Badgeholder Selection</td>
           <td>24 badgeholders, made up of 8 Optimists and 16 Ethereum community members were selected.</td>
           <td>Badgeholders were selected across four different criteria:<br><br>14 badgeholders were selected based on their participation in round one<br><br>21 badgeholders were selected by the Optimism Foundation<br><br>10 badgeholders were elected by Optimism’s Token House<br><br>29 badge holders were nominated by badgeholders from the three categories above.</td>
-          <td>Voting badges will be offered to 208 community members.</td>
+          <td>Voting badges offered to 146 badgeholders.</td>
         </tr>
         <tr>
           <td>Timeline</td>
           <td>Round 1 took place in Q4 of 2021:<br><br>Nominations: Oct 5th - Oct 21st  <br><br>Voting: Oct 24th - Nov 1st</td>
           <td>Round 2 took place in Q1 of 2023: <br><br>Nominations: Jan 17 - Jan 31st<br><br>Project profile creation: Feb 7th - Feb 21st<br><br>Voting: Mar 7th - Mar 21st</td>
-          <td>Round 3 has started in fall of 2023:<br><br>Project Applications: Sept 19th - Oct 23rd<br><br>Voting: Nov 6th - Dec 7th<br><br>Results &amp; Token Disbursement: Starting early January</td>
+          <td>Round 3 has started in fall of 2023:<br><br>Project Applications: Sept 19th - Oct 23rd<br><br>Voting: Nov 6th - Dec 7th<br><br>Results &amp; Token Disbursement: January</td>
         </tr>
         <tr>
           <td>Procedure</td>
           <td>In RetroPGF Round 1, there were 3 steps involved: badgeholder selection, nominations and voting.</td>
           <td>In RetroPGF Round 2, there were 4 steps involved: badgeholder selection, project profile creation,nominations and voting.</td>
-          <td>In RetroPGF Round 3, there will be 3 steps involved: project applications, voting, results/token disbursement.</td>
+          <td>In RetroPGF Round 3, there were 3 steps involved: project applications, voting, results/token disbursement.</td>
         </tr>
         <tr>
           <td>Categories</td>
           <td>Every major Optimism retro winner was a technology project.</td>
           <td>Funding was evenly distributed by badgeholders across three categories: Education, Infrastructure, and Tooling &amp; Utilities.</td>
-          <td>Funding will be evenly distributed across four categories: OP Stack, Collective Governance, Developer Ecosystem &amp; End User Experience &amp; Adoption.</td>
+          <td>Funding was evenly distributed across four categories: OP Stack, Collective Governance, Developer Ecosystem &amp; End User Experience &amp; Adoption.</td>
         </tr>
       </tbody>
       </table>
