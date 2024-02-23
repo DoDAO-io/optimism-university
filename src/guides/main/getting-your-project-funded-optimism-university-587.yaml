@@ -1,6 +1,6 @@
 categories: []
 content: Exploring the different types of collective grants
-created: '2024-02-23T13:21:18.425Z'
+created: '2024-02-23T13:21:41.167Z'
 guideType: onboarding
 key: getting-your-project-funded-optimism-university-587
 name: Getting Your Project Funded
@@ -121,7 +121,7 @@ steps:
           Foundation Funds.
     uuid: ac094b70-0c8b-450f-8cbe-901723c45574
   - content: >-
-      ### Retroactive Grants (RetroPGF)
+      # Retroactive Grants (RetroPGF)
 
 
       Retroactive PGF (RetroPGF) is a program that rewards work that has already
