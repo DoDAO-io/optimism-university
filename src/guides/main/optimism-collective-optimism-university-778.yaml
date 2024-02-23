@@ -1,13 +1,13 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2024-02-23T17:10:03.128Z'
+created: '2024-02-23T17:10:40.956Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
 publishStatus: Live
 steps:
   - content: >-
-      ### What is Optimism Collective?
+      # What is Optimism Collective?
 
 
       The Optimism Collective is a revolutionary concept that aims to reshape
@@ -37,7 +37,7 @@ steps:
       </div>
 
 
-      ### Mechanism of OP Collective
+      # Mechanism of OP Collective
 
 
       By incentivizing the creation of public goods, the Optimism Collective
