@@ -1,6 +1,6 @@
 categories: []
 content: A Comprehensive Guide about Optimism Collective
-created: '2023-10-09T12:14:19.884Z'
+created: '2024-02-23T17:07:38.370Z'
 guideType: onboarding
 key: optimism-collective-optimism-university-778
 name: Optimism Collective
@@ -78,39 +78,111 @@ steps:
       - answerKeys:
           - C
         choices:
-          - content: To create a new digital currency
+          - content: Importance of individual efforts
             key: A
-          - content: To regulate the digital market
+          - content: Importance of secrecy and exclusivity
             key: B
-          - content: To reward positive impact with profit
+          - content: Importance of transparency, collaboration, and accessibility
             key: C
-          - content: To control the digital market
+          - content: Importance of competition and rivalry
             key: D
-        content: What is the primary goal of the Optimism Collective?
+        content: >-
+          What does the value 'Open Source/Open Access' emphasize in the
+          Optimism Collective?
         type: SingleChoice
-        uuid: 220ab9ed-3fd3-4211-ae0a-4277182db6ab
+        uuid: f827ad2e-f6ea-4b10-acd1-a290751e1a43
         explanation: >-
-          The primary goal of the Optimism Collective is to reward positive
-          impact with profit, thereby nurturing the growth of public goods in
-          the digital space.
+          Open Source/Open Access emphasizes the importance of transparency,
+          collaboration, and accessibility. It is about creating and sharing
+          resources and information in a way that is open to everyone.
       - answerKeys:
-          - A
+          - D
         choices:
-          - content: Public goods cannot be profitable
+          - content: Community prosperity diminishes personal growth
             key: A
-          - content: Digital markets are not profitable
+          - content: Individual contributions are not valued
             key: B
-          - content: Public goods do not have an impact
+          - content: Personal growth is independent of community prosperity
             key: C
-          - content: Profitability and public goods cannot coexist
+          - content: >-
+              Prosperity of the community amplifies personal growth, and every
+              individual's contribution is valued and celebrated
             key: D
-        content: What is the misconception that the Optimism Collective aims to dispel?
+        content: >-
+          What does the value 'Community Empowerment' mean in real life in the
+          Optimism Collective?
         type: SingleChoice
-        uuid: 1f848f25-93e2-4751-aa28-ed4b551b7f77
+        uuid: 706078c1-2256-41b9-a000-9c7645bcd5f0
         explanation: >-
-          The Optimism Collective aims to dispel the misconception that public
-          goods cannot be profitable.
+          In real life, this value means that the prosperity of the community
+          amplifies personal growth, and every individual's contribution is
+          valued and celebrated.
     uuid: 8a8fde55-2676-4bfa-a942-cbaa796f3e2c
+  - content: >-
+      These values are essential for creating a sense of unity, cooperation, and
+      shared responsibility within the collective. The following are the values
+      of the Optimism Collective:
+
+
+      # Open Source/Open Access 
+
+
+      This is a value that emphasizes the importance of transparency,
+      collaboration, and accessibility. It is about creating and sharing
+      resources and information in a way that is open to everyone. This value
+      recognizes the strength that comes from collective efforts and the power
+      of shared knowledge. In real life, this value means that every action
+      taken is driven by the belief in the strength of shared resources and
+      intentions.
+
+
+      # Long-Term Thinking 
+
+
+      This is a value that emphasizes the importance of having a vision and
+      being accountable for the impact of actions in the long run. It
+      prioritizes lasting significance over immediate impact and encourages
+      resilience in pursuing the collective's mission. In real life, this value
+      means being courageous in the collective's vision and ensuring that
+      actions are sustainable, with integrity and intellectual honesty.
+
+
+      # In it for the Impact
+
+      This is a value that recognizes the need to reward impact that aligns with
+      the collective's needs, wants, and ethics. It emphasizes the importance of
+      recognizing and valuing actions over mere words. In real life, this value
+      means that the collective's economy is built to reward impact that
+      contributes to the collective good they want to see in the world.
+
+
+      # Iterative Innovation
+
+
+      It is a value that emphasizes the importance of constant motion, learning
+      from mistakes, and adopting new ideas, technologies, and practices. It
+      encourages a culture of experimentation, refinement, and agility in
+      addressing challenges and driving progress. In real life, this value means
+      being open to change, owning missteps, and constantly seeking ways to
+      improve and innovate.
+
+
+      # Community Empowerment 
+
+
+      It is a value that recognizes the importance of proactive initiatives and
+      improvements that elevate the collective as a whole. It is about being the
+      change you want to see and understanding that individual success fuels
+      collective progress. In real life, this value means that the prosperity of
+      the community amplifies personal growth, and every individual's
+      contribution is valued and celebrated.
+    name: Collective's Values
+    stepItems: []
+    uuid: b1e09e38-0b88-4c8f-ac1e-b34794c06d62
+  - content: ''
+    name: Evaluation
+    stepItems: []
+    uuid: 4fe8d9db-9e27-482c-99a6-0f55b7520101
   - content: >-
       The Optimism Collective employs an innovative and adaptable approach to
       governance, continually refining its system to ensure its long-term
